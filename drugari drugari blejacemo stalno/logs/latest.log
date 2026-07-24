@@ -1,93 +1,21 @@
-[03:33:05] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
-[03:33:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[03:33:06] [Worker-Main-10/WARN]: Found loot table element validation problem in {minecraft:entities/shulker@minecraft:loot_table}.pools[2].entries[0]: Missing element double_shulker_shells:entities/shulker of type minecraft:loot_table
-[03:33:06] [Worker-Main-10/WARN]: Found loot table element validation problem in {minecraft:entities/bat@minecraft:loot_table}.pools[2].entries[0]: Missing element bat_membranes:entities/bat of type minecraft:loot_table
-[03:33:06] [Worker-Main-10/WARN]: Found loot table element validation problem in {minecraft:entities/husk@minecraft:loot_table}.pools[2].entries[0]: Missing element husks_drop_sand:entities/husk of type minecraft:loot_table
-[03:33:06] [Worker-Main-10/WARN]: Found loot table element validation problem in {minecraft:entities/player@minecraft:loot_table}.pools[1].entries[0]: Missing element graves:entities/player of type minecraft:loot_table
-[03:33:06] [Worker-Main-10/WARN]: Found loot table element validation problem in {minecraft:entities/villager@minecraft:loot_table}.pools[2].entries[0]: Missing element villager_death:entities/villager of type minecraft:loot_table
-[03:33:06] [ServerMain/INFO]: Loaded 1910 recipes
-[03:33:06] [ServerMain/INFO]: Loaded 1925 advancements
-[03:33:07] [Server thread/INFO]: Starting minecraft server version 26.2
-[03:33:07] [Server thread/INFO]: Loading properties
-[03:33:07] [Server thread/INFO]: Default game type: SURVIVAL
-[03:33:07] [Server thread/INFO]: Generating keypair
-[03:33:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:33:07] [Server thread/INFO]: Preparing level "world"
-[03:33:07] [Server thread/INFO]: Loading 0 persistent chunks...
-[03:33:07] [Server thread/INFO]: Preparing spawn area: 100%
-[03:33:07] [Server thread/INFO]: Time elapsed: 29 ms
-[03:33:07] [Server thread/INFO]: Done (0.300s)! For help, type "help"
-[03:33:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:overworld
-[03:33:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_nether
-[03:33:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_end
-[03:33:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:33:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:33:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:33:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[03:33:15] [User Authenticator #1/INFO]: UUID of player xXxNerdSlayerxXx is 4ccfc04e-e9ae-4cf5-862a-925b985aad1b
-[03:33:17] [Server thread/INFO]: xXxNerdSlayerxXx[/10.73.13.88:58237] logged in with entity id 210 at (98.17769479422464, 64.0, -884.0544934091968)
-[03:33:17] [Server thread/INFO]: xXxNerdSlayerxXx joined the game
-[03:59:24] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=98, y=19, z=-356} BlockPos{x=98, y=19, z=-357}
-[03:59:27] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=100, y=15, z=-355} BlockPos{x=101, y=14, z=-356}
-[03:59:47] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=98, y=14, z=-359} BlockPos{x=98, y=14, z=-358}
-[03:59:47] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=98, y=14, z=-359} BlockPos{x=98, y=14, z=-358}
-[03:59:47] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=98, y=14, z=-359} BlockPos{x=98, y=14, z=-358}
-[03:59:47] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=98, y=14, z=-359} BlockPos{x=98, y=14, z=-358}
-[03:59:47] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=98, y=14, z=-359} BlockPos{x=98, y=14, z=-358}
-[03:59:49] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=98, y=14, z=-359} BlockPos{x=98, y=14, z=-358}
-[03:59:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2141ms or 42 ticks behind
-[04:01:11] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=102, y=11, z=-352} BlockPos{x=102, y=12, z=-353}
-[04:01:11] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=102, y=11, z=-352} BlockPos{x=102, y=12, z=-353}
-[04:01:11] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=102, y=11, z=-352} BlockPos{x=102, y=12, z=-353}
-[04:01:11] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=102, y=11, z=-352} BlockPos{x=102, y=12, z=-353}
-[04:01:11] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=102, y=11, z=-352} BlockPos{x=102, y=12, z=-353}
-[04:01:11] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=102, y=11, z=-352} BlockPos{x=102, y=12, z=-353}
-[04:01:11] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=102, y=11, z=-352} BlockPos{x=102, y=12, z=-353}
-[04:01:33] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=104, y=5, z=-346} BlockPos{x=105, y=5, z=-348}
-[04:01:33] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=104, y=5, z=-346} BlockPos{x=105, y=5, z=-348}
-[04:01:34] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=104, y=5, z=-346} BlockPos{x=105, y=5, z=-348}
-[04:02:27] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=77, y=6, z=-373} BlockPos{x=77, y=5, z=-372}
-[04:02:27] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=77, y=6, z=-373} BlockPos{x=77, y=5, z=-372}
-[04:02:27] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=77, y=6, z=-373} BlockPos{x=77, y=5, z=-372}
-[04:03:10] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=80, y=8, z=-369} BlockPos{x=80, y=7, z=-370}
-[04:03:12] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=83, y=7, z=-364} BlockPos{x=82, y=7, z=-365}
-[04:03:13] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=83, y=7, z=-364} BlockPos{x=82, y=7, z=-365}
-[04:03:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=94, y=5, z=-366} BlockPos{x=93, y=4, z=-365}
-[04:03:34] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=96, y=5, z=-370} BlockPos{x=97, y=5, z=-370}
-[04:03:34] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=96, y=5, z=-370} BlockPos{x=97, y=5, z=-370}
-[04:03:34] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=96, y=5, z=-370} BlockPos{x=97, y=5, z=-370}
-[04:03:35] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=96, y=5, z=-370} BlockPos{x=97, y=5, z=-370}
-[04:03:35] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=96, y=5, z=-370} BlockPos{x=97, y=5, z=-370}
-[04:03:35] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=96, y=5, z=-370} BlockPos{x=97, y=5, z=-370}
-[04:03:35] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=96, y=5, z=-370} BlockPos{x=97, y=5, z=-370}
-[04:03:35] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=96, y=5, z=-370} BlockPos{x=97, y=5, z=-370}
-[04:03:35] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=96, y=5, z=-370} BlockPos{x=97, y=5, z=-370}
-[04:03:35] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=96, y=5, z=-370} BlockPos{x=97, y=5, z=-370}
-[04:03:36] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=96, y=5, z=-370} BlockPos{x=97, y=5, z=-370}
-[04:03:36] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=96, y=5, z=-370} BlockPos{x=97, y=5, z=-370}
-[04:03:36] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=96, y=5, z=-370} BlockPos{x=97, y=5, z=-370}
-[04:03:36] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=96, y=5, z=-370} BlockPos{x=97, y=5, z=-370}
-[04:03:36] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=96, y=5, z=-370} BlockPos{x=97, y=5, z=-370}
-[04:04:19] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=93, y=4, z=-364} BlockPos{x=90, y=9, z=-367}
-[04:04:23] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=86, y=7, z=-362} BlockPos{x=86, y=8, z=-363}
-[04:04:24] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=87, y=8, z=-362} BlockPos{x=86, y=7, z=-362}
-[04:09:10] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=92, y=13, z=-193} BlockPos{x=92, y=13, z=-186}
-[04:14:11] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-66, y=-57, z=-916} BlockPos{x=-66, y=-58, z=-917}
-[04:14:12] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-66, y=-57, z=-916} BlockPos{x=-67, y=-57, z=-915}
-[04:14:12] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-66, y=-57, z=-916} BlockPos{x=-67, y=-57, z=-915}
-[04:16:29] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-70, y=-58, z=-1006} BlockPos{x=-70, y=-57, z=-1007}
-[04:16:29] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-70, y=-58, z=-1006} BlockPos{x=-70, y=-57, z=-1007}
-[04:16:31] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-72, y=-56, z=-1007} BlockPos{x=-72, y=-56, z=-1006}
-[05:00:36] [Server thread/INFO]: xXxNerdSlayerxXx lost connection: Disconnected
-[05:00:36] [Server thread/INFO]: xXxNerdSlayerxXx left the game
-[05:00:57] [Server thread/INFO]: Stopping the server
-[05:00:57] [Server thread/INFO]: Stopping server
-[05:00:57] [Server thread/INFO]: Saving players
-[05:00:57] [Server thread/INFO]: Saving worlds
-[05:00:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:overworld
-[05:00:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_nether
-[05:00:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_end
-[05:00:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:00:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:00:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:00:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:01:24] [User Authenticator #8/INFO]: UUID of player xXxNerdSlayerxXx is 4ccfc04e-e9ae-4cf5-862a-925b985aad1b
+[00:01:28] [Server thread/INFO]: xXxNerdSlayerxXx[/10.73.13.88:55542] logged in with entity id 176170 at (98.71280841386563, 64.0, -883.824098358589)
+[00:01:28] [Server thread/INFO]: xXxNerdSlayerxXx joined the game
+[00:01:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2482ms or 49 ticks behind
+[00:01:37] [Server thread/WARN]: xXxNerdSlayerxXx moved too quickly! -10.044074666368118,-1.02733518685055,-1.0574748650374204
+[00:01:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7022ms or 140 ticks behind
+[00:02:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2450ms or 49 ticks behind
+[00:02:49] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=68, y=62, z=-928}
+[00:22:21] [Server thread/INFO]: xXxNerdSlayerxXx lost connection: Disconnected
+[00:22:21] [Server thread/INFO]: xXxNerdSlayerxXx left the game
+[00:22:52] [Server thread/INFO]: Stopping the server
+[00:22:52] [Server thread/INFO]: Stopping server
+[00:22:52] [Server thread/INFO]: Saving players
+[00:22:52] [Server thread/INFO]: Saving worlds
+[00:22:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:overworld
+[00:22:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_nether
+[00:22:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_end
+[00:22:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:22:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:22:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:22:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
