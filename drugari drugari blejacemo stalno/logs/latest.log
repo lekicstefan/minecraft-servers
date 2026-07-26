@@ -1,116 +1,57 @@
-[11:58:18] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
-[11:58:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[11:58:19] [Worker-Main-6/WARN]: Found loot table element validation problem in {minecraft:entities/shulker@minecraft:loot_table}.pools[2].entries[0]: Missing element double_shulker_shells:entities/shulker of type minecraft:loot_table
-[11:58:19] [Worker-Main-6/WARN]: Found loot table element validation problem in {minecraft:entities/bat@minecraft:loot_table}.pools[2].entries[0]: Missing element bat_membranes:entities/bat of type minecraft:loot_table
-[11:58:19] [Worker-Main-6/WARN]: Found loot table element validation problem in {minecraft:entities/husk@minecraft:loot_table}.pools[2].entries[0]: Missing element husks_drop_sand:entities/husk of type minecraft:loot_table
-[11:58:19] [Worker-Main-6/WARN]: Found loot table element validation problem in {minecraft:entities/player@minecraft:loot_table}.pools[1].entries[0]: Missing element graves:entities/player of type minecraft:loot_table
-[11:58:19] [Worker-Main-6/WARN]: Found loot table element validation problem in {minecraft:entities/villager@minecraft:loot_table}.pools[2].entries[0]: Missing element villager_death:entities/villager of type minecraft:loot_table
-[11:58:19] [ServerMain/INFO]: Loaded 1910 recipes
-[11:58:19] [ServerMain/INFO]: Loaded 1925 advancements
-[11:58:19] [Server thread/INFO]: Starting minecraft server version 26.2
-[11:58:19] [Server thread/INFO]: Loading properties
-[11:58:19] [Server thread/INFO]: Default game type: SURVIVAL
-[11:58:19] [Server thread/INFO]: Generating keypair
-[11:58:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:58:20] [Server thread/INFO]: Preparing level "world"
-[11:58:20] [Server thread/INFO]: Loading 0 persistent chunks...
-[11:58:20] [Server thread/INFO]: Preparing spawn area: 100%
-[11:58:20] [Server thread/INFO]: Time elapsed: 27 ms
-[11:58:20] [Server thread/INFO]: Done (0.306s)! For help, type "help"
-[11:58:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:overworld
-[11:58:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_nether
-[11:58:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_end
-[11:58:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11:58:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:58:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11:58:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[11:59:20] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[12:00:46] [User Authenticator #1/INFO]: UUID of player Difkanio is 4913d171-96b2-49c5-b06f-c78adbf9ee67
-[12:01:00] [Server thread/INFO]: Difkanio[/10.73.13.235:57310] logged in with entity id 25 at (7.5, 72.0, -1.5)
-[12:01:00] [Server thread/INFO]: Difkanio joined the game
-[12:01:03] [User Authenticator #2/INFO]: UUID of player xXxNerdSlayerxXx is 4ccfc04e-e9ae-4cf5-862a-925b985aad1b
-[12:01:04] [Server thread/INFO]: Difkanio has made the advancement [Stone Age]
-[12:01:06] [Server thread/INFO]: xXxNerdSlayerxXx[/10.73.13.88:58013] logged in with entity id 548 at (98.23148519692614, 64.0, -884.1700925640723)
-[12:01:06] [Server thread/INFO]: xXxNerdSlayerxXx joined the game
-[12:01:41] [Server thread/INFO]: [xXxNerdSlayerxXx: Teleported Difkanio to xXxNerdSlayerxXx]
-[12:02:37] [Server thread/INFO]: [xXxNerdSlayerxXx: Made Difkanio a server operator]
-[12:02:39] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Spectator Mode]
-[12:02:51] [Server thread/INFO]: [Difkanio: Set own game mode to Creative Mode]
-[12:02:53] [Server thread/INFO]: [Difkanio: Set own game mode to Spectator Mode]
-[12:08:15] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:08:28] [Server thread/INFO]: [Difkanio: Set own game mode to Adventure Mode]
-[12:08:29] [Server thread/INFO]: [Difkanio: Set own game mode to Spectator Mode]
-[12:09:59] [Server thread/INFO]: [Difkanio: Set own game mode to Survival Mode]
-[12:10:01] [Server thread/INFO]: Difkanio has made the advancement [Cover Me with Diamonds]
-[12:11:12] [Server thread/INFO]: Difkanio has made the advancement [Monster Hunter]
-[12:16:12] [Server thread/INFO]: Difkanio has made the advancement [Enchanter]
-[12:17:59] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=175, y=64, z=-865} BlockPos{x=174, y=64, z=-864}
-[12:23:03] [Server thread/INFO]: Difkanio has made the advancement [Sweet Dreams]
-[12:26:56] [Server thread/INFO]: Difkanio has made the advancement [The Parrots and the Bats]
-[12:28:57] [Server thread/INFO]: Difkanio has made the advancement [Acquire Hardware]
-[12:41:14] [Server thread/WARN]: Oak Boat (vehicle of Difkanio) moved wrongly! 0.2942257132986015
-[12:41:14] [Server thread/WARN]: Oak Boat (vehicle of Difkanio) moved wrongly! 0.6242858376014055
-[12:41:14] [Server thread/WARN]: Oak Boat (vehicle of Difkanio) moved wrongly! 0.4107106511780785
-[12:41:14] [Server thread/WARN]: Oak Boat (vehicle of Difkanio) moved wrongly! 0.9334200247310491
-[12:41:14] [Server thread/WARN]: Oak Boat (vehicle of Difkanio) moved wrongly! 0.8619785726396003
-[12:48:20] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2756, y=79, z=537} BlockPos{x=2755, y=79, z=537}
-[12:48:21] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2756, y=79, z=537} BlockPos{x=2755, y=79, z=537}
-[12:48:21] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2756, y=79, z=537} BlockPos{x=2755, y=79, z=537}
-[12:48:21] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2756, y=79, z=537} BlockPos{x=2755, y=79, z=537}
-[12:48:21] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2756, y=79, z=537} BlockPos{x=2755, y=79, z=537}
-[12:48:21] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2756, y=79, z=537} BlockPos{x=2755, y=79, z=537}
-[12:48:21] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2756, y=79, z=537} BlockPos{x=2755, y=79, z=537}
-[12:48:21] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2756, y=79, z=537} BlockPos{x=2755, y=79, z=537}
-[12:48:21] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2756, y=79, z=537} BlockPos{x=2755, y=79, z=537}
-[12:48:22] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2752, y=82, z=538} BlockPos{x=2752, y=83, z=538}
-[12:48:22] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2752, y=82, z=538} BlockPos{x=2752, y=83, z=538}
-[12:48:22] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2752, y=82, z=538} BlockPos{x=2752, y=83, z=538}
-[12:48:22] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2752, y=82, z=538} BlockPos{x=2752, y=83, z=538}
-[12:48:22] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2752, y=82, z=538} BlockPos{x=2752, y=83, z=538}
-[12:48:22] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2752, y=82, z=538} BlockPos{x=2752, y=83, z=538}
-[12:48:22] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2752, y=82, z=538} BlockPos{x=2752, y=83, z=538}
-[12:48:22] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2752, y=82, z=538} BlockPos{x=2752, y=83, z=538}
-[12:48:22] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2752, y=82, z=538} BlockPos{x=2752, y=83, z=538}
-[12:48:24] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2751, y=83, z=541} BlockPos{x=2751, y=82, z=542}
-[12:48:24] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2751, y=83, z=541} BlockPos{x=2751, y=84, z=541}
-[12:48:25] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2751, y=83, z=541} BlockPos{x=2751, y=84, z=541}
-[12:48:25] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2751, y=83, z=541} BlockPos{x=2751, y=84, z=541}
-[12:48:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2752, y=86, z=543} BlockPos{x=2749, y=86, z=540}
-[12:48:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2752, y=86, z=543} BlockPos{x=2749, y=86, z=540}
-[12:48:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2752, y=86, z=543} BlockPos{x=2749, y=86, z=540}
-[12:48:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2752, y=86, z=543} BlockPos{x=2749, y=86, z=540}
-[12:48:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2752, y=86, z=543} BlockPos{x=2749, y=86, z=540}
-[12:48:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2752, y=86, z=543} BlockPos{x=2749, y=86, z=540}
-[12:48:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2752, y=86, z=543} BlockPos{x=2749, y=86, z=540}
-[12:48:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2752, y=86, z=543} BlockPos{x=2749, y=86, z=540}
-[12:48:27] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2752, y=86, z=543} BlockPos{x=2749, y=86, z=540}
-[12:48:27] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2752, y=86, z=543} BlockPos{x=2749, y=86, z=540}
-[12:48:27] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2752, y=86, z=543} BlockPos{x=2749, y=86, z=540}
-[12:50:17] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2741, y=82, z=536} BlockPos{x=2742, y=82, z=536}
-[12:50:17] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2741, y=82, z=536} BlockPos{x=2742, y=82, z=536}
-[12:50:17] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2741, y=82, z=536} BlockPos{x=2742, y=82, z=536}
-[12:50:52] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2757, y=79, z=546} BlockPos{x=2757, y=79, z=544}
-[12:50:54] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2756, y=80, z=542} BlockPos{x=2755, y=79, z=542}
-[12:51:04] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2751, y=80, z=531} BlockPos{x=2748, y=79, z=532}
-[12:51:04] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2751, y=80, z=531} BlockPos{x=2748, y=79, z=532}
-[12:51:04] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2751, y=80, z=531} BlockPos{x=2748, y=79, z=532}
-[12:51:05] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2752, y=79, z=529} BlockPos{x=2753, y=79, z=528}
-[13:08:37] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=792, y=60, z=-313} BlockPos{x=792, y=59, z=-313}
-[13:08:40] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=792, y=59, z=-312} BlockPos{x=792, y=58, z=-313}
-[13:22:07] [Server thread/INFO]: xXxNerdSlayerxXx has made the advancement [Hot Stuff]
-[13:23:04] [Server thread/INFO]: Difkanio has made the advancement [Hot Stuff]
-[14:01:19] [Server thread/INFO]: Difkanio lost connection: Disconnected
-[14:01:19] [Server thread/INFO]: Difkanio left the game
-[14:01:25] [Server thread/INFO]: xXxNerdSlayerxXx lost connection: Disconnected
-[14:01:25] [Server thread/INFO]: xXxNerdSlayerxXx left the game
-[14:01:43] [Server thread/INFO]: Stopping the server
-[14:01:43] [Server thread/INFO]: Stopping server
-[14:01:43] [Server thread/INFO]: Saving players
-[14:01:43] [Server thread/INFO]: Saving worlds
-[14:01:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:overworld
-[14:01:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_nether
-[14:01:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_end
-[14:01:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:01:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:01:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:01:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:41:14] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
+[21:41:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[21:41:15] [Worker-Main-6/WARN]: Found loot table element validation problem in {minecraft:entities/shulker@minecraft:loot_table}.pools[2].entries[0]: Missing element double_shulker_shells:entities/shulker of type minecraft:loot_table
+[21:41:15] [Worker-Main-6/WARN]: Found loot table element validation problem in {minecraft:entities/bat@minecraft:loot_table}.pools[2].entries[0]: Missing element bat_membranes:entities/bat of type minecraft:loot_table
+[21:41:15] [Worker-Main-6/WARN]: Found loot table element validation problem in {minecraft:entities/husk@minecraft:loot_table}.pools[2].entries[0]: Missing element husks_drop_sand:entities/husk of type minecraft:loot_table
+[21:41:15] [Worker-Main-6/WARN]: Found loot table element validation problem in {minecraft:entities/player@minecraft:loot_table}.pools[1].entries[0]: Missing element graves:entities/player of type minecraft:loot_table
+[21:41:15] [Worker-Main-6/WARN]: Found loot table element validation problem in {minecraft:entities/villager@minecraft:loot_table}.pools[2].entries[0]: Missing element villager_death:entities/villager of type minecraft:loot_table
+[21:41:15] [ServerMain/INFO]: Loaded 1910 recipes
+[21:41:15] [ServerMain/INFO]: Loaded 1925 advancements
+[21:41:16] [Server thread/INFO]: Starting minecraft server version 26.2
+[21:41:16] [Server thread/INFO]: Loading properties
+[21:41:16] [Server thread/INFO]: Default game type: SURVIVAL
+[21:41:16] [Server thread/INFO]: Generating keypair
+[21:41:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:41:16] [Server thread/INFO]: Preparing level "world"
+[21:41:17] [Server thread/INFO]: Loading 0 persistent chunks...
+[21:41:17] [Server thread/INFO]: Preparing spawn area: 100%
+[21:41:17] [Server thread/INFO]: Time elapsed: 326 ms
+[21:41:17] [Server thread/INFO]: Done (1.027s)! For help, type "help"
+[21:41:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:overworld
+[21:41:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_end
+[21:41:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_nether
+[21:41:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:41:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:41:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:41:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:42:18] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:56:53] [User Authenticator #1/INFO]: UUID of player xXxNerdSlayerxXx is 4ccfc04e-e9ae-4cf5-862a-925b985aad1b
+[21:56:56] [Server thread/INFO]: xXxNerdSlayerxXx[/10.73.13.88:50255] logged in with entity id 187 at (98.43751726935302, 64.0, -884.0321573685636)
+[21:56:57] [Server thread/INFO]: xXxNerdSlayerxXx joined the game
+[21:57:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[21:57:53] [User Authenticator #2/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[21:57:54] [Server thread/INFO]: Snjegovan[/10.73.13.35:37874] logged in with entity id 1058 at (97.67404035736025, 63.0, -976.2986671831281)
+[21:57:54] [Server thread/INFO]: Snjegovan joined the game
+[21:58:06] [Server thread/INFO]: [Not Secure] <Snjegovan> bum saka laka
+[21:58:13] [Server thread/INFO]: [Not Secure] <Snjegovan> usao sam da kazem cao
+[21:58:21] [Server thread/INFO]: <xXxNerdSlayerxXx> hajde lola
+[21:58:45] [Server thread/INFO]: [Not Secure] <Snjegovan> bruh
+[21:59:06] [Server thread/INFO]: [Not Secure] <Snjegovan> nmg jbg, necu nista igrati dok sam na moru vjr
+[21:59:21] [Server thread/INFO]: [Not Secure] <Snjegovan> ok odoh sad, papa
+[21:59:23] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[21:59:23] [Server thread/INFO]: Snjegovan left the game
+[22:34:01] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Spectator Mode]
+[22:34:34] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[22:34:57] [Server thread/INFO]: xXxNerdSlayerxXx lost connection: Disconnected
+[22:34:57] [Server thread/INFO]: xXxNerdSlayerxXx left the game
+[22:35:05] [Server thread/INFO]: Stopping the server
+[22:35:05] [Server thread/INFO]: Stopping server
+[22:35:05] [Server thread/INFO]: Saving players
+[22:35:05] [Server thread/INFO]: Saving worlds
+[22:35:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:overworld
+[22:35:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_end
+[22:35:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_nether
+[22:35:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:35:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:35:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:35:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
