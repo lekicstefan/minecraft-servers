@@ -1,212 +1,80 @@
-[14:51:34] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
-[14:51:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[14:51:35] [Worker-Main-10/WARN]: Found loot table element validation problem in {minecraft:entities/shulker@minecraft:loot_table}.pools[2].entries[0]: Missing element double_shulker_shells:entities/shulker of type minecraft:loot_table
-[14:51:35] [Worker-Main-10/WARN]: Found loot table element validation problem in {minecraft:entities/bat@minecraft:loot_table}.pools[2].entries[0]: Missing element bat_membranes:entities/bat of type minecraft:loot_table
-[14:51:35] [Worker-Main-10/WARN]: Found loot table element validation problem in {minecraft:entities/husk@minecraft:loot_table}.pools[2].entries[0]: Missing element husks_drop_sand:entities/husk of type minecraft:loot_table
-[14:51:35] [Worker-Main-10/WARN]: Found loot table element validation problem in {minecraft:entities/player@minecraft:loot_table}.pools[1].entries[0]: Missing element graves:entities/player of type minecraft:loot_table
-[14:51:35] [Worker-Main-10/WARN]: Found loot table element validation problem in {minecraft:entities/villager@minecraft:loot_table}.pools[2].entries[0]: Missing element villager_death:entities/villager of type minecraft:loot_table
-[14:51:35] [ServerMain/INFO]: Loaded 1910 recipes
-[14:51:35] [ServerMain/INFO]: Loaded 1925 advancements
-[14:51:36] [Server thread/INFO]: Starting minecraft server version 26.2
-[14:51:36] [Server thread/INFO]: Loading properties
-[14:51:36] [Server thread/INFO]: Default game type: SURVIVAL
-[14:51:36] [Server thread/INFO]: Generating keypair
-[14:51:36] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:51:36] [Server thread/INFO]: Preparing level "world"
-[14:51:36] [Server thread/INFO]: Loading 0 persistent chunks...
-[14:51:36] [Server thread/INFO]: Preparing spawn area: 100%
-[14:51:36] [Server thread/INFO]: Time elapsed: 43 ms
-[14:51:36] [Server thread/INFO]: Done (0.327s)! For help, type "help"
-[14:51:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:overworld
-[14:51:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_end
-[14:51:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_nether
-[14:51:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:51:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:51:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:51:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[14:52:36] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[14:54:41] [User Authenticator #1/INFO]: UUID of player xXxNerdSlayerxXx is 4ccfc04e-e9ae-4cf5-862a-925b985aad1b
-[14:54:44] [Server thread/INFO]: xXxNerdSlayerxXx[/10.73.13.88:53642] logged in with entity id 165 at (98.44661645815115, 64.0, -884.1765602741618)
-[14:54:44] [Server thread/INFO]: xXxNerdSlayerxXx joined the game
-[15:00:51] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Spectator Mode]
-[15:01:53] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[15:02:25] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Spectator Mode]
-[15:02:39] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[15:03:28] [Server thread/INFO]: [xXxNerdSlayerxXx: Set minecraft:overworld to time marker minecraft:day]
-[15:06:05] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Spectator Mode]
-[15:07:10] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[15:12:56] [Server thread/INFO]: [xXxNerdSlayerxXx: Set minecraft:overworld to time marker minecraft:day]
-[15:14:57] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Spectator Mode]
-[15:16:25] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[15:17:04] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Spectator Mode]
-[15:17:11] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[15:17:17] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=17, y=73, z=-885} BlockPos{x=16, y=73, z=-886}
-[15:21:01] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Spectator Mode]
-[15:21:12] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[15:21:26] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Spectator Mode]
-[15:21:49] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[15:21:58] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Spectator Mode]
-[15:22:03] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[15:22:20] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Spectator Mode]
-[15:22:27] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[15:22:36] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Spectator Mode]
-[15:22:46] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[15:22:48] [Server thread/INFO]: [xXxNerdSlayerxXx: Set minecraft:overworld to time marker minecraft:day]
-[15:22:58] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Spectator Mode]
-[15:23:13] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Adventure Mode]
-[15:23:15] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Spectator Mode]
-[15:23:23] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Adventure Mode]
-[15:23:32] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[15:23:34] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Adventure Mode]
-[15:23:37] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[15:23:38] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[15:23:47] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[15:23:50] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[15:23:55] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[15:23:59] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[15:24:36] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Adventure Mode]
-[15:24:38] [Server thread/INFO]: xXxNerdSlayerxXx lost connection: Disconnected
-[15:24:38] [Server thread/INFO]: xXxNerdSlayerxXx left the game
-[15:25:38] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[15:48:13] [User Authenticator #2/INFO]: UUID of player xXxNerdSlayerxXx is 4ccfc04e-e9ae-4cf5-862a-925b985aad1b
-[15:48:15] [Server thread/INFO]: xXxNerdSlayerxXx[/10.73.13.88:54132] logged in with entity id 12749 at (13.753921607493677, 72.0, -899.8600506770343)
-[15:48:15] [Server thread/INFO]: xXxNerdSlayerxXx joined the game
-[15:48:32] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[15:49:08] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Adventure Mode]
-[15:49:15] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[15:49:16] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[15:52:34] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[15:52:42] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[15:54:43] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[15:54:59] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[15:55:41] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[15:55:53] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[15:56:22] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[15:56:35] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[15:56:44] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[15:56:53] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[15:56:58] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[15:57:13] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[15:57:17] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[15:57:22] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[15:57:26] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[15:57:33] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[15:59:20] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[15:59:38] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[15:59:42] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[15:59:50] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:00:00] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:00:07] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:00:13] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:00:36] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:01:01] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:01:36] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:02:54] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:03:16] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:06:53] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:08:33] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:10:36] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:10:49] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:10:53] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:10:59] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:11:02] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:11:08] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:11:10] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:11:17] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:11:26] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:11:36] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:12:15] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:12:47] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:13:07] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:13:28] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:15:12] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:15:53] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:15:57] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:16:02] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:16:11] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:16:17] [Server thread/INFO]: [xXxNerdSlayerxXx: Set minecraft:overworld to time marker minecraft:day]
-[16:16:22] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:16:32] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:16:36] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:16:41] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:18:02] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:18:04] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:18:11] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:18:40] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:19:13] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:20:46] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:20:55] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:20:58] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:21:05] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:21:06] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:21:25] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:21:33] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:21:41] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:21:52] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:21:58] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:22:02] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:22:08] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:22:15] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:22:23] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:22:34] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:22:44] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:22:50] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:23:02] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:23:09] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:23:17] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:23:19] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:23:26] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:23:28] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:23:42] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:23:43] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:23:50] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:23:53] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:24:09] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:24:17] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:24:23] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:24:31] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:24:40] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:24:50] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:25:25] [Server thread/INFO]: [xXxNerdSlayerxXx: Set minecraft:overworld to time marker minecraft:day]
-[16:25:46] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:25:50] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:26:16] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:27:30] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:29:29] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:30:15] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:30:36] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:30:49] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:30:54] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:33:08] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:33:29] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:38:01] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:38:11] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:40:17] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:40:29] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:41:55] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:42:10] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:43:26] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:43:45] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:44:12] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:44:48] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:45:53] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:46:23] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:48:33] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:48:49] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:49:05] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:49:09] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:52:24] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[16:53:16] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[16:53:26] [Server thread/INFO]: xXxNerdSlayerxXx lost connection: Disconnected
-[16:53:26] [Server thread/INFO]: xXxNerdSlayerxXx left the game
-[16:53:35] [Server thread/INFO]: Stopping the server
-[16:53:35] [Server thread/INFO]: Stopping server
-[16:53:36] [Server thread/INFO]: Saving players
-[16:53:36] [Server thread/INFO]: Saving worlds
-[16:53:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:overworld
-[16:53:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_end
-[16:53:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_nether
-[16:53:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:53:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:53:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:53:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:38:11] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
+[13:38:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[13:38:13] [Worker-Main-13/WARN]: Found loot table element validation problem in {minecraft:entities/shulker@minecraft:loot_table}.pools[2].entries[0]: Missing element double_shulker_shells:entities/shulker of type minecraft:loot_table
+[13:38:13] [Worker-Main-13/WARN]: Found loot table element validation problem in {minecraft:entities/bat@minecraft:loot_table}.pools[2].entries[0]: Missing element bat_membranes:entities/bat of type minecraft:loot_table
+[13:38:13] [Worker-Main-13/WARN]: Found loot table element validation problem in {minecraft:entities/husk@minecraft:loot_table}.pools[2].entries[0]: Missing element husks_drop_sand:entities/husk of type minecraft:loot_table
+[13:38:13] [Worker-Main-13/WARN]: Found loot table element validation problem in {minecraft:entities/player@minecraft:loot_table}.pools[1].entries[0]: Missing element graves:entities/player of type minecraft:loot_table
+[13:38:13] [Worker-Main-13/WARN]: Found loot table element validation problem in {minecraft:entities/villager@minecraft:loot_table}.pools[2].entries[0]: Missing element villager_death:entities/villager of type minecraft:loot_table
+[13:38:13] [ServerMain/INFO]: Loaded 1910 recipes
+[13:38:13] [ServerMain/INFO]: Loaded 1925 advancements
+[13:38:13] [Server thread/INFO]: Starting minecraft server version 26.2
+[13:38:13] [Server thread/INFO]: Loading properties
+[13:38:13] [Server thread/INFO]: Default game type: SURVIVAL
+[13:38:13] [Server thread/INFO]: Generating keypair
+[13:38:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:38:14] [Server thread/INFO]: Preparing level "world"
+[13:38:14] [Server thread/INFO]: Loading 0 persistent chunks...
+[13:38:14] [Server thread/INFO]: Preparing spawn area: 100%
+[13:38:14] [Server thread/INFO]: Time elapsed: 13 ms
+[13:38:14] [Server thread/INFO]: Done (0.350s)! For help, type "help"
+[13:38:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:overworld
+[13:38:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_end
+[13:38:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_nether
+[13:38:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:38:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:38:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:38:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:39:14] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[13:40:19] [User Authenticator #1/INFO]: UUID of player xXxNerdSlayerxXx is 4ccfc04e-e9ae-4cf5-862a-925b985aad1b
+[13:40:22] [Server thread/INFO]: xXxNerdSlayerxXx[/10.73.13.88:56544] logged in with entity id 110 at (70.65258345701734, 64.0, -908.8735708183099)
+[13:40:22] [Server thread/INFO]: xXxNerdSlayerxXx joined the game
+[13:40:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[13:42:14] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[13:42:43] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[13:42:49] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[13:44:05] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[13:44:47] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=28, y=63, z=-815} BlockPos{x=28, y=63, z=-816}
+[13:44:47] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=28, y=63, z=-815} BlockPos{x=28, y=63, z=-816}
+[13:44:48] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=28, y=63, z=-815} BlockPos{x=28, y=63, z=-816}
+[13:47:38] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[13:47:52] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[13:48:01] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[13:48:14] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[13:49:33] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[13:49:53] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[13:50:26] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[13:52:50] [Server thread/INFO]: [xXxNerdSlayerxXx: Set minecraft:overworld to time marker minecraft:day]
+[13:56:31] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[13:56:54] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[13:58:12] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[13:58:20] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[14:02:27] [Server thread/INFO]: [xXxNerdSlayerxXx: Set minecraft:overworld to time marker minecraft:day]
+[14:03:50] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[14:05:13] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[14:06:12] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[14:06:51] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[14:07:11] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[14:10:30] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[14:11:08] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[14:11:21] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[14:11:26] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Adventure Mode]
+[14:11:29] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[14:11:33] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Adventure Mode]
+[14:11:35] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[14:11:37] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[14:11:44] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[14:11:49] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[14:12:40] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[14:13:18] [Server thread/INFO]: xXxNerdSlayerxXx lost connection: Disconnected
+[14:13:18] [Server thread/INFO]: xXxNerdSlayerxXx left the game
+[14:13:28] [Server thread/INFO]: Stopping the server
+[14:13:28] [Server thread/INFO]: Stopping server
+[14:13:28] [Server thread/INFO]: Saving players
+[14:13:28] [Server thread/INFO]: Saving worlds
+[14:13:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:overworld
+[14:13:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_end
+[14:13:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_nether
+[14:13:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:13:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:13:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:13:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
