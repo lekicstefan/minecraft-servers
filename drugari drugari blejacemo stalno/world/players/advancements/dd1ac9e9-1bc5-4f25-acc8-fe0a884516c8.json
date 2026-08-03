@@ -8,29 +8,31 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2026-07-19 21:31:58 +0200",
-      "minecraft:flower_forest": "2026-07-19 22:22:25 +0200",
       "minecraft:snowy_slopes": "2026-08-02 11:25:59 +0200",
-      "minecraft:beach": "2026-07-19 21:31:15 +0200",
-      "minecraft:dark_forest": "2026-08-01 15:08:30 +0200",
       "minecraft:forest": "2026-07-19 20:35:47 +0200",
       "minecraft:taiga": "2026-07-22 16:55:34 +0200",
-      "minecraft:mangrove_swamp": "2026-08-02 14:52:31 +0200",
-      "minecraft:sparse_jungle": "2026-07-22 09:51:21 +0200",
       "minecraft:deep_ocean": "2026-07-19 21:35:05 +0200",
-      "minecraft:river": "2026-07-19 21:40:15 +0200",
-      "minecraft:lukewarm_ocean": "2026-07-22 19:20:35 +0200",
-      "minecraft:stony_shore": "2026-07-22 19:20:29 +0200",
       "minecraft:deep_cold_ocean": "2026-08-02 11:20:03 +0200",
       "minecraft:desert": "2026-08-02 14:52:30 +0200",
       "minecraft:ocean": "2026-07-19 21:31:52 +0200",
       "minecraft:jungle": "2026-07-22 19:39:53 +0200",
-      "minecraft:meadow": "2026-07-22 09:48:51 +0200",
       "minecraft:birch_forest": "2026-08-01 15:07:32 +0200",
-      "minecraft:savanna": "2026-07-22 09:50:41 +0200",
       "minecraft:bamboo_jungle": "2026-07-22 09:54:02 +0200",
-      "minecraft:plains": "2026-07-19 21:39:54 +0200",
+      "minecraft:windswept_savanna": "2026-08-03 16:04:57 +0200",
       "minecraft:warm_ocean": "2026-08-02 14:51:32 +0200",
-      "minecraft:deep_lukewarm_ocean": "2026-07-22 19:10:12 +0200"
+      "minecraft:deep_lukewarm_ocean": "2026-07-22 19:10:12 +0200",
+      "minecraft:flower_forest": "2026-07-19 22:22:25 +0200",
+      "minecraft:beach": "2026-07-19 21:31:15 +0200",
+      "minecraft:dark_forest": "2026-08-01 15:08:30 +0200",
+      "minecraft:mangrove_swamp": "2026-08-02 14:52:31 +0200",
+      "minecraft:sparse_jungle": "2026-07-22 09:51:21 +0200",
+      "minecraft:river": "2026-07-19 21:40:15 +0200",
+      "minecraft:lukewarm_ocean": "2026-07-22 19:20:35 +0200",
+      "minecraft:stony_shore": "2026-07-22 19:20:29 +0200",
+      "minecraft:old_growth_birch_forest": "2026-08-03 16:07:53 +0200",
+      "minecraft:meadow": "2026-07-22 09:48:51 +0200",
+      "minecraft:savanna": "2026-07-22 09:50:41 +0200",
+      "minecraft:plains": "2026-07-19 21:39:54 +0200"
     },
     "done": false
   },
@@ -5900,6 +5902,54 @@
   "mini_blocks:recipes/bubble_coral": {
     "criteria": {
       "has_item": "2026-08-02 15:17:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2026-08-03 15:28:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2026-08-03 15:28:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2026-08-03 15:28:08 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/dark_prismarine": {
+    "criteria": {
+      "has_item": "2026-08-03 15:28:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2026-08-03 15:28:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2026-08-03 17:42:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2026-08-03 17:42:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2026-08-03 17:42:50 +0200"
     },
     "done": true
   },

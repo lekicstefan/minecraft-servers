@@ -1,174 +1,65 @@
-[10:03:42] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
-[10:03:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[10:03:43] [Worker-Main-2/WARN]: Found loot table element validation problem in {minecraft:entities/shulker@minecraft:loot_table}.pools[2].entries[0]: Missing element double_shulker_shells:entities/shulker of type minecraft:loot_table
-[10:03:43] [Worker-Main-2/WARN]: Found loot table element validation problem in {minecraft:entities/bat@minecraft:loot_table}.pools[2].entries[0]: Missing element bat_membranes:entities/bat of type minecraft:loot_table
-[10:03:43] [Worker-Main-2/WARN]: Found loot table element validation problem in {minecraft:entities/husk@minecraft:loot_table}.pools[2].entries[0]: Missing element husks_drop_sand:entities/husk of type minecraft:loot_table
-[10:03:43] [Worker-Main-2/WARN]: Found loot table element validation problem in {minecraft:entities/player@minecraft:loot_table}.pools[1].entries[0]: Missing element graves:entities/player of type minecraft:loot_table
-[10:03:43] [Worker-Main-2/WARN]: Found loot table element validation problem in {minecraft:entities/villager@minecraft:loot_table}.pools[2].entries[0]: Missing element villager_death:entities/villager of type minecraft:loot_table
-[10:03:44] [ServerMain/INFO]: Loaded 1910 recipes
-[10:03:44] [ServerMain/INFO]: Loaded 1925 advancements
-[10:03:44] [Server thread/INFO]: Starting minecraft server version 26.2
-[10:03:44] [Server thread/INFO]: Loading properties
-[10:03:44] [Server thread/INFO]: Default game type: SURVIVAL
-[10:03:44] [Server thread/INFO]: Generating keypair
-[10:03:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:03:44] [Server thread/INFO]: Preparing level "world"
-[10:03:44] [Server thread/INFO]: Loading 0 persistent chunks...
-[10:03:44] [Server thread/INFO]: Preparing spawn area: 100%
-[10:03:44] [Server thread/INFO]: Time elapsed: 11 ms
-[10:03:44] [Server thread/INFO]: Done (0.215s)! For help, type "help"
-[10:03:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:overworld
-[10:03:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_end
-[10:03:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_nether
-[10:03:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10:03:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:03:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:03:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[10:03:51] [User Authenticator #1/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[10:03:52] [Server thread/INFO]: Snjegovan[/10.73.13.35:57214] logged in with entity id 79 at (-35.66212996264795, 54.0, -1017.5251064444935)
-[10:03:52] [Server thread/INFO]: Snjegovan joined the game
-[10:04:12] [Server thread/INFO]: Snjegovan lost connection: Disconnected
-[10:04:12] [Server thread/INFO]: Snjegovan left the game
-[10:05:12] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[10:08:00] [User Authenticator #2/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[10:08:01] [Server thread/INFO]: Snjegovan[/10.73.13.35:38484] logged in with entity id 1205 at (-23.780115342358737, 54.0, -1031.3705948139898)
-[10:08:01] [Server thread/INFO]: Snjegovan joined the game
-[10:23:53] [Server thread/INFO]: Snjegovan lost connection: Disconnected
-[10:23:53] [Server thread/INFO]: Snjegovan left the game
-[10:24:53] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[11:15:11] [User Authenticator #3/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[11:15:12] [Server thread/INFO]: Snjegovan[/10.73.13.35:34946] logged in with entity id 5909 at (-24.532725736750333, 54.0, -1033.432830491268)
-[11:15:12] [Server thread/INFO]: Snjegovan joined the game
-[11:28:30] [Server thread/INFO]: Snjegovan has made the advancement [Best Friends Forever]
-[11:44:24] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=8, y=66, z=-1026} BlockPos{x=21, y=67, z=-1037}
-[11:44:24] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=8, y=66, z=-1026} BlockPos{x=21, y=67, z=-1037}
-[12:07:02] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=70, y=63, z=-1001} BlockPos{x=72, y=63, z=-1000}
-[12:07:02] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=70, y=63, z=-1001} BlockPos{x=72, y=63, z=-1000}
-[12:07:02] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=70, y=63, z=-1001} BlockPos{x=72, y=63, z=-1000}
-[12:33:34] [Server thread/INFO]: Snjegovan lost connection: Disconnected
-[12:33:34] [Server thread/INFO]: Snjegovan left the game
-[12:34:34] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[12:38:01] [User Authenticator #4/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[12:38:02] [Server thread/INFO]: Snjegovan[/10.73.13.35:43392] logged in with entity id 50159 at (-331.65681674594265, 63.085764312744146, -980.9869267728495)
-[12:38:02] [Server thread/INFO]: Snjegovan joined the game
-[13:16:30] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-331.1875, 216.8421995639801, -982.6630216240883) too far away from hit block BlockPos{x=-333, y=216, z=-983}.
-[13:16:30] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-331.1875, 216.8421995639801, -982.6630216240883) too far away from hit block BlockPos{x=-333, y=216, z=-983}.
-[13:16:30] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-331.1875, 216.8421995639801, -982.6630216240883) too far away from hit block BlockPos{x=-333, y=216, z=-983}.
-[13:16:30] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-331.1875, 216.8421995639801, -982.6630216240883) too far away from hit block BlockPos{x=-333, y=216, z=-983}.
-[13:16:30] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-331.1875, 216.8421995639801, -982.6630216240883) too far away from hit block BlockPos{x=-333, y=216, z=-983}.
-[13:16:30] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-331.1875, 216.8421995639801, -982.6630216240883) too far away from hit block BlockPos{x=-333, y=216, z=-983}.
-[13:16:30] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-331.1875, 216.8421995639801, -982.6630216240883) too far away from hit block BlockPos{x=-333, y=216, z=-983}.
-[13:16:30] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-331.1875, 216.8421995639801, -982.6630216240883) too far away from hit block BlockPos{x=-333, y=216, z=-983}.
-[13:16:30] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-331.1875, 216.8421995639801, -982.6630216240883) too far away from hit block BlockPos{x=-333, y=216, z=-983}.
-[13:16:30] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-331.1875, 216.8421995639801, -982.6630216240883) too far away from hit block BlockPos{x=-333, y=216, z=-983}.
-[13:17:26] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-325.5045520365238, 219.8125, -980.1090965270996) too far away from hit block BlockPos{x=-326, y=218, z=-981}.
-[13:28:00] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-341.59438240528107, 222.62000000476837, -986.8125) too far away from hit block BlockPos{x=-342, y=222, z=-986}.
-[14:57:59] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2669, y=83, z=766} BlockPos{x=2669, y=83, z=765}
-[14:57:59] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2669, y=83, z=766} BlockPos{x=2669, y=83, z=765}
-[14:58:00] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2669, y=83, z=766} BlockPos{x=2669, y=83, z=765}
-[14:58:00] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2669, y=83, z=766} BlockPos{x=2669, y=83, z=765}
-[14:58:00] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2669, y=83, z=766} BlockPos{x=2669, y=83, z=765}
-[14:58:12] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2669, y=85, z=775} BlockPos{x=2668, y=84, z=775}
-[14:58:12] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2669, y=85, z=775} BlockPos{x=2668, y=84, z=775}
-[14:58:12] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2669, y=85, z=775} BlockPos{x=2668, y=84, z=775}
-[14:58:12] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2669, y=85, z=775} BlockPos{x=2668, y=84, z=775}
-[14:59:33] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2657, y=84, z=769} BlockPos{x=2657, y=83, z=769}
-[14:59:33] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2657, y=84, z=769} BlockPos{x=2657, y=83, z=769}
-[14:59:33] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2657, y=84, z=769} BlockPos{x=2657, y=83, z=769}
-[14:59:33] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2657, y=84, z=769} BlockPos{x=2657, y=83, z=769}
-[14:59:33] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2657, y=84, z=769} BlockPos{x=2657, y=83, z=769}
-[14:59:34] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2657, y=84, z=769} BlockPos{x=2657, y=83, z=769}
-[14:59:34] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2657, y=84, z=769} BlockPos{x=2657, y=83, z=769}
-[14:59:34] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2657, y=84, z=769} BlockPos{x=2657, y=83, z=769}
-[14:59:47] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2660, y=84, z=779} BlockPos{x=2660, y=84, z=778}
-[14:59:47] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2660, y=84, z=779} BlockPos{x=2660, y=84, z=778}
-[15:00:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2644, y=84, z=796} BlockPos{x=2645, y=84, z=795}
-[15:00:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2644, y=84, z=796} BlockPos{x=2645, y=84, z=795}
-[15:00:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2644, y=84, z=796} BlockPos{x=2645, y=84, z=795}
-[15:00:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2644, y=84, z=796} BlockPos{x=2645, y=84, z=795}
-[15:00:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2644, y=84, z=796} BlockPos{x=2645, y=84, z=795}
-[15:00:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2644, y=84, z=796} BlockPos{x=2645, y=84, z=795}
-[15:00:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2644, y=84, z=796} BlockPos{x=2645, y=84, z=795}
-[15:00:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2644, y=84, z=796} BlockPos{x=2645, y=84, z=795}
-[15:00:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2644, y=84, z=796} BlockPos{x=2645, y=84, z=795}
-[15:00:27] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2644, y=84, z=796} BlockPos{x=2645, y=84, z=795}
-[15:00:27] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2644, y=84, z=796} BlockPos{x=2645, y=84, z=795}
-[15:00:56] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2637, y=84, z=791} BlockPos{x=2638, y=83, z=791}
-[15:00:56] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2637, y=84, z=791} BlockPos{x=2638, y=83, z=791}
-[15:00:56] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2637, y=84, z=791} BlockPos{x=2638, y=83, z=791}
-[15:00:56] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2637, y=84, z=791} BlockPos{x=2638, y=83, z=791}
-[15:00:56] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2637, y=84, z=791} BlockPos{x=2638, y=83, z=791}
-[15:00:56] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2637, y=84, z=791} BlockPos{x=2638, y=83, z=791}
-[15:00:56] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2637, y=84, z=791} BlockPos{x=2638, y=83, z=791}
-[15:00:56] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2637, y=84, z=791} BlockPos{x=2638, y=83, z=791}
-[15:00:57] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2637, y=84, z=791} BlockPos{x=2638, y=83, z=791}
-[15:00:57] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2637, y=84, z=791} BlockPos{x=2638, y=83, z=791}
-[15:00:57] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2637, y=84, z=791} BlockPos{x=2638, y=83, z=791}
-[15:00:57] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2637, y=84, z=791} BlockPos{x=2638, y=83, z=791}
-[15:00:57] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2637, y=84, z=791} BlockPos{x=2638, y=83, z=791}
-[15:00:57] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2637, y=84, z=791} BlockPos{x=2638, y=83, z=791}
-[15:00:57] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2637, y=84, z=791} BlockPos{x=2638, y=83, z=791}
-[15:00:57] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2637, y=84, z=791} BlockPos{x=2638, y=83, z=791}
-[15:03:42] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2638, y=82, z=781} BlockPos{x=2638, y=82, z=780}
-[15:03:42] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2638, y=82, z=781} BlockPos{x=2638, y=82, z=780}
-[15:03:42] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2638, y=82, z=781} BlockPos{x=2638, y=82, z=780}
-[15:03:42] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2638, y=82, z=781} BlockPos{x=2638, y=82, z=780}
-[15:05:16] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2642, y=82, z=798} BlockPos{x=2641, y=82, z=798}
-[15:05:16] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2642, y=82, z=798} BlockPos{x=2641, y=82, z=798}
-[15:05:16] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2642, y=82, z=798} BlockPos{x=2641, y=82, z=798}
-[15:05:16] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2642, y=82, z=798} BlockPos{x=2641, y=82, z=798}
-[15:05:16] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2642, y=82, z=798} BlockPos{x=2641, y=82, z=798}
-[15:09:44] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2611, y=84, z=815} BlockPos{x=2610, y=84, z=813}
-[15:09:44] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2611, y=84, z=815} BlockPos{x=2610, y=84, z=813}
-[15:09:44] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2611, y=84, z=815} BlockPos{x=2610, y=84, z=813}
-[15:09:44] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2611, y=84, z=815} BlockPos{x=2610, y=84, z=813}
-[15:09:44] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2611, y=84, z=815} BlockPos{x=2610, y=84, z=813}
-[15:09:44] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2611, y=84, z=815} BlockPos{x=2610, y=84, z=813}
-[15:09:44] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2611, y=84, z=815} BlockPos{x=2610, y=84, z=813}
-[15:13:28] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2640, y=82, z=805} BlockPos{x=2641, y=82, z=804}
-[15:13:28] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2640, y=82, z=805} BlockPos{x=2641, y=82, z=804}
-[15:13:28] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2640, y=82, z=805} BlockPos{x=2641, y=82, z=804}
-[15:13:28] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2640, y=82, z=805} BlockPos{x=2641, y=82, z=804}
-[15:13:28] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2640, y=82, z=805} BlockPos{x=2641, y=82, z=804}
-[15:13:28] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2640, y=82, z=805} BlockPos{x=2641, y=82, z=804}
-[15:13:28] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2640, y=82, z=805} BlockPos{x=2641, y=82, z=804}
-[15:13:28] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=2640, y=82, z=805} BlockPos{x=2641, y=82, z=804}
-[15:23:13] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-19, y=51, z=-1030} BlockPos{x=-19, y=52, z=-1030}
-[15:23:13] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-19, y=51, z=-1030} BlockPos{x=-19, y=52, z=-1030}
-[15:23:13] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-19, y=51, z=-1030} BlockPos{x=-19, y=52, z=-1030}
-[15:23:50] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-32, y=32, z=-1020} BlockPos{x=-32, y=33, z=-1020}
-[15:23:54] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-32, y=28, z=-1017} BlockPos{x=-31, y=26, z=-1017}
-[15:24:02] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-28, y=24, z=-1013} BlockPos{x=-28, y=22, z=-1012}
-[15:24:32] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-36, y=39, z=-1018} BlockPos{x=-36, y=37, z=-1018}
-[15:43:37] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=184, y=76, z=-1448} BlockPos{x=184, y=76, z=-1449}
-[15:43:37] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=184, y=76, z=-1448} BlockPos{x=184, y=76, z=-1449}
-[15:43:37] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=184, y=76, z=-1448} BlockPos{x=184, y=76, z=-1449}
-[15:43:37] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=184, y=76, z=-1448} BlockPos{x=184, y=76, z=-1449}
-[15:43:37] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=184, y=76, z=-1448} BlockPos{x=184, y=76, z=-1449}
-[15:43:37] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=184, y=76, z=-1448} BlockPos{x=184, y=76, z=-1449}
-[15:43:37] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=184, y=76, z=-1448} BlockPos{x=184, y=76, z=-1449}
-[15:43:37] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=184, y=76, z=-1448} BlockPos{x=184, y=76, z=-1449}
-[15:43:37] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=184, y=76, z=-1448} BlockPos{x=184, y=76, z=-1449}
-[15:43:37] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=184, y=76, z=-1448} BlockPos{x=184, y=76, z=-1449}
-[15:43:37] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=184, y=76, z=-1448} BlockPos{x=184, y=76, z=-1449}
-[15:47:38] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=184, y=73, z=-1458} BlockPos{x=178, y=75, z=-1464}
-[15:48:42] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=187, y=74, z=-1451} BlockPos{x=186, y=74, z=-1450}
-[15:48:42] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=187, y=74, z=-1451} BlockPos{x=186, y=74, z=-1450}
-[15:48:42] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=187, y=74, z=-1451} BlockPos{x=186, y=74, z=-1450}
-[16:29:45] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-29, y=47, z=-1040} BlockPos{x=-29, y=46, z=-1040}
-[16:50:46] [Server thread/INFO]: Snjegovan lost connection: Disconnected
-[16:50:46] [Server thread/INFO]: Snjegovan left the game
-[16:51:46] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[17:02:14] [User Authenticator #5/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[17:02:14] [Server thread/INFO]: Snjegovan[/10.73.13.35:59046] logged in with entity id 124236 at (-25.181988538169577, 54.0, -1033.2745405276576)
-[17:02:14] [Server thread/INFO]: Snjegovan joined the game
-[17:39:35] [Server thread/INFO]: Snjegovan lost connection: Disconnected
-[17:39:35] [Server thread/INFO]: Snjegovan left the game
-[17:40:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[18:15:49] [User Authenticator #6/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[18:15:50] [Server thread/INFO]: Snjegovan[/10.73.13.35:33428] logged in with entity id 139254 at (-37.71983163085279, 46.0, -1030.8546572375296)
-[18:15:50] [Server thread/INFO]: Snjegovan joined the game
-[19:24:33] [Server thread/INFO]: Snjegovan lost connection: Disconnected
-[19:24:33] [Server thread/INFO]: Snjegovan left the game
-[19:25:33] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[19:27:00] [Server thread/INFO]: Stopping server
+[13:57:55] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
+[13:57:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[13:57:56] [Worker-Main-8/WARN]: Found loot table element validation problem in {minecraft:entities/shulker@minecraft:loot_table}.pools[2].entries[0]: Missing element double_shulker_shells:entities/shulker of type minecraft:loot_table
+[13:57:56] [Worker-Main-8/WARN]: Found loot table element validation problem in {minecraft:entities/bat@minecraft:loot_table}.pools[2].entries[0]: Missing element bat_membranes:entities/bat of type minecraft:loot_table
+[13:57:56] [Worker-Main-8/WARN]: Found loot table element validation problem in {minecraft:entities/husk@minecraft:loot_table}.pools[2].entries[0]: Missing element husks_drop_sand:entities/husk of type minecraft:loot_table
+[13:57:56] [Worker-Main-8/WARN]: Found loot table element validation problem in {minecraft:entities/player@minecraft:loot_table}.pools[1].entries[0]: Missing element graves:entities/player of type minecraft:loot_table
+[13:57:56] [Worker-Main-8/WARN]: Found loot table element validation problem in {minecraft:entities/villager@minecraft:loot_table}.pools[2].entries[0]: Missing element villager_death:entities/villager of type minecraft:loot_table
+[13:57:56] [ServerMain/INFO]: Loaded 1910 recipes
+[13:57:56] [ServerMain/INFO]: Loaded 1925 advancements
+[13:57:56] [Server thread/INFO]: Starting minecraft server version 26.2
+[13:57:56] [Server thread/INFO]: Loading properties
+[13:57:56] [Server thread/INFO]: Default game type: SURVIVAL
+[13:57:56] [Server thread/INFO]: Generating keypair
+[13:57:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:57:57] [Server thread/INFO]: Preparing level "world"
+[13:57:57] [Server thread/INFO]: Loading 0 persistent chunks...
+[13:57:57] [Server thread/INFO]: Preparing spawn area: 100%
+[13:57:57] [Server thread/INFO]: Time elapsed: 12 ms
+[13:57:57] [Server thread/INFO]: Done (0.234s)! For help, type "help"
+[13:57:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:overworld
+[13:57:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_end
+[13:57:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_nether
+[13:57:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:57:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:57:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:57:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:58:08] [User Authenticator #1/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[13:58:10] [Server thread/INFO]: Snjegovan[/10.73.13.35:48460] logged in with entity id 80 at (71.49876903234295, 61.0, -1015.3000000119209)
+[13:58:10] [Server thread/INFO]: Snjegovan joined the game
+[14:52:13] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[14:52:13] [Server thread/INFO]: Snjegovan left the game
+[14:52:15] [User Authenticator #2/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[14:52:15] [Server thread/INFO]: Snjegovan[/10.73.13.35:59324] logged in with entity id 19460 at (-26.737540119836, 47.0, -1033.0608033942342)
+[14:52:15] [Server thread/INFO]: Snjegovan joined the game
+[14:53:25] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[14:53:25] [Server thread/INFO]: Snjegovan left the game
+[14:54:01] [User Authenticator #3/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[14:54:02] [Server thread/INFO]: Snjegovan[/10.73.13.35:33212] logged in with entity id 20679 at (-22.240252116047944, 47.0, -1033.4915579112874)
+[14:54:02] [Server thread/INFO]: Snjegovan joined the game
+[16:37:44] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[16:37:44] [Server thread/INFO]: Snjegovan left the game
+[16:38:44] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:38:49] [User Authenticator #4/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[16:38:50] [Server thread/INFO]: Snjegovan[/10.73.13.35:34482] logged in with entity id 78929 at (-36.571270213342295, 54.0, -1021.494203283037)
+[16:38:50] [Server thread/INFO]: Snjegovan joined the game
+[17:37:08] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[17:37:08] [Server thread/INFO]: Snjegovan left the game
+[17:38:08] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:39:23] [User Authenticator #5/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[17:39:24] [Server thread/INFO]: Snjegovan[/10.73.13.35:36774] logged in with entity id 87947 at (-26.37422569536014, 54.0, -1032.2604340171576)
+[17:39:24] [Server thread/INFO]: Snjegovan joined the game
+[18:03:57] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[18:03:57] [Server thread/INFO]: Snjegovan left the game
+[18:04:57] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:12:30] [User Authenticator #6/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[18:12:31] [Server thread/INFO]: Snjegovan[/10.73.13.35:41010] logged in with entity id 97703 at (-26.2273534523078, 54.0, -1034.263620502277)
+[18:12:31] [Server thread/INFO]: Snjegovan joined the game
+[18:29:45] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[18:29:46] [Server thread/INFO]: Snjegovan left the game
+[18:30:45] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:06:50] [User Authenticator #7/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[19:06:50] [Server thread/INFO]: Snjegovan[/10.73.13.35:46266] logged in with entity id 104323 at (-32.32613315017826, 54.0, -1021.8348489406718)
+[19:06:50] [Server thread/INFO]: Snjegovan joined the game
+[19:45:52] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[19:45:52] [Server thread/INFO]: Snjegovan left the game
