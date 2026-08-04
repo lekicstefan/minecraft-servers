@@ -5953,5 +5953,179 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2026-08-04 17:09:40 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/cartography_table": {
+    "criteria": {
+      "has_item": "2026-08-04 17:34:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_chest_from_honeycomb": {
+    "criteria": {
+      "has_copper_chest": "2026-08-04 19:26:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/copper_chest": {
+    "criteria": {
+      "has_the_recipe": "2026-08-04 19:26:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2026-08-04 19:41:40 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/mud": {
+    "criteria": {
+      "has_item": "2026-08-04 19:41:40 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/tube_coral": {
+    "criteria": {
+      "has_item": "2026-08-04 19:50:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2026-08-04 19:50:30 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/horn_coral": {
+    "criteria": {
+      "has_item": "2026-08-04 19:50:51 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/fire_coral": {
+    "criteria": {
+      "has_item": "2026-08-04 19:51:20 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/brain_coral": {
+    "criteria": {
+      "has_item": "2026-08-04 19:54:30 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/observer": {
+    "criteria": {
+      "has_item": "2026-08-04 20:20:12 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/slime_block": {
+    "criteria": {
+      "has_item": "2026-08-04 21:33:41 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/sticky_piston": {
+    "criteria": {
+      "has_item": "2026-08-04 21:33:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2026-08-04 22:53:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2026-08-04 22:40:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2026-08-04 22:40:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-08-04 22:40:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_shelf": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2026-08-04 22:53:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wolf_armor_dyed": {
+    "criteria": {
+      "has_wolf_armor": "2026-08-04 22:15:51 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/jungle_planks": {
+    "criteria": {
+      "has_item": "2026-08-04 22:40:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-08-04 22:40:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2026-08-04 22:40:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2026-08-04 22:40:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2026-08-04 22:40:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_log": "2026-08-04 22:53:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-08-04 22:40:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2026-08-04 21:33:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2026-08-04 22:40:24 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 4903
 }

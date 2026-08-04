@@ -1,65 +1,49 @@
-[13:57:55] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
-[13:57:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[13:57:56] [Worker-Main-8/WARN]: Found loot table element validation problem in {minecraft:entities/shulker@minecraft:loot_table}.pools[2].entries[0]: Missing element double_shulker_shells:entities/shulker of type minecraft:loot_table
-[13:57:56] [Worker-Main-8/WARN]: Found loot table element validation problem in {minecraft:entities/bat@minecraft:loot_table}.pools[2].entries[0]: Missing element bat_membranes:entities/bat of type minecraft:loot_table
-[13:57:56] [Worker-Main-8/WARN]: Found loot table element validation problem in {minecraft:entities/husk@minecraft:loot_table}.pools[2].entries[0]: Missing element husks_drop_sand:entities/husk of type minecraft:loot_table
-[13:57:56] [Worker-Main-8/WARN]: Found loot table element validation problem in {minecraft:entities/player@minecraft:loot_table}.pools[1].entries[0]: Missing element graves:entities/player of type minecraft:loot_table
-[13:57:56] [Worker-Main-8/WARN]: Found loot table element validation problem in {minecraft:entities/villager@minecraft:loot_table}.pools[2].entries[0]: Missing element villager_death:entities/villager of type minecraft:loot_table
-[13:57:56] [ServerMain/INFO]: Loaded 1910 recipes
-[13:57:56] [ServerMain/INFO]: Loaded 1925 advancements
-[13:57:56] [Server thread/INFO]: Starting minecraft server version 26.2
-[13:57:56] [Server thread/INFO]: Loading properties
-[13:57:56] [Server thread/INFO]: Default game type: SURVIVAL
-[13:57:56] [Server thread/INFO]: Generating keypair
-[13:57:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:57:57] [Server thread/INFO]: Preparing level "world"
-[13:57:57] [Server thread/INFO]: Loading 0 persistent chunks...
-[13:57:57] [Server thread/INFO]: Preparing spawn area: 100%
-[13:57:57] [Server thread/INFO]: Time elapsed: 12 ms
-[13:57:57] [Server thread/INFO]: Done (0.234s)! For help, type "help"
-[13:57:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:overworld
-[13:57:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_end
-[13:57:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_nether
-[13:57:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:57:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:57:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:57:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[13:58:08] [User Authenticator #1/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[13:58:10] [Server thread/INFO]: Snjegovan[/10.73.13.35:48460] logged in with entity id 80 at (71.49876903234295, 61.0, -1015.3000000119209)
-[13:58:10] [Server thread/INFO]: Snjegovan joined the game
-[14:52:13] [Server thread/INFO]: Snjegovan lost connection: Disconnected
-[14:52:13] [Server thread/INFO]: Snjegovan left the game
-[14:52:15] [User Authenticator #2/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[14:52:15] [Server thread/INFO]: Snjegovan[/10.73.13.35:59324] logged in with entity id 19460 at (-26.737540119836, 47.0, -1033.0608033942342)
-[14:52:15] [Server thread/INFO]: Snjegovan joined the game
-[14:53:25] [Server thread/INFO]: Snjegovan lost connection: Disconnected
-[14:53:25] [Server thread/INFO]: Snjegovan left the game
-[14:54:01] [User Authenticator #3/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[14:54:02] [Server thread/INFO]: Snjegovan[/10.73.13.35:33212] logged in with entity id 20679 at (-22.240252116047944, 47.0, -1033.4915579112874)
-[14:54:02] [Server thread/INFO]: Snjegovan joined the game
-[16:37:44] [Server thread/INFO]: Snjegovan lost connection: Disconnected
-[16:37:44] [Server thread/INFO]: Snjegovan left the game
-[16:38:44] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[16:38:49] [User Authenticator #4/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[16:38:50] [Server thread/INFO]: Snjegovan[/10.73.13.35:34482] logged in with entity id 78929 at (-36.571270213342295, 54.0, -1021.494203283037)
-[16:38:50] [Server thread/INFO]: Snjegovan joined the game
-[17:37:08] [Server thread/INFO]: Snjegovan lost connection: Disconnected
-[17:37:08] [Server thread/INFO]: Snjegovan left the game
-[17:38:08] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[17:39:23] [User Authenticator #5/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[17:39:24] [Server thread/INFO]: Snjegovan[/10.73.13.35:36774] logged in with entity id 87947 at (-26.37422569536014, 54.0, -1032.2604340171576)
-[17:39:24] [Server thread/INFO]: Snjegovan joined the game
-[18:03:57] [Server thread/INFO]: Snjegovan lost connection: Disconnected
-[18:03:57] [Server thread/INFO]: Snjegovan left the game
-[18:04:57] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[18:12:30] [User Authenticator #6/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[18:12:31] [Server thread/INFO]: Snjegovan[/10.73.13.35:41010] logged in with entity id 97703 at (-26.2273534523078, 54.0, -1034.263620502277)
-[18:12:31] [Server thread/INFO]: Snjegovan joined the game
-[18:29:45] [Server thread/INFO]: Snjegovan lost connection: Disconnected
-[18:29:46] [Server thread/INFO]: Snjegovan left the game
-[18:30:45] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[19:06:50] [User Authenticator #7/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[19:06:50] [Server thread/INFO]: Snjegovan[/10.73.13.35:46266] logged in with entity id 104323 at (-32.32613315017826, 54.0, -1021.8348489406718)
-[19:06:50] [Server thread/INFO]: Snjegovan joined the game
-[19:45:52] [Server thread/INFO]: Snjegovan lost connection: Disconnected
-[19:45:52] [Server thread/INFO]: Snjegovan left the game
+[16:49:53] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
+[16:49:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[16:49:54] [Worker-Main-4/WARN]: Found loot table element validation problem in {minecraft:entities/shulker@minecraft:loot_table}.pools[2].entries[0]: Missing element double_shulker_shells:entities/shulker of type minecraft:loot_table
+[16:49:54] [Worker-Main-4/WARN]: Found loot table element validation problem in {minecraft:entities/bat@minecraft:loot_table}.pools[2].entries[0]: Missing element bat_membranes:entities/bat of type minecraft:loot_table
+[16:49:54] [Worker-Main-4/WARN]: Found loot table element validation problem in {minecraft:entities/husk@minecraft:loot_table}.pools[2].entries[0]: Missing element husks_drop_sand:entities/husk of type minecraft:loot_table
+[16:49:54] [Worker-Main-4/WARN]: Found loot table element validation problem in {minecraft:entities/player@minecraft:loot_table}.pools[1].entries[0]: Missing element graves:entities/player of type minecraft:loot_table
+[16:49:54] [Worker-Main-4/WARN]: Found loot table element validation problem in {minecraft:entities/villager@minecraft:loot_table}.pools[2].entries[0]: Missing element villager_death:entities/villager of type minecraft:loot_table
+[16:49:54] [ServerMain/INFO]: Loaded 1910 recipes
+[16:49:54] [ServerMain/INFO]: Loaded 1925 advancements
+[16:49:54] [Server thread/INFO]: Starting minecraft server version 26.2
+[16:49:54] [Server thread/INFO]: Loading properties
+[16:49:54] [Server thread/INFO]: Default game type: SURVIVAL
+[16:49:54] [Server thread/INFO]: Generating keypair
+[16:49:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:49:55] [Server thread/INFO]: Preparing level "world"
+[16:49:55] [Server thread/INFO]: Loading 0 persistent chunks...
+[16:49:55] [Server thread/INFO]: Preparing spawn area: 100%
+[16:49:55] [Server thread/INFO]: Time elapsed: 13 ms
+[16:49:55] [Server thread/INFO]: Done (0.276s)! For help, type "help"
+[16:49:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:overworld
+[16:49:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_nether
+[16:49:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_end
+[16:49:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:49:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:49:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:49:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:50:10] [User Authenticator #1/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[16:50:11] [Server thread/INFO]: Snjegovan[/10.73.13.35:43240] logged in with entity id 70 at (-25.651298048020582, 54.0, -1030.400779380413)
+[16:50:11] [Server thread/INFO]: Snjegovan joined the game
+[17:34:47] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[17:34:47] [Server thread/INFO]: Snjegovan left the game
+[17:35:47] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:19:42] [User Authenticator #2/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[19:19:43] [Server thread/INFO]: Snjegovan[/10.73.13.35:42380] logged in with entity id 15344 at (-26.625021417623817, 54.0, -1020.2480422183434)
+[19:19:43] [Server thread/INFO]: Snjegovan joined the game
+[20:32:32] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-44, y=46, z=-1042} BlockPos{x=-43, y=45, z=-1042}
+[20:32:32] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-44, y=46, z=-1042} BlockPos{x=-43, y=45, z=-1042}
+[21:04:22] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[21:04:22] [Server thread/INFO]: Snjegovan left the game
+[21:05:22] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:24:42] [Server thread/INFO]: Snjegovan (/10.73.13.35:34154) lost connection: Disconnected
+[21:24:46] [Server thread/INFO]: Snjegovan (/10.73.13.35:54024) lost connection: Disconnected
+[21:24:50] [Server thread/INFO]: Snjegovan (/10.73.13.35:54034) lost connection: Disconnected
+[21:25:01] [User Authenticator #3/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[21:25:02] [Server thread/INFO]: Snjegovan[/10.73.13.35:44172] logged in with entity id 59155 at (-25.120478711685458, 54.0, -1029.4092805437965)
+[21:25:02] [Server thread/INFO]: Snjegovan joined the game
+[23:00:40] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[23:00:40] [Server thread/INFO]: Snjegovan left the game
+[23:01:40] [Server thread/INFO]: Server empty for 60 seconds, pausing
