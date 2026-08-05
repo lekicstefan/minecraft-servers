@@ -6025,21 +6025,27 @@
     },
     "done": true
   },
-  "mini_blocks:recipes/slime_block": {
-    "criteria": {
-      "has_item": "2026-08-04 21:33:41 +0200"
-    },
-    "done": true
-  },
   "mini_blocks:recipes/sticky_piston": {
     "criteria": {
       "has_item": "2026-08-04 21:33:22 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+  "mini_blocks:recipes/slime_block": {
     "criteria": {
-      "has_log": "2026-08-04 22:53:08 +0200"
+      "has_item": "2026-08-04 21:33:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2026-08-04 21:33:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wolf_armor_dyed": {
+    "criteria": {
+      "has_wolf_armor": "2026-08-04 22:15:51 +0200"
     },
     "done": true
   },
@@ -6058,18 +6064,6 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2026-08-04 22:40:24 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_shelf": {
-    "criteria": {
-      "has_stripped_dark_oak_log": "2026-08-04 22:53:08 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wolf_armor_dyed": {
-    "criteria": {
-      "has_wolf_armor": "2026-08-04 22:15:51 +0200"
     },
     "done": true
   },
@@ -6103,27 +6097,159 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_log": "2026-08-04 22:53:08 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2026-08-04 22:40:24 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/misc/slime_ball": {
-    "criteria": {
-      "has_slime_block": "2026-08-04 21:33:41 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2026-08-04 22:40:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2026-08-04 22:53:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_shelf": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2026-08-04 22:53:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_log": "2026-08-04 22:53:08 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/shroomlight": {
+    "criteria": {
+      "has_item": "2026-08-05 21:21:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2026-08-05 21:27:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2026-08-05 21:27:29 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/crimson_stem": {
+    "criteria": {
+      "has_item": "2026-08-05 21:27:29 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/glowstone": {
+    "criteria": {
+      "has_item": "2026-08-05 21:30:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2026-08-05 21:30:16 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/nether_wart_block": {
+    "criteria": {
+      "has_item": "2026-08-05 21:30:35 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/crimson_nylium": {
+    "criteria": {
+      "has_item": "2026-08-05 21:30:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2026-08-05 21:33:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2026-08-05 21:33:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2026-08-05 21:33:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-08-05 21:33:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2026-08-05 21:33:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2026-08-05 21:33:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-08-05 21:33:49 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/crimson_planks": {
+    "criteria": {
+      "has_item": "2026-08-05 21:33:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2026-08-05 21:33:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-08-05 21:33:49 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/calcite": {
+    "criteria": {
+      "has_item": "2026-08-05 21:39:47 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/amethyst_block": {
+    "criteria": {
+      "has_item": "2026-08-05 21:39:48 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/chiseled_bookshelf": {
+    "criteria": {
+      "has_item": "2026-08-05 22:23:39 +0200"
     },
     "done": true
   },
