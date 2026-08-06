@@ -2568,9 +2568,10 @@
   },
   "universal_dyeing:recipes/building_blocks/universal_dyeing/candle": {
     "criteria": {
-      "has_dye": "2026-07-20 20:04:12 +0200"
+      "has_dye": "2026-07-20 20:04:12 +0200",
+      "has_block": "2026-08-06 13:04:07 +0200"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
