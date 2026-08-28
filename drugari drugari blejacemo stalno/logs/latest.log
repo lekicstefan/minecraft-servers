@@ -1,31 +1,9 @@
-[12:58:44] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
-[12:58:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[12:58:45] [Worker-Main-2/WARN]: Found loot table element validation problem in {minecraft:entities/shulker@minecraft:loot_table}.pools[2].entries[0]: Missing element double_shulker_shells:entities/shulker of type minecraft:loot_table
-[12:58:45] [Worker-Main-2/WARN]: Found loot table element validation problem in {minecraft:entities/bat@minecraft:loot_table}.pools[2].entries[0]: Missing element bat_membranes:entities/bat of type minecraft:loot_table
-[12:58:45] [Worker-Main-2/WARN]: Found loot table element validation problem in {minecraft:entities/husk@minecraft:loot_table}.pools[2].entries[0]: Missing element husks_drop_sand:entities/husk of type minecraft:loot_table
-[12:58:45] [Worker-Main-2/WARN]: Found loot table element validation problem in {minecraft:entities/player@minecraft:loot_table}.pools[1].entries[0]: Missing element graves:entities/player of type minecraft:loot_table
-[12:58:45] [Worker-Main-2/WARN]: Found loot table element validation problem in {minecraft:entities/villager@minecraft:loot_table}.pools[2].entries[0]: Missing element villager_death:entities/villager of type minecraft:loot_table
-[12:58:45] [ServerMain/INFO]: Loaded 1910 recipes
-[12:58:46] [ServerMain/INFO]: Loaded 1925 advancements
-[12:58:46] [Server thread/INFO]: Starting minecraft server version 26.2
-[12:58:46] [Server thread/INFO]: Loading properties
-[12:58:46] [Server thread/INFO]: Default game type: SURVIVAL
-[12:58:46] [Server thread/INFO]: Generating keypair
-[12:58:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:58:46] [Server thread/INFO]: Preparing level "world"
-[12:58:46] [Server thread/INFO]: Loading 0 persistent chunks...
-[12:58:46] [Server thread/INFO]: Preparing spawn area: 100%
-[12:58:46] [Server thread/INFO]: Time elapsed: 13 ms
-[12:58:46] [Server thread/INFO]: Done (0.254s)! For help, type "help"
-[12:58:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:overworld
-[12:58:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_end
-[12:58:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_nether
-[12:58:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:58:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:58:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:58:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[12:58:50] [User Authenticator #1/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[12:58:51] [Server thread/INFO]: Snjegovan[/10.73.13.35:60656] logged in with entity id 88 at (-27.59608626012894, 54.0, -1024.1333239717883)
-[12:58:51] [Server thread/INFO]: Snjegovan joined the game
-[13:40:52] [Server thread/INFO]: Snjegovan lost connection: Disconnected
-[13:40:52] [Server thread/INFO]: Snjegovan left the game
+[00:04:18] [Server thread/INFO]: Named entity Zombie['Zombie'/188, l='ServerLevel[drugari drugari blejacemo stalno]', x=104.54, y=63.00, z=-999.22] died: Zombie was slain by Snjegovan
+[00:25:31] [Server thread/INFO]: Named entity Zombie['Zombie'/171, l='ServerLevel[drugari drugari blejacemo stalno]', x=81.84, y=63.00, z=-1004.49] died: Zombie was slain by Snjegovan
+[00:41:25] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[00:41:25] [Server thread/INFO]: Snjegovan left the game
+[00:41:46] [User Authenticator #2/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[00:41:47] [Server thread/INFO]: Snjegovan[/10.73.13.35:48472] logged in with entity id 33828 at (-26.611681473399283, 47.0, -1021.8570881570101)
+[00:41:47] [Server thread/INFO]: Snjegovan joined the game
+[00:42:32] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[00:42:32] [Server thread/INFO]: Snjegovan left the game
