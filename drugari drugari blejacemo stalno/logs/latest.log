@@ -1,9 +1,8 @@
-[00:04:18] [Server thread/INFO]: Named entity Zombie['Zombie'/188, l='ServerLevel[drugari drugari blejacemo stalno]', x=104.54, y=63.00, z=-999.22] died: Zombie was slain by Snjegovan
-[00:25:31] [Server thread/INFO]: Named entity Zombie['Zombie'/171, l='ServerLevel[drugari drugari blejacemo stalno]', x=81.84, y=63.00, z=-1004.49] died: Zombie was slain by Snjegovan
-[00:41:25] [Server thread/INFO]: Snjegovan lost connection: Disconnected
-[00:41:25] [Server thread/INFO]: Snjegovan left the game
-[00:41:46] [User Authenticator #2/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[00:41:47] [Server thread/INFO]: Snjegovan[/10.73.13.35:48472] logged in with entity id 33828 at (-26.611681473399283, 47.0, -1021.8570881570101)
-[00:41:47] [Server thread/INFO]: Snjegovan joined the game
-[00:42:32] [Server thread/INFO]: Snjegovan lost connection: Disconnected
-[00:42:32] [Server thread/INFO]: Snjegovan left the game
+[00:00:08] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=64, y=64, z=-1012} BlockPos{x=64, y=65, z=-1013}
+[00:00:50] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=58, y=66, z=-1027} BlockPos{x=59, y=65, z=-1027}
+[00:01:09] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=22, y=66, z=-1027} BlockPos{x=23, y=66, z=-1027}
+[00:01:09] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=22, y=66, z=-1027} BlockPos{x=23, y=66, z=-1027}
+[00:01:12] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=13, y=67, z=-1027} BlockPos{x=14, y=66, z=-1027}
+[00:01:25] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=6, y=65, z=-1027} BlockPos{x=4, y=64, z=-1027}
+[00:45:46] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[00:45:46] [Server thread/INFO]: Snjegovan left the game
