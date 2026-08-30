@@ -1,8 +1,31 @@
-[00:00:08] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=64, y=64, z=-1012} BlockPos{x=64, y=65, z=-1013}
-[00:00:50] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=58, y=66, z=-1027} BlockPos{x=59, y=65, z=-1027}
-[00:01:09] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=22, y=66, z=-1027} BlockPos{x=23, y=66, z=-1027}
-[00:01:09] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=22, y=66, z=-1027} BlockPos{x=23, y=66, z=-1027}
-[00:01:12] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=13, y=67, z=-1027} BlockPos{x=14, y=66, z=-1027}
-[00:01:25] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=6, y=65, z=-1027} BlockPos{x=4, y=64, z=-1027}
-[00:45:46] [Server thread/INFO]: Snjegovan lost connection: Disconnected
-[00:45:46] [Server thread/INFO]: Snjegovan left the game
+[23:14:52] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
+[23:14:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[23:14:53] [Worker-Main-12/WARN]: Found loot table element validation problem in {minecraft:entities/shulker@minecraft:loot_table}.pools[2].entries[0]: Missing element double_shulker_shells:entities/shulker of type minecraft:loot_table
+[23:14:53] [Worker-Main-12/WARN]: Found loot table element validation problem in {minecraft:entities/bat@minecraft:loot_table}.pools[2].entries[0]: Missing element bat_membranes:entities/bat of type minecraft:loot_table
+[23:14:53] [Worker-Main-12/WARN]: Found loot table element validation problem in {minecraft:entities/husk@minecraft:loot_table}.pools[2].entries[0]: Missing element husks_drop_sand:entities/husk of type minecraft:loot_table
+[23:14:53] [Worker-Main-12/WARN]: Found loot table element validation problem in {minecraft:entities/player@minecraft:loot_table}.pools[1].entries[0]: Missing element graves:entities/player of type minecraft:loot_table
+[23:14:53] [Worker-Main-12/WARN]: Found loot table element validation problem in {minecraft:entities/villager@minecraft:loot_table}.pools[2].entries[0]: Missing element villager_death:entities/villager of type minecraft:loot_table
+[23:14:53] [ServerMain/INFO]: Loaded 1910 recipes
+[23:14:53] [ServerMain/INFO]: Loaded 1925 advancements
+[23:14:53] [Server thread/INFO]: Starting minecraft server version 26.2
+[23:14:53] [Server thread/INFO]: Loading properties
+[23:14:53] [Server thread/INFO]: Default game type: SURVIVAL
+[23:14:53] [Server thread/INFO]: Generating keypair
+[23:14:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:14:53] [Server thread/INFO]: Preparing level "world"
+[23:14:54] [Server thread/INFO]: Loading 0 persistent chunks...
+[23:14:54] [Server thread/INFO]: Preparing spawn area: 100%
+[23:14:54] [Server thread/INFO]: Time elapsed: 13 ms
+[23:14:54] [Server thread/INFO]: Done (0.206s)! For help, type "help"
+[23:14:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:overworld
+[23:14:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_end
+[23:14:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_nether
+[23:14:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:14:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:14:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:14:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:15:49] [User Authenticator #1/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[23:15:50] [Server thread/INFO]: Snjegovan[/10.73.13.35:42882] logged in with entity id 121 at (-24.290801060241186, 54.0, -1033.0603289721525)
+[23:15:50] [Server thread/INFO]: Snjegovan joined the game
+[23:16:36] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[23:16:36] [Server thread/INFO]: Snjegovan left the game

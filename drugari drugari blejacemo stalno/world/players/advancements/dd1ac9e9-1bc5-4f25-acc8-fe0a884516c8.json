@@ -6260,5 +6260,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_slab": "2026-08-30 22:36:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2026-08-30 23:00:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2026-08-30 23:00:14 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/birch_log": {
+    "criteria": {
+      "has_item": "2026-08-30 23:00:14 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 4903
 }
