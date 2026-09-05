@@ -2617,9 +2617,10 @@
   },
   "universal_dyeing:recipes/building_blocks/universal_dyeing/stained_glass_pane": {
     "criteria": {
-      "has_dye": "2026-07-20 20:04:12 +0200"
+      "has_dye": "2026-07-20 20:04:12 +0200",
+      "has_block": "2026-09-05 10:10:12 +0200"
     },
-    "done": false
+    "done": true
   },
   "universal_dyeing:recipes/building_blocks/universal_dyeing/stained_glass": {
     "criteria": {
@@ -7223,6 +7224,324 @@
   "minecraft:recipes/decorations/pale_oak_sign": {
     "criteria": {
       "has_planks": "2026-09-04 23:13:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2026-09-05 10:08:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_chestplate_dyed": {
+    "criteria": {
+      "has_leather_chestplate": "2026-09-05 14:43:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_leggings_dyed": {
+    "criteria": {
+      "has_leather_leggings": "2026-09-05 14:43:27 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/packed_mud": {
+    "criteria": {
+      "has_item": "2026-09-05 15:01:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2026-09-05 15:01:51 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/mud_bricks": {
+    "criteria": {
+      "has_item": "2026-09-05 15:01:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2026-09-05 15:01:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2026-09-05 15:01:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2026-09-05 15:01:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2026-09-05 15:01:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2026-09-05 15:01:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2026-09-05 15:01:56 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/raw_gold_block": {
+    "criteria": {
+      "has_item": "2026-09-05 16:40:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2026-09-05 16:40:05 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/raw_copper_block": {
+    "criteria": {
+      "has_item": "2026-09-05 16:51:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2026-09-05 16:51:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2026-09-05 17:19:03 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/copper_ore": {
+    "criteria": {
+      "has_item": "2026-09-05 17:19:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2026-09-05 17:19:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2026-09-05 17:19:18 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/iron_ore": {
+    "criteria": {
+      "has_item": "2026-09-05 17:19:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2026-09-05 17:19:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2026-09-05 17:26:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2026-09-05 17:26:18 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/deepslate_gold_ore": {
+    "criteria": {
+      "has_item": "2026-09-05 17:26:18 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/deepslate_diamond_ore": {
+    "criteria": {
+      "has_item": "2026-09-05 17:28:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2026-09-05 17:28:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2026-09-05 17:28:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-09-05 17:31:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-09-05 17:31:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-09-05 17:31:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-09-05 17:31:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-09-05 17:31:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-09-05 17:31:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-09-05 17:31:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-09-05 17:31:10 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/deepslate": {
+    "criteria": {
+      "has_item": "2026-09-05 17:31:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-09-05 17:31:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-09-05 17:31:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-09-05 17:31:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-09-05 17:31:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-09-05 17:31:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-09-05 17:31:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-09-05 17:31:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-09-05 17:31:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-09-05 17:31:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2026-09-05 17:46:41 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/emerald_block": {
+    "criteria": {
+      "has_item": "2026-09-05 17:46:41 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/coal_block": {
+    "criteria": {
+      "has_item": "2026-09-05 17:47:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2026-09-05 17:47:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2026-09-05 19:40:14 +0200"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/coal_ore": {
+    "criteria": {
+      "has_item": "2026-09-05 19:40:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2026-09-05 19:40:14 +0200"
     },
     "done": true
   },
