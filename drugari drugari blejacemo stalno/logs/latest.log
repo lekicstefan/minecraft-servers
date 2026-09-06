@@ -1,1 +1,250 @@
-[00:38:33] [Server thread/INFO]: Stopping server
+[10:07:44] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
+[10:07:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[10:07:46] [Worker-Main-5/WARN]: Found loot table element validation problem in {minecraft:entities/shulker@minecraft:loot_table}.pools[2].entries[0]: Missing element double_shulker_shells:entities/shulker of type minecraft:loot_table
+[10:07:46] [Worker-Main-5/WARN]: Found loot table element validation problem in {minecraft:entities/bat@minecraft:loot_table}.pools[2].entries[0]: Missing element bat_membranes:entities/bat of type minecraft:loot_table
+[10:07:46] [Worker-Main-5/WARN]: Found loot table element validation problem in {minecraft:entities/husk@minecraft:loot_table}.pools[2].entries[0]: Missing element husks_drop_sand:entities/husk of type minecraft:loot_table
+[10:07:46] [Worker-Main-5/WARN]: Found loot table element validation problem in {minecraft:entities/player@minecraft:loot_table}.pools[1].entries[0]: Missing element graves:entities/player of type minecraft:loot_table
+[10:07:46] [Worker-Main-5/WARN]: Found loot table element validation problem in {minecraft:entities/villager@minecraft:loot_table}.pools[2].entries[0]: Missing element villager_death:entities/villager of type minecraft:loot_table
+[10:07:47] [ServerMain/INFO]: Loaded 1910 recipes
+[10:07:47] [ServerMain/INFO]: Loaded 1925 advancements
+[10:07:48] [Server thread/INFO]: Starting minecraft server version 26.2
+[10:07:48] [Server thread/INFO]: Loading properties
+[10:07:48] [Server thread/INFO]: Default game type: SURVIVAL
+[10:07:48] [Server thread/INFO]: Generating keypair
+[10:07:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:07:48] [Server thread/INFO]: Preparing level "world"
+[10:07:49] [Server thread/INFO]: Loading 0 persistent chunks...
+[10:07:49] [Server thread/INFO]: Preparing spawn area: 100%
+[10:07:49] [Server thread/INFO]: Time elapsed: 86 ms
+[10:07:49] [Server thread/INFO]: Done (0.556s)! For help, type "help"
+[10:07:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:overworld
+[10:07:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_nether
+[10:07:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_end
+[10:07:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:07:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:07:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:07:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10:07:56] [User Authenticator #1/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[10:07:58] [Server thread/INFO]: Snjegovan[/10.73.13.35:41318] logged in with entity id 122 at (-25.91479622098497, 54.0, -1033.492609205808)
+[10:07:58] [Server thread/INFO]: Snjegovan joined the game
+[10:43:31] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[10:43:31] [Server thread/INFO]: Snjegovan left the game
+[10:44:31] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[11:43:55] [User Authenticator #2/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[11:43:56] [Server thread/INFO]: Snjegovan[/10.73.13.35:51636] logged in with entity id 20888 at (-24.64657943351124, 54.0, -1033.6994229201043)
+[11:43:56] [Server thread/INFO]: Snjegovan joined the game
+[12:33:05] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.03132576867938, 67.07315628230572, -1018.1875) too far away from hit block BlockPos{x=136, y=67, z=-1020}.
+[12:33:05] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.03132576867938, 67.07315628230572, -1018.1875) too far away from hit block BlockPos{x=136, y=67, z=-1020}.
+[12:33:05] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.03132576867938, 67.07315628230572, -1018.1875) too far away from hit block BlockPos{x=136, y=67, z=-1020}.
+[12:33:05] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.03132576867938, 67.07315628230572, -1018.1875) too far away from hit block BlockPos{x=136, y=67, z=-1020}.
+[12:33:05] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.03132576867938, 67.07315628230572, -1018.1875) too far away from hit block BlockPos{x=136, y=67, z=-1020}.
+[12:33:05] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.03132576867938, 67.07315628230572, -1018.1875) too far away from hit block BlockPos{x=136, y=67, z=-1020}.
+[12:33:05] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.03132576867938, 67.07315628230572, -1018.1875) too far away from hit block BlockPos{x=136, y=67, z=-1020}.
+[12:33:05] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.03132576867938, 67.07315628230572, -1018.1875) too far away from hit block BlockPos{x=136, y=67, z=-1020}.
+[12:33:05] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.03132576867938, 67.07315628230572, -1018.1875) too far away from hit block BlockPos{x=136, y=67, z=-1020}.
+[12:33:05] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.03132576867938, 67.07315628230572, -1018.1875) too far away from hit block BlockPos{x=136, y=67, z=-1020}.
+[12:33:05] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.03132576867938, 67.07315628230572, -1018.1875) too far away from hit block BlockPos{x=136, y=67, z=-1020}.
+[12:33:05] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.03132576867938, 67.07315628230572, -1018.1875) too far away from hit block BlockPos{x=136, y=67, z=-1020}.
+[12:33:05] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.03132576867938, 67.07315628230572, -1018.1875) too far away from hit block BlockPos{x=136, y=67, z=-1020}.
+[12:33:06] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (138.74841785430908, 66.1875, -1018.4167321324348) too far away from hit block BlockPos{x=138, y=67, z=-1019}.
+[12:33:06] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (138.74841785430908, 66.1875, -1018.4167321324348) too far away from hit block BlockPos{x=138, y=67, z=-1019}.
+[12:33:06] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.74841785430908, 67.1875, -1018.4167321324348) too far away from hit block BlockPos{x=136, y=68, z=-1019}.
+[12:33:07] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.74841785430908, 67.1875, -1018.4167321324348) too far away from hit block BlockPos{x=136, y=68, z=-1019}.
+[12:33:07] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.74841785430908, 67.1875, -1018.4167321324348) too far away from hit block BlockPos{x=136, y=68, z=-1019}.
+[12:33:07] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.74841785430908, 67.1875, -1018.4167321324348) too far away from hit block BlockPos{x=136, y=68, z=-1019}.
+[12:33:07] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.74841785430908, 67.1875, -1018.4167321324348) too far away from hit block BlockPos{x=136, y=68, z=-1019}.
+[12:33:07] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.74841785430908, 67.1875, -1018.4167321324348) too far away from hit block BlockPos{x=136, y=68, z=-1019}.
+[12:33:07] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.74841785430908, 67.1875, -1018.4167321324348) too far away from hit block BlockPos{x=136, y=68, z=-1019}.
+[12:33:07] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.74841785430908, 67.1875, -1018.4167321324348) too far away from hit block BlockPos{x=136, y=68, z=-1019}.
+[12:33:07] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.74841785430908, 67.1875, -1018.4167321324348) too far away from hit block BlockPos{x=136, y=68, z=-1019}.
+[12:33:07] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.74841785430908, 67.1875, -1018.4167321324348) too far away from hit block BlockPos{x=136, y=68, z=-1019}.
+[12:33:07] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.74841785430908, 67.1875, -1018.4167321324348) too far away from hit block BlockPos{x=136, y=68, z=-1019}.
+[12:33:07] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.74841785430908, 67.1875, -1018.4167321324348) too far away from hit block BlockPos{x=136, y=68, z=-1019}.
+[12:33:07] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.74841785430908, 67.1875, -1018.4167321324348) too far away from hit block BlockPos{x=136, y=68, z=-1019}.
+[12:33:07] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.74841785430908, 67.1875, -1018.4167321324348) too far away from hit block BlockPos{x=136, y=68, z=-1019}.
+[12:33:07] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.74841785430908, 67.1875, -1018.4167321324348) too far away from hit block BlockPos{x=136, y=68, z=-1019}.
+[12:33:07] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.74841785430908, 67.1875, -1018.4167321324348) too far away from hit block BlockPos{x=136, y=68, z=-1019}.
+[12:33:07] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.74841785430908, 67.1875, -1018.4167321324348) too far away from hit block BlockPos{x=136, y=68, z=-1019}.
+[12:33:07] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.74841785430908, 67.1875, -1018.4167321324348) too far away from hit block BlockPos{x=136, y=68, z=-1019}.
+[12:33:07] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (136.74841785430908, 67.1875, -1018.4167321324348) too far away from hit block BlockPos{x=136, y=68, z=-1019}.
+[12:36:10] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[12:36:10] [Server thread/INFO]: Snjegovan left the game
+[12:37:10] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[12:37:45] [User Authenticator #3/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[12:37:46] [Server thread/INFO]: Snjegovan[/10.73.13.35:57884] logged in with entity id 41873 at (140.76149490190363, 72.0, -1007.0622133686752)
+[12:37:46] [Server thread/INFO]: Snjegovan joined the game
+[13:09:01] [User Authenticator #4/INFO]: UUID of player xXxNerdSlayerxXx is 4ccfc04e-e9ae-4cf5-862a-925b985aad1b
+[13:09:02] [Server thread/INFO]: xXxNerdSlayerxXx[/10.73.13.88:56362] logged in with entity id 60220 at (101.42759916613326, 64.0, -883.4029481184335)
+[13:09:02] [Server thread/INFO]: xXxNerdSlayerxXx joined the game
+[13:16:27] [Server thread/INFO]: <xXxNerdSlayerxXx> ostavio si mjesta za goleme da se stvarau
+[13:16:40] [Server thread/INFO]: [Not Secure] <Snjegovan> gdje?
+[13:16:45] [Server thread/INFO]: <xXxNerdSlayerxXx> dolje kod redstona
+[13:16:48] [Server thread/INFO]: <xXxNerdSlayerxXx> popravio sam
+[13:16:50] [Server thread/INFO]: [Not Secure] <Snjegovan> nisam
+[13:16:58] [Server thread/INFO]: <xXxNerdSlayerxXx> pa kako sam ih nasao dolje obnda
+[13:17:43] [Server thread/INFO]: [Not Secure] <Snjegovan> ima put na svim blokovima?
+[13:17:50] [Server thread/INFO]: <xXxNerdSlayerxXx> da
+[13:18:05] [Server thread/INFO]: [Not Secure] <Snjegovan> nzm radi normalno nije farma stala nikad
+[13:18:11] [Server thread/INFO]: [Not Secure] <Snjegovan> bio sam pored nje ovih dana
+[13:18:35] [Server thread/INFO]: <xXxNerdSlayerxXx> pa ece prestati raditi ali ce se povremeno stvoriti tu dolje i nece umirati
+[13:18:56] [Server thread/INFO]: [Not Secure] <Snjegovan> stvorice se novi jer je ovaj predaleko
+[13:19:13] [Server thread/INFO]: [Not Secure] <Snjegovan> nzm kako se stvara kada postoji put na svim blokovima
+[13:19:20] [Server thread/INFO]: <xXxNerdSlayerxXx> ma ispod zemlje
+[13:19:45] [Server thread/INFO]: [Not Secure] <Snjegovan> gdje si ih nasao
+[13:19:51] [Server thread/INFO]: [Not Secure] <Snjegovan> gdje je to ispod
+[13:19:59] [Server thread/INFO]: <xXxNerdSlayerxXx> kod redstona
+[13:20:27] [Server thread/INFO]: [Not Secure] <Snjegovan> oa dole kod redstona je isto put
+[13:20:32] [Server thread/INFO]: <xXxNerdSlayerxXx> ja sam sad stavio
+[13:20:35] [Server thread/INFO]: [Not Secure] <Snjegovan> nzm smijem li to zatrpati
+[13:20:41] [Server thread/INFO]: [Not Secure] <Snjegovan> nije bio put?
+[13:20:45] [Server thread/INFO]: <xXxNerdSlayerxXx> nije
+[13:20:52] [Server thread/INFO]: <xXxNerdSlayerxXx> ne mijenjaj nista tu, popravio sam
+[13:20:56] [Server thread/INFO]: [Not Secure] <Snjegovan> pih, mislio sam da sam stavio
+[13:21:17] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[13:24:24] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[13:27:27] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[13:28:21] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[13:29:13] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[13:29:13] [Server thread/INFO]: Snjegovan left the game
+[13:29:53] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[13:30:01] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[13:36:58] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=60, y=70, z=-787} BlockPos{x=61, y=70, z=-787}
+[13:40:42] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[13:47:35] [User Authenticator #5/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[13:47:36] [Server thread/INFO]: Snjegovan[/10.73.13.35:33014] logged in with entity id 85137 at (45.44295286931699, 63.0, -1095.7249719547792)
+[13:47:36] [Server thread/INFO]: Snjegovan joined the game
+[13:47:57] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[13:48:51] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[13:48:56] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[13:49:05] [Server thread/INFO]: <xXxNerdSlayerxXx> ovo je damjan napravio
+[13:49:12] [Server thread/INFO]: <xXxNerdSlayerxXx> kad je bio igrao onaj jedan put
+[13:49:40] [Server thread/INFO]: [Not Secure] <Snjegovan> damn
+[13:49:55] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[13:49:56] [Server thread/INFO]: [Not Secure] <Snjegovan> lik dosao i napravio masakr pilica
+[13:49:59] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[13:50:10] [Server thread/INFO]: <xXxNerdSlayerxXx> zaboravio sam da mu je ovdje kuca
+[13:50:21] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[13:50:37] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[13:52:35] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[13:52:48] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[13:54:57] [Server thread/INFO]: [Not Secure] <Snjegovan> jos teraformises?
+[13:55:03] [Server thread/INFO]: <xXxNerdSlayerxXx> imam jos 5 dana toga
+[13:55:26] [Server thread/INFO]: [Not Secure] <Snjegovan> bruh :(
+[13:55:51] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[13:55:57] [Server thread/INFO]: [Not Secure] <Snjegovan> sto 5 hahahah, napravio covjek plan izgradnje
+[13:56:08] [Server thread/INFO]: <xXxNerdSlayerxXx> otprilike 5
+[13:56:24] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[13:56:30] [Server thread/INFO]: [Not Secure] <Snjegovan> irl dana?
+[13:56:35] [Server thread/INFO]: <xXxNerdSlayerxXx> da
+[13:56:44] [Server thread/INFO]: [Not Secure] <Snjegovan> dem
+[13:59:22] [Server thread/INFO]: <xXxNerdSlayerxXx> kresovace mi se racunar za min
+[13:59:31] [Server thread/INFO]: [Not Secure] <Snjegovan> molim
+[13:59:38] [Server thread/INFO]: [Not Secure] <Snjegovan> hahahhah sto
+[13:59:46] [Server thread/INFO]: xXxNerdSlayerxXx lost connection: Disconnected
+[13:59:46] [Server thread/INFO]: xXxNerdSlayerxXx left the game
+[14:03:40] [User Authenticator #6/INFO]: UUID of player xXxNerdSlayerxXx is 4ccfc04e-e9ae-4cf5-862a-925b985aad1b
+[14:03:41] [Server thread/INFO]: xXxNerdSlayerxXx[/10.73.13.88:56026] logged in with entity id 94657 at (97.97447724151786, 64.0, -884.2318793598304)
+[14:03:41] [Server thread/INFO]: xXxNerdSlayerxXx joined the game
+[14:04:37] [Server thread/INFO]: <xXxNerdSlayerxXx> nazvacu te na dis
+[14:05:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[14:08:54] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[14:09:22] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[14:18:10] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[14:19:15] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[14:25:18] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[14:27:50] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[14:28:33] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[14:28:46] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[14:29:25] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[14:31:10] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[14:36:06] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[14:38:53] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[14:42:10] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[14:42:37] [Server thread/INFO]: [Snjegovan: Set own game mode to Creative Mode]
+[14:42:42] [Server thread/INFO]: [Snjegovan: Set own game mode to Survival Mode]
+[14:43:26] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[14:43:37] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[14:44:00] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[14:45:08] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[14:45:58] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[14:51:38] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[14:51:44] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[14:53:00] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[14:53:45] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[14:58:24] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[15:28:46] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[15:29:03] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-18.1875, 48.4772312939167, -1025.3817898631096) too far away from hit block BlockPos{x=-20, y=48, z=-1026}.
+[15:29:03] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-18.1875, 48.4772312939167, -1025.3817898631096) too far away from hit block BlockPos{x=-20, y=48, z=-1026}.
+[15:29:03] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-18.1875, 48.4772312939167, -1025.3817898631096) too far away from hit block BlockPos{x=-20, y=48, z=-1026}.
+[15:29:03] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-18.1875, 48.4772312939167, -1025.3817898631096) too far away from hit block BlockPos{x=-20, y=48, z=-1026}.
+[15:29:19] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-18.1875, 48.464930325746536, -1029.6701910793781) too far away from hit block BlockPos{x=-20, y=48, z=-1030}.
+[15:29:19] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-18.1875, 48.464930325746536, -1029.6701910793781) too far away from hit block BlockPos{x=-20, y=48, z=-1030}.
+[15:29:19] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-18.1875, 48.464930325746536, -1029.6701910793781) too far away from hit block BlockPos{x=-20, y=48, z=-1030}.
+[15:29:19] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-18.1875, 48.464930325746536, -1029.6701910793781) too far away from hit block BlockPos{x=-20, y=48, z=-1030}.
+[15:29:19] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-18.1875, 48.464930325746536, -1029.6701910793781) too far away from hit block BlockPos{x=-20, y=48, z=-1030}.
+[15:29:19] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-18.1875, 48.464930325746536, -1029.6701910793781) too far away from hit block BlockPos{x=-20, y=48, z=-1030}.
+[15:29:19] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-18.1875, 48.464930325746536, -1029.6701910793781) too far away from hit block BlockPos{x=-20, y=48, z=-1030}.
+[15:29:20] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-18.1875, 48.57113927602768, -1031.3319608569145) too far away from hit block BlockPos{x=-20, y=48, z=-1032}.
+[15:29:20] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-18.1875, 48.57113927602768, -1031.3319608569145) too far away from hit block BlockPos{x=-20, y=48, z=-1032}.
+[15:29:20] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-18.1875, 48.57113927602768, -1031.3319608569145) too far away from hit block BlockPos{x=-20, y=48, z=-1032}.
+[15:29:20] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-18.1875, 48.57113927602768, -1031.3319608569145) too far away from hit block BlockPos{x=-20, y=48, z=-1032}.
+[15:29:20] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-18.1875, 48.57113927602768, -1031.3319608569145) too far away from hit block BlockPos{x=-20, y=48, z=-1032}.
+[15:29:20] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-18.1875, 48.57113927602768, -1031.3319608569145) too far away from hit block BlockPos{x=-20, y=48, z=-1032}.
+[15:29:20] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-18.1875, 48.57113927602768, -1031.3319608569145) too far away from hit block BlockPos{x=-20, y=48, z=-1032}.
+[15:29:20] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-18.1875, 48.55851811170578, -1033.5647352039814) too far away from hit block BlockPos{x=-20, y=48, z=-1034}.
+[15:29:20] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-18.1875, 48.55851811170578, -1033.5647352039814) too far away from hit block BlockPos{x=-20, y=48, z=-1034}.
+[15:29:20] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-18.1875, 48.55851811170578, -1033.5647352039814) too far away from hit block BlockPos{x=-20, y=48, z=-1034}.
+[15:29:20] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-18.1875, 48.55851811170578, -1033.5647352039814) too far away from hit block BlockPos{x=-20, y=48, z=-1034}.
+[15:29:20] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-18.1875, 48.55851811170578, -1033.5647352039814) too far away from hit block BlockPos{x=-20, y=48, z=-1034}.
+[15:29:20] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-18.1875, 48.55851811170578, -1033.5647352039814) too far away from hit block BlockPos{x=-20, y=48, z=-1034}.
+[15:29:20] [Server thread/WARN]: Rejecting UseItemOnPacket from Snjegovan: Location (-18.1875, 48.55851811170578, -1033.5647352039814) too far away from hit block BlockPos{x=-20, y=48, z=-1034}.
+[15:30:40] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[15:30:50] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
+[15:31:48] [Server thread/INFO]: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
+[15:40:31] [Server thread/INFO]: xXxNerdSlayerxXx has made the advancement [A Throwaway Joke]
+[15:43:21] [Server thread/INFO]: [xXxNerdSlayerxXx: Teleported Snjegovan to xXxNerdSlayerxXx]
+[15:46:47] [Server thread/INFO]: xXxNerdSlayerxXx has made the advancement [Who Needs Rockets?]
+[15:47:20] [Server thread/INFO]: [xXxNerdSlayerxXx: Revoked the advancement [Who Needs Rockets?] from xXxNerdSlayerxXx]
+[15:48:01] [Server thread/INFO]: [xXxNerdSlayerxXx: Revoked the advancement [A Throwaway Joke] from xXxNerdSlayerxXx]
+[15:48:48] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[15:48:48] [Server thread/INFO]: Snjegovan left the game
+[15:49:42] [Server thread/INFO]: Snjegovan (/10.73.13.35:52880) lost connection: Disconnected
+[15:49:46] [Server thread/INFO]: Snjegovan (/10.73.13.35:52908) lost connection: Disconnected
+[15:49:52] [Server thread/INFO]: Snjegovan (/10.73.13.35:58798) lost connection: Disconnected
+[15:49:55] [Server thread/INFO]: Snjegovan (/10.73.13.35:58806) lost connection: Disconnected
+[15:50:34] [User Authenticator #7/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[15:50:35] [Server thread/INFO]: Snjegovan[/10.73.13.35:48782] logged in with entity id 157850 at (-24.17959221435273, 54.0, -1032.8609815316436)
+[15:50:35] [Server thread/INFO]: Snjegovan joined the game
+[15:51:30] [Server thread/INFO]: [Snjegovan: Set own game mode to Creative Mode]
+[15:51:58] [Server thread/INFO]: [Snjegovan: Set own game mode to Survival Mode]
+[15:52:02] [Server thread/INFO]: [Snjegovan: Set own game mode to Creative Mode]
+[15:52:03] [Server thread/INFO]: [Snjegovan: Set own game mode to Survival Mode]
+[15:53:12] [Server thread/INFO]: xXxNerdSlayerxXx lost connection: Disconnected
+[15:53:12] [Server thread/INFO]: xXxNerdSlayerxXx left the game
+[15:53:23] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[15:53:23] [Server thread/INFO]: Snjegovan left the game
+[15:54:23] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:51:52] [User Authenticator #8/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[17:51:53] [Server thread/INFO]: Snjegovan[/10.73.13.35:43504] logged in with entity id 158864 at (-24.241042493354904, 54.0, -1033.0407360262461)
+[17:51:53] [Server thread/INFO]: Snjegovan joined the game
+[19:54:29] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[19:54:29] [Server thread/INFO]: Snjegovan left the game
+[19:55:29] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:10:11] [User Authenticator #9/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[21:10:12] [Server thread/INFO]: Snjegovan[/10.73.13.35:37078] logged in with entity id 204250 at (35.5, 64.0, -1159.5)
+[21:10:12] [Server thread/INFO]: Snjegovan joined the game
+[21:18:10] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=96, y=63, z=-1130} BlockPos{x=89, y=63, z=-1143}
+[23:38:59] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[23:38:59] [Server thread/INFO]: Snjegovan left the game
+[23:39:03] [User Authenticator #10/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[23:39:03] [Server thread/INFO]: Snjegovan[/10.73.13.35:45816] logged in with entity id 258351 at (70.628878073649, 66.0, -1126.6237214902942)
+[23:39:03] [Server thread/INFO]: Snjegovan joined the game
+[23:39:09] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[23:39:09] [Server thread/INFO]: Snjegovan left the game
+[23:40:09] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[23:43:05] [User Authenticator #11/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[23:43:06] [Server thread/INFO]: Snjegovan[/10.73.13.35:36160] logged in with entity id 259283 at (70.628878073649, 66.0, -1126.6237214902942)
+[23:43:06] [Server thread/INFO]: Snjegovan joined the game
+[23:51:11] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[23:51:11] [Server thread/INFO]: Snjegovan left the game
+[23:52:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
