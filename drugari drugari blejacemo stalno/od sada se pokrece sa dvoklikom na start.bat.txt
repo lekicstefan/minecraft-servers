@@ -1,0 +1,1 @@
+od sada se pokrece sa dvoklikom na start.bat

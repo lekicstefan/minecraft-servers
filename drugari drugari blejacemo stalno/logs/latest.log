@@ -1,32 +1,65 @@
-[21:18:19] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
-[21:18:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[21:18:21] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:entities/shulker@minecraft:loot_table}.pools[2].entries[0]: Missing element double_shulker_shells:entities/shulker of type minecraft:loot_table
-[21:18:21] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:entities/bat@minecraft:loot_table}.pools[2].entries[0]: Missing element bat_membranes:entities/bat of type minecraft:loot_table
-[21:18:21] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:entities/husk@minecraft:loot_table}.pools[2].entries[0]: Missing element husks_drop_sand:entities/husk of type minecraft:loot_table
-[21:18:21] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:entities/player@minecraft:loot_table}.pools[1].entries[0]: Missing element graves:entities/player of type minecraft:loot_table
-[21:18:21] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:entities/villager@minecraft:loot_table}.pools[2].entries[0]: Missing element villager_death:entities/villager of type minecraft:loot_table
-[21:18:22] [ServerMain/INFO]: Loaded 1910 recipes
-[21:18:22] [ServerMain/INFO]: Loaded 1925 advancements
-[21:18:22] [Server thread/INFO]: Starting minecraft server version 26.2
-[21:18:22] [Server thread/INFO]: Loading properties
-[21:18:22] [Server thread/INFO]: Default game type: SURVIVAL
-[21:18:22] [Server thread/INFO]: Generating keypair
-[21:18:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:18:23] [Server thread/INFO]: Preparing level "world"
-[21:18:23] [Server thread/INFO]: Loading 0 persistent chunks...
-[21:18:23] [Server thread/INFO]: Preparing spawn area: 100%
-[21:18:23] [Server thread/INFO]: Time elapsed: 110 ms
-[21:18:23] [Server thread/INFO]: Done (0.571s)! For help, type "help"
-[21:18:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:overworld
-[21:18:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_nether
-[21:18:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[drugari drugari blejacemo stalno]'/minecraft:the_end
-[21:18:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:18:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:18:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:18:24] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[21:18:41] [User Authenticator #1/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[21:18:43] [Server thread/INFO]: Snjegovan[/10.73.13.35:36896] logged in with entity id 113 at (72.87793048874394, 65.0, -1120.5854243914328)
-[21:18:43] [Server thread/INFO]: Snjegovan joined the game
-[22:03:13] [Server thread/INFO]: Snjegovan lost connection: Disconnected
-[22:03:14] [Server thread/INFO]: Snjegovan left the game
-[22:04:13] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[23:37:24] [ServerMain/INFO]: [bootstrap] Running Java 26 (Java HotSpot(TM) 64-Bit Server VM 26.0.1+8-34; Oracle Corporation null) on Windows 11 10.0 (amd64)
+[23:37:24] [ServerMain/INFO]: [bootstrap] Loading Paper 26.2-126-ver/26.2@c646faf (2026-09-20T02:38:48Z) for Minecraft 26.2
+[23:37:24] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[23:37:24] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[23:37:24] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - ProtocolLib (5.5.0-SNAPSHOT-f0e959a)
+[23:37:24] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - SideGate (1.2.3)
+[23:37:29] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[23:37:29] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
+[23:37:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[23:37:30] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 518.8ms
+[23:37:31] [Worker-Main-2/WARN]: Found loot table element validation problem in {minecraft:entities/shulker@minecraft:loot_table}.pools[2].entries[0]: Missing element double_shulker_shells:entities/shulker of type minecraft:loot_table
+[23:37:31] [Worker-Main-2/WARN]: Found loot table element validation problem in {minecraft:entities/bat@minecraft:loot_table}.pools[2].entries[0]: Missing element bat_membranes:entities/bat of type minecraft:loot_table
+[23:37:31] [Worker-Main-2/WARN]: Found loot table element validation problem in {minecraft:entities/husk@minecraft:loot_table}.pools[2].entries[0]: Missing element husks_drop_sand:entities/husk of type minecraft:loot_table
+[23:37:31] [Worker-Main-2/WARN]: Found loot table element validation problem in {minecraft:entities/player@minecraft:loot_table}.pools[1].entries[0]: Missing element graves:entities/player of type minecraft:loot_table
+[23:37:31] [Worker-Main-2/WARN]: Found loot table element validation problem in {minecraft:entities/villager@minecraft:loot_table}.pools[2].entries[0]: Missing element villager_death:entities/villager of type minecraft:loot_table
+[23:37:32] [ServerMain/INFO]: Loaded 1910 recipes
+[23:37:32] [ServerMain/INFO]: Loaded 1925 advancements
+[23:37:32] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
+[23:37:32] [Server thread/INFO]: Starting minecraft server version 26.2
+[23:37:32] [Server thread/INFO]: Loading properties
+[23:37:32] [Server thread/INFO]: This server is running Paper version 26.2-126-ver/26.2@c646faf (2026-09-20T02:38:48Z) (Implementing API version 26.2.build.126-stable)
+[23:37:32] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[23:37:32] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:37:32] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:37:33] [Server thread/INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
+[23:37:33] [Server thread/INFO]: Default game type: SURVIVAL
+[23:37:33] [Server thread/INFO]: Generating keypair
+[23:37:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:37:33] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[23:37:33] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[23:37:33] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.5.0-SNAPSHOT-f0e959a
+[23:37:33] [Server thread/INFO]: [SideGate] Loading server plugin SideGate v1.2.3
+[23:37:33] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.5.0-SNAPSHOT-f0e959a
+[23:37:33] [Server thread/INFO]: Preparing level "world"
+[23:37:34] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[23:37:34] [Server thread/INFO]: Preparing spawn area: 100%
+[23:37:34] [Server thread/INFO]: Prepared spawn area in 3 ms
+[23:37:34] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[23:37:34] [Server thread/INFO]: Prepared spawn area in 1 ms
+[23:37:34] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[23:37:34] [Server thread/INFO]: Prepared spawn area in 3 ms
+[23:37:34] [Server thread/INFO]: Done preparing level "world" (0.515s)
+[23:37:34] [Server thread/INFO]: [SideGate] Enabling SideGate v1.2.3
+[23:37:34] [Server thread/INFO]: [SideGate] Config loaded. Auto-Detect: true
+[23:37:34] [Server thread/INFO]: [SideGate] Proxy mode: false
+[23:37:34] [Server thread/INFO]: [SideGate] Premium session failure action: KICK_WITH_MESSAGE
+[23:37:34] [Server thread/INFO]: [SideGate] Compatibility test status: verified on Paper 1.20.1, Spigot 1.20.1, Paper 1.21.11, and Purpur 26.1.2.
+[23:37:34] [Server thread/INFO]: [SideGate] Please report any issues on GitHub: https://github.com/TamKungZ/SideGate/issues
+[23:37:34] [Server thread/INFO]: [SideGate] SideGate enabled in standalone mode.
+[23:37:34] [Server thread/INFO]: [spark] Starting background profiler...
+[23:37:34] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
+[23:37:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:37:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:37:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:37:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:37:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:37:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:37:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:37:34] [Server thread/INFO]: Running delayed init tasks
+[23:37:34] [Server thread/INFO]: Done (11.146s)! For help, type "help"
+[23:37:34] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 1 build behind ***
+[23:37:34] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
+[23:38:34] [Server thread/INFO]: Server empty for 60 seconds, pausing

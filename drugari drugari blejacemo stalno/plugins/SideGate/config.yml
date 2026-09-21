@@ -1,0 +1,73 @@
+# SideGate Configuration
+# ----------------------
+# This plugin allows cracked players (Guests) to join an Online Mode server via a loophole injection.
+# It supports a hybrid mode where Premium players join normally, and Cracked players join as Guests.
+# If Floodgate or Geyser-Spigot is installed, detected Bedrock players bypass Guest classification automatically.
+
+# Master Switch: Toggle the entire Guest Mode system.
+enable-guest-mode: true
+
+# Velocity Backend Mode
+# Enable this only on a Bukkit backend connected through SideGate for Velocity.
+# Velocity handles Premium/Guest login decisions; this Bukkit plugin only applies
+# Guest tags, gamemode, titles, messages, and chat prefix after the player joins.
+# ProtocolLib remains a required Bukkit dependency.
+proxy-mode:
+  enabled: false
+
+# Auto-Detect Premium (Mojang API)
+# If set to 'true', the plugin will check if a joining username exists in Mojang's database.
+# - If it exists (Premium ID): The plugin does NOTHING (allows the server to handle login securely/Online Mode).
+# - If it does NOT exist (Cracked ID): The plugin treats them as a Guest immediately.
+# RECOMMENDATION: Set to 'true' for a seamless hybrid server.
+auto-detect-premium: true
+
+# Allow All Guests
+# - If set to 'true': Anyone who is NOT detected as Premium will be allowed to enter as a Guest automatically.
+# - If set to 'false': Only players listed in the 'allowed-guests' list below can enter as Guests.
+# RECOMMENDATION: Set to 'true' if you want an open server for cracked players.
+allow-all-guests: true
+
+# Manual Premium Override (Optional)
+# List usernames here that should ALWAYS be treated as Premium (bypass SideGate check completely).
+# Useful if the Mojang API check fails or for specific staff members you want to ensure are secure.
+premium-usernames:
+  - "TamKungZ"
+  # - "Notch"
+
+# Premium Session Failure
+# Controls what happens when a cracked client uses a username registered to a real Premium account.
+# Requires 'auto-detect-premium: true'.
+# Used only when proxy-mode.enabled is false. Velocity controls authentication in proxy mode.
+# KICK_WITH_MESSAGE: Reject the connection with the configurable message below.
+# FALLBACK_TO_GUEST: Verify the failed session early and continue the same connection as a Guest.
+# Restart the server after changing this setting for the changes to take effect.
+premium-session-failure:
+  action: "KICK_WITH_MESSAGE"
+  message: "&cThis username belongs to a Premium account.\n&eChange your username and try again."
+
+# Manual Guest Whitelist (Optional)
+# If 'allow-all-guests' is set to 'false', only the names listed here can join as guests.
+# If 'allow-all-guests' is 'true', this list is ignored (everyone enters).
+allowed-guests:
+  - "TamKungZ_"
+  - "lyfe"
+  # - "AnotherCrackedFriend"
+
+# Guest Gameplay Settings
+guest-settings:
+  # The GameMode guests will be set to upon joining (SURVIVAL, CREATIVE, ADVENTURE, SPECTATOR)
+  default-gamemode: "SURVIVAL"
+  # Chat prefix to identify guests in the chat
+  chat-prefix: "&7[Guest] &r"
+
+# Messages and Titles displayed to Guests
+messages:
+  join-title: "&cACCESS RESTRICTED"
+  join-subtitle: "&7Guest Mode"
+  join-message:
+    - "&c=================================="
+    - "&6 Welcome to SideGate Protocol"
+    - "&7 Account Status: &cGuest (Non-License)"
+    - "&7 You have restricted gameplay access."
+    - "&c=================================="
