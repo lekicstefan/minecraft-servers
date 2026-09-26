@@ -1,92 +1,85 @@
-[17:07:05] [ServerMain/INFO]: [bootstrap] Running Java 26 (Java HotSpot(TM) 64-Bit Server VM 26.0.1+8-34; Oracle Corporation null) on Windows 11 10.0 (amd64)
-[17:07:05] [ServerMain/INFO]: [bootstrap] Loading Paper 26.2-126-ver/26.2@c646faf (2026-09-20T02:38:48Z) for Minecraft 26.2
-[17:07:05] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[17:07:06] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
-[17:07:06] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+[20:51:09] [ServerMain/INFO]: [bootstrap] Running Java 26 (Java HotSpot(TM) 64-Bit Server VM 26.0.1+8-34; Oracle Corporation null) on Windows 11 10.0 (amd64)
+[20:51:09] [ServerMain/INFO]: [bootstrap] Loading Paper 26.2-126-ver/26.2@c646faf (2026-09-20T02:38:48Z) for Minecraft 26.2
+[20:51:09] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[20:51:10] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[20:51:10] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
  - ProtocolLib (5.5.0-SNAPSHOT-f0e959a)
-[17:07:06] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+[20:51:10] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
  - SideGate (1.2.3)
-[17:07:13] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[17:07:13] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
-[17:07:13] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[17:07:14] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 723.6ms
-[17:07:16] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:entities/shulker@minecraft:loot_table}.pools[2].entries[0]: Missing element double_shulker_shells:entities/shulker of type minecraft:loot_table
-[17:07:16] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:entities/bat@minecraft:loot_table}.pools[2].entries[0]: Missing element bat_membranes:entities/bat of type minecraft:loot_table
-[17:07:16] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:entities/husk@minecraft:loot_table}.pools[2].entries[0]: Missing element husks_drop_sand:entities/husk of type minecraft:loot_table
-[17:07:16] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:entities/player@minecraft:loot_table}.pools[1].entries[0]: Missing element graves:entities/player of type minecraft:loot_table
-[17:07:16] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:entities/villager@minecraft:loot_table}.pools[2].entries[0]: Missing element villager_death:entities/villager of type minecraft:loot_table
-[17:07:17] [ServerMain/INFO]: Loaded 1910 recipes
-[17:07:17] [ServerMain/INFO]: Loaded 1925 advancements
-[17:07:17] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
-[17:07:17] [Server thread/INFO]: Starting minecraft server version 26.2
-[17:07:17] [Server thread/INFO]: Loading properties
-[17:07:17] [Server thread/INFO]: This server is running Paper version 26.2-126-ver/26.2@c646faf (2026-09-20T02:38:48Z) (Implementing API version 26.2.build.126-stable)
-[17:07:17] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[17:07:17] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:07:17] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:07:18] [Server thread/INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
-[17:07:18] [Server thread/INFO]: Default game type: SURVIVAL
-[17:07:18] [Server thread/INFO]: Generating keypair
-[17:07:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:07:18] [Server thread/INFO]: Paper: Using Java compression from Velocity.
-[17:07:18] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[17:07:18] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.5.0-SNAPSHOT-f0e959a
-[17:07:19] [Server thread/INFO]: [SideGate] Loading server plugin SideGate v1.2.3
-[17:07:19] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.5.0-SNAPSHOT-f0e959a
-[17:07:19] [Server thread/INFO]: Preparing level "world"
-[17:07:19] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
-[17:07:19] [Server thread/INFO]: Preparing spawn area: 100%
-[17:07:19] [Server thread/INFO]: Prepared spawn area in 3 ms
-[17:07:19] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
-[17:07:19] [Server thread/INFO]: Prepared spawn area in 11 ms
-[17:07:19] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
-[17:07:19] [Server thread/INFO]: Prepared spawn area in 13 ms
-[17:07:19] [Server thread/INFO]: Done preparing level "world" (0.738s)
-[17:07:20] [Server thread/INFO]: [SideGate] Enabling SideGate v1.2.3
-[17:07:20] [Server thread/INFO]: [SideGate] Config loaded. Auto-Detect: true
-[17:07:20] [Server thread/INFO]: [SideGate] Proxy mode: false
-[17:07:20] [Server thread/INFO]: [SideGate] Premium session failure action: KICK_WITH_MESSAGE
-[17:07:20] [Server thread/INFO]: [SideGate] Compatibility test status: verified on Paper 1.20.1, Spigot 1.20.1, Paper 1.21.11, and Purpur 26.1.2.
-[17:07:20] [Server thread/INFO]: [SideGate] Please report any issues on GitHub: https://github.com/TamKungZ/SideGate/issues
-[17:07:20] [Server thread/INFO]: [SideGate] SideGate enabled in standalone mode.
-[17:07:20] [Server thread/INFO]: [spark] Starting background profiler...
-[17:07:20] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
-[17:07:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:07:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:07:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:07:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:07:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:07:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:07:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[17:07:20] [Server thread/INFO]: Running delayed init tasks
-[17:07:20] [Server thread/INFO]: Done (16.284s)! For help, type "help"
-[17:07:21] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 2 builds behind ***
-[17:07:21] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
-[17:08:20] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[17:10:04] [Netty NIO IO #2/INFO]: [SideGate] Allowing Guest Access: MakiMakson
-[17:10:04] [Server thread/INFO]: [SideGate] Post-auth advance: login state before invoke = ACCEPTED
-[17:10:04] [Server thread/INFO]: [SideGate] Post-auth advance: invoked verifyLoginAndFinishConnectionSetup(GameProfile) successfully
-[17:10:04] [Server thread/INFO]: [SideGate] Post-auth advance: login state after invoke = PROTOCOL_SWITCHING
-[17:10:04] [Server thread/INFO]: [SideGate] Guest Injected: MakiMakson
-[17:10:08] [Server thread/INFO]: MakiMakson joined the game
-[17:10:08] [Server thread/INFO]: MakiMakson[/10.73.13.35:43282] logged in with entity id 66 at ([minecraft:overworld]25.26336335042263, 63.0, -1188.3772677844138)
-[17:14:12] [Netty NIO IO #3/INFO]: [SideGate] Premium identity pre-check for Snjegovan: client UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8, Mojang UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[17:14:12] [Netty NIO IO #3/INFO]: [SideGate] Installed Premium session hook for Snjegovan.
-[17:14:12] [Netty NIO IO #3/INFO]: [SideGate] Detected Premium User: Snjegovan (passing to server)
-[17:14:12] [Netty NIO IO #3/INFO]: [SideGate] Verifying Premium session response for Snjegovan (net.minecraft.network.protocol.login.ServerboundKeyPacket).
-[17:14:13] [User Authenticator #0/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[17:14:14] [Server thread/INFO]: Snjegovan joined the game
-[17:14:14] [Server thread/INFO]: Snjegovan[/10.73.13.5:51436] logged in with entity id 2383 at ([minecraft:overworld]78.89005802377642, 65.0, -1144.0845676072993)
-[19:29:53] [Server thread/INFO]: Snjegovan lost connection: Disconnected
-[19:29:53] [Server thread/INFO]: Snjegovan left the game
-[19:35:26] [Netty NIO IO #3/INFO]: [SideGate] Premium identity pre-check for Snjegovan: client UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8, Mojang UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[19:35:26] [Netty NIO IO #3/INFO]: [SideGate] Installed Premium session hook for Snjegovan.
-[19:35:26] [Netty NIO IO #3/INFO]: [SideGate] Detected Premium User: Snjegovan (passing to server)
-[19:35:26] [Netty NIO IO #3/INFO]: [SideGate] Verifying Premium session response for Snjegovan (net.minecraft.network.protocol.login.ServerboundKeyPacket).
-[19:35:27] [User Authenticator #1/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[19:35:27] [Server thread/INFO]: Snjegovan joined the game
-[19:35:27] [Server thread/INFO]: Snjegovan[/10.73.13.5:52454] logged in with entity id 31799 at ([minecraft:overworld]78.47673305599137, 64.0, -1143.5268222972875)
-[20:13:33] [Server thread/INFO]: MakiMakson lost connection: Disconnected
-[20:13:33] [Server thread/INFO]: MakiMakson left the game
-[21:51:17] [Server thread/INFO]: Snjegovan lost connection: Disconnected
-[21:51:17] [Server thread/INFO]: Snjegovan left the game
+[20:51:19] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[20:51:19] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
+[20:51:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[20:51:20] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 1,177.7ms
+[20:51:24] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:entities/shulker@minecraft:loot_table}.pools[2].entries[0]: Missing element double_shulker_shells:entities/shulker of type minecraft:loot_table
+[20:51:24] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:entities/bat@minecraft:loot_table}.pools[2].entries[0]: Missing element bat_membranes:entities/bat of type minecraft:loot_table
+[20:51:24] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:entities/husk@minecraft:loot_table}.pools[2].entries[0]: Missing element husks_drop_sand:entities/husk of type minecraft:loot_table
+[20:51:24] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:entities/player@minecraft:loot_table}.pools[1].entries[0]: Missing element graves:entities/player of type minecraft:loot_table
+[20:51:24] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:entities/villager@minecraft:loot_table}.pools[2].entries[0]: Missing element villager_death:entities/villager of type minecraft:loot_table
+[20:51:26] [ServerMain/INFO]: Loaded 1910 recipes
+[20:51:26] [ServerMain/INFO]: Loaded 1925 advancements
+[20:51:27] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
+[20:51:27] [Server thread/INFO]: Starting minecraft server version 26.2
+[20:51:27] [Server thread/INFO]: Loading properties
+[20:51:27] [Server thread/INFO]: This server is running Paper version 26.2-126-ver/26.2@c646faf (2026-09-20T02:38:48Z) (Implementing API version 26.2.build.126-stable)
+[20:51:27] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[20:51:27] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:51:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:51:27] [Server thread/INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
+[20:51:28] [Server thread/INFO]: Default game type: SURVIVAL
+[20:51:28] [Server thread/INFO]: Generating keypair
+[20:51:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:51:28] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[20:51:28] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[20:51:28] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.5.0-SNAPSHOT-f0e959a
+[20:51:29] [Server thread/INFO]: [SideGate] Loading server plugin SideGate v1.2.3
+[20:51:29] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.5.0-SNAPSHOT-f0e959a
+[20:51:29] [Server thread/INFO]: Preparing level "world"
+[20:51:30] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[20:51:30] [Server thread/INFO]: Preparing spawn area: 100%
+[20:51:30] [Server thread/INFO]: Prepared spawn area in 16 ms
+[20:51:30] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[20:51:30] [Server thread/INFO]: Prepared spawn area in 11 ms
+[20:51:30] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[20:51:30] [Server thread/INFO]: Preparing spawn area: 100%
+[20:51:30] [Server thread/INFO]: Prepared spawn area in 13 ms
+[20:51:30] [Server thread/INFO]: Done preparing level "world" (0.889s)
+[20:51:30] [Server thread/INFO]: [SideGate] Enabling SideGate v1.2.3
+[20:51:30] [Server thread/INFO]: [SideGate] Config loaded. Auto-Detect: true
+[20:51:30] [Server thread/INFO]: [SideGate] Proxy mode: false
+[20:51:30] [Server thread/INFO]: [SideGate] Premium session failure action: KICK_WITH_MESSAGE
+[20:51:30] [Server thread/INFO]: [SideGate] Compatibility test status: verified on Paper 1.20.1, Spigot 1.20.1, Paper 1.21.11, and Purpur 26.1.2.
+[20:51:30] [Server thread/INFO]: [SideGate] Please report any issues on GitHub: https://github.com/TamKungZ/SideGate/issues
+[20:51:30] [Server thread/INFO]: [SideGate] SideGate enabled in standalone mode.
+[20:51:30] [Server thread/INFO]: [spark] Starting background profiler...
+[20:51:30] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
+[20:51:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:51:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:51:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:51:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:51:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:51:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:51:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:51:31] [Server thread/INFO]: Running delayed init tasks
+[20:51:31] [Server thread/INFO]: Done (22.497s)! For help, type "help"
+[20:51:31] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 3 builds behind ***
+[20:51:31] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
+[20:52:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:53:01] [Netty NIO IO #1/INFO]: [SideGate] Premium identity pre-check for Snjegovan: client UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8, Mojang UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[20:53:01] [Netty NIO IO #1/INFO]: [SideGate] Installed Premium session hook for Snjegovan.
+[20:53:01] [Netty NIO IO #1/INFO]: [SideGate] Detected Premium User: Snjegovan (passing to server)
+[20:53:02] [Netty NIO IO #1/INFO]: [SideGate] Verifying Premium session response for Snjegovan (net.minecraft.network.protocol.login.ServerboundKeyPacket).
+[20:53:02] [User Authenticator #0/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[20:53:05] [Server thread/INFO]: Snjegovan joined the game
+[20:53:05] [Server thread/INFO]: Snjegovan[/10.73.13.5:54806] logged in with entity id 38 at ([minecraft:overworld]-8.860014196582565, 66.0, -954.8228862164945)
+[20:59:04] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[20:59:04] [Server thread/INFO]: Snjegovan left the game
+[20:59:34] [Netty NIO IO #0/INFO]: [SideGate] Premium identity pre-check for Snjegovan: client UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8, Mojang UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[20:59:34] [Netty NIO IO #0/INFO]: [SideGate] Installed Premium session hook for Snjegovan.
+[20:59:34] [Netty NIO IO #0/INFO]: [SideGate] Detected Premium User: Snjegovan (passing to server)
+[20:59:34] [Netty NIO IO #0/INFO]: [SideGate] Verifying Premium session response for Snjegovan (net.minecraft.network.protocol.login.ServerboundKeyPacket).
+[20:59:35] [User Authenticator #1/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[20:59:36] [Server thread/INFO]: Snjegovan joined the game
+[20:59:36] [Server thread/INFO]: Snjegovan[/10.73.13.5:54857] logged in with entity id 2864 at ([minecraft:overworld]50.81531264724611, 64.0, -1153.7266713407341)
+[22:35:22] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[22:35:22] [Server thread/INFO]: Snjegovan left the game
+[22:36:22] [Server thread/INFO]: Server empty for 60 seconds, pausing
