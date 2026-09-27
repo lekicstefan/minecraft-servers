@@ -1,85 +1,294 @@
-[20:51:09] [ServerMain/INFO]: [bootstrap] Running Java 26 (Java HotSpot(TM) 64-Bit Server VM 26.0.1+8-34; Oracle Corporation null) on Windows 11 10.0 (amd64)
-[20:51:09] [ServerMain/INFO]: [bootstrap] Loading Paper 26.2-126-ver/26.2@c646faf (2026-09-20T02:38:48Z) for Minecraft 26.2
-[20:51:09] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[20:51:10] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
-[20:51:10] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+[13:56:10] [ServerMain/INFO]: [bootstrap] Running Java 26 (Java HotSpot(TM) 64-Bit Server VM 26.0.1+8-34; Oracle Corporation null) on Windows 11 10.0 (amd64)
+[13:56:10] [ServerMain/INFO]: [bootstrap] Loading Paper 26.2-126-ver/26.2@c646faf (2026-09-20T02:38:48Z) for Minecraft 26.2
+[13:56:10] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[13:56:11] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[13:56:11] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
  - ProtocolLib (5.5.0-SNAPSHOT-f0e959a)
-[20:51:10] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
- - SideGate (1.2.3)
-[20:51:19] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[20:51:19] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
-[20:51:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[20:51:20] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 1,177.7ms
-[20:51:24] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:entities/shulker@minecraft:loot_table}.pools[2].entries[0]: Missing element double_shulker_shells:entities/shulker of type minecraft:loot_table
-[20:51:24] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:entities/bat@minecraft:loot_table}.pools[2].entries[0]: Missing element bat_membranes:entities/bat of type minecraft:loot_table
-[20:51:24] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:entities/husk@minecraft:loot_table}.pools[2].entries[0]: Missing element husks_drop_sand:entities/husk of type minecraft:loot_table
-[20:51:24] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:entities/player@minecraft:loot_table}.pools[1].entries[0]: Missing element graves:entities/player of type minecraft:loot_table
-[20:51:24] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:entities/villager@minecraft:loot_table}.pools[2].entries[0]: Missing element villager_death:entities/villager of type minecraft:loot_table
-[20:51:26] [ServerMain/INFO]: Loaded 1910 recipes
-[20:51:26] [ServerMain/INFO]: Loaded 1925 advancements
-[20:51:27] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
-[20:51:27] [Server thread/INFO]: Starting minecraft server version 26.2
-[20:51:27] [Server thread/INFO]: Loading properties
-[20:51:27] [Server thread/INFO]: This server is running Paper version 26.2-126-ver/26.2@c646faf (2026-09-20T02:38:48Z) (Implementing API version 26.2.build.126-stable)
-[20:51:27] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[20:51:27] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:51:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:51:27] [Server thread/INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
-[20:51:28] [Server thread/INFO]: Default game type: SURVIVAL
-[20:51:28] [Server thread/INFO]: Generating keypair
-[20:51:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:51:28] [Server thread/INFO]: Paper: Using Java compression from Velocity.
-[20:51:28] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[20:51:28] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.5.0-SNAPSHOT-f0e959a
-[20:51:29] [Server thread/INFO]: [SideGate] Loading server plugin SideGate v1.2.3
-[20:51:29] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.5.0-SNAPSHOT-f0e959a
-[20:51:29] [Server thread/INFO]: Preparing level "world"
-[20:51:30] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
-[20:51:30] [Server thread/INFO]: Preparing spawn area: 100%
-[20:51:30] [Server thread/INFO]: Prepared spawn area in 16 ms
-[20:51:30] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
-[20:51:30] [Server thread/INFO]: Prepared spawn area in 11 ms
-[20:51:30] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
-[20:51:30] [Server thread/INFO]: Preparing spawn area: 100%
-[20:51:30] [Server thread/INFO]: Prepared spawn area in 13 ms
-[20:51:30] [Server thread/INFO]: Done preparing level "world" (0.889s)
-[20:51:30] [Server thread/INFO]: [SideGate] Enabling SideGate v1.2.3
-[20:51:30] [Server thread/INFO]: [SideGate] Config loaded. Auto-Detect: true
-[20:51:30] [Server thread/INFO]: [SideGate] Proxy mode: false
-[20:51:30] [Server thread/INFO]: [SideGate] Premium session failure action: KICK_WITH_MESSAGE
-[20:51:30] [Server thread/INFO]: [SideGate] Compatibility test status: verified on Paper 1.20.1, Spigot 1.20.1, Paper 1.21.11, and Purpur 26.1.2.
-[20:51:30] [Server thread/INFO]: [SideGate] Please report any issues on GitHub: https://github.com/TamKungZ/SideGate/issues
-[20:51:30] [Server thread/INFO]: [SideGate] SideGate enabled in standalone mode.
-[20:51:30] [Server thread/INFO]: [spark] Starting background profiler...
-[20:51:30] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
-[20:51:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:51:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:51:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:51:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:51:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:51:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:51:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[20:51:31] [Server thread/INFO]: Running delayed init tasks
-[20:51:31] [Server thread/INFO]: Done (22.497s)! For help, type "help"
-[20:51:31] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 3 builds behind ***
-[20:51:31] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
-[20:52:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[20:53:01] [Netty NIO IO #1/INFO]: [SideGate] Premium identity pre-check for Snjegovan: client UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8, Mojang UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[20:53:01] [Netty NIO IO #1/INFO]: [SideGate] Installed Premium session hook for Snjegovan.
-[20:53:01] [Netty NIO IO #1/INFO]: [SideGate] Detected Premium User: Snjegovan (passing to server)
-[20:53:02] [Netty NIO IO #1/INFO]: [SideGate] Verifying Premium session response for Snjegovan (net.minecraft.network.protocol.login.ServerboundKeyPacket).
-[20:53:02] [User Authenticator #0/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[20:53:05] [Server thread/INFO]: Snjegovan joined the game
-[20:53:05] [Server thread/INFO]: Snjegovan[/10.73.13.5:54806] logged in with entity id 38 at ([minecraft:overworld]-8.860014196582565, 66.0, -954.8228862164945)
-[20:59:04] [Server thread/INFO]: Snjegovan lost connection: Disconnected
-[20:59:04] [Server thread/INFO]: Snjegovan left the game
-[20:59:34] [Netty NIO IO #0/INFO]: [SideGate] Premium identity pre-check for Snjegovan: client UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8, Mojang UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[20:59:34] [Netty NIO IO #0/INFO]: [SideGate] Installed Premium session hook for Snjegovan.
-[20:59:34] [Netty NIO IO #0/INFO]: [SideGate] Detected Premium User: Snjegovan (passing to server)
-[20:59:34] [Netty NIO IO #0/INFO]: [SideGate] Verifying Premium session response for Snjegovan (net.minecraft.network.protocol.login.ServerboundKeyPacket).
-[20:59:35] [User Authenticator #1/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[20:59:36] [Server thread/INFO]: Snjegovan joined the game
-[20:59:36] [Server thread/INFO]: Snjegovan[/10.73.13.5:54857] logged in with entity id 2864 at ([minecraft:overworld]50.81531264724611, 64.0, -1153.7266713407341)
-[22:35:22] [Server thread/INFO]: Snjegovan lost connection: Disconnected
-[22:35:22] [Server thread/INFO]: Snjegovan left the game
-[22:36:22] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[13:56:11] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+ - InstantRestock (2.6.5), SideGate (1.2.3)
+[13:56:16] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[13:56:17] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
+[13:56:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[13:56:17] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 704.0ms
+[13:56:19] [Worker-Main-2/WARN]: Found loot table element validation problem in {minecraft:entities/shulker@minecraft:loot_table}.pools[2].entries[0]: Missing element double_shulker_shells:entities/shulker of type minecraft:loot_table
+[13:56:19] [Worker-Main-2/WARN]: Found loot table element validation problem in {minecraft:entities/bat@minecraft:loot_table}.pools[2].entries[0]: Missing element bat_membranes:entities/bat of type minecraft:loot_table
+[13:56:19] [Worker-Main-2/WARN]: Found loot table element validation problem in {minecraft:entities/husk@minecraft:loot_table}.pools[2].entries[0]: Missing element husks_drop_sand:entities/husk of type minecraft:loot_table
+[13:56:19] [Worker-Main-2/WARN]: Found loot table element validation problem in {minecraft:entities/player@minecraft:loot_table}.pools[1].entries[0]: Missing element graves:entities/player of type minecraft:loot_table
+[13:56:19] [Worker-Main-2/WARN]: Found loot table element validation problem in {minecraft:entities/villager@minecraft:loot_table}.pools[2].entries[0]: Missing element villager_death:entities/villager of type minecraft:loot_table
+[13:56:20] [ServerMain/INFO]: Loaded 1910 recipes
+[13:56:20] [ServerMain/INFO]: Loaded 1925 advancements
+[13:56:20] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
+[13:56:20] [Server thread/INFO]: Starting minecraft server version 26.2
+[13:56:20] [Server thread/INFO]: Loading properties
+[13:56:20] [Server thread/INFO]: This server is running Paper version 26.2-126-ver/26.2@c646faf (2026-09-20T02:38:48Z) (Implementing API version 26.2.build.126-stable)
+[13:56:20] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[13:56:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:56:20] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:56:21] [Server thread/INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
+[13:56:21] [Server thread/INFO]: Default game type: SURVIVAL
+[13:56:21] [Server thread/INFO]: Generating keypair
+[13:56:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:56:21] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[13:56:21] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[13:56:21] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.5.0-SNAPSHOT-f0e959a
+[13:56:22] [Server thread/INFO]: [SideGate] Loading server plugin SideGate v1.2.3
+[13:56:22] [Server thread/INFO]: [InstantRestock] Loading server plugin InstantRestock v2.6.5
+[13:56:22] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.5.0-SNAPSHOT-f0e959a
+[13:56:22] [Server thread/INFO]: Preparing level "world"
+[13:56:22] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[13:56:22] [Server thread/INFO]: Prepared spawn area in 2 ms
+[13:56:22] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[13:56:22] [Server thread/INFO]: Prepared spawn area in 1 ms
+[13:56:22] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[13:56:22] [Server thread/INFO]: Prepared spawn area in 1 ms
+[13:56:22] [Server thread/INFO]: Done preparing level "world" (0.663s)
+[13:56:22] [Server thread/INFO]: [SideGate] Enabling SideGate v1.2.3
+[13:56:22] [Server thread/INFO]: [SideGate] Config loaded. Auto-Detect: true
+[13:56:22] [Server thread/INFO]: [SideGate] Proxy mode: false
+[13:56:22] [Server thread/INFO]: [SideGate] Premium session failure action: KICK_WITH_MESSAGE
+[13:56:22] [Server thread/INFO]: [SideGate] Compatibility test status: verified on Paper 1.20.1, Spigot 1.20.1, Paper 1.21.11, and Purpur 26.1.2.
+[13:56:22] [Server thread/INFO]: [SideGate] Please report any issues on GitHub: https://github.com/TamKungZ/SideGate/issues
+[13:56:22] [Server thread/INFO]: [SideGate] SideGate enabled in standalone mode.
+[13:56:22] [Server thread/INFO]: [InstantRestock] Enabling InstantRestock v2.6.5
+[13:56:23] [Server thread/INFO]: [InstantRestock] Enabled InstantRestock!
+[13:56:23] [Server thread/INFO]: [spark] Starting background profiler...
+[13:56:23] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
+[13:56:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:56:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13:56:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13:56:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:56:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:56:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:56:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:56:23] [Server thread/INFO]: Running delayed init tasks
+[13:56:23] [Server thread/INFO]: Done (14.901s)! For help, type "help"
+[13:56:24] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 3 builds behind ***
+[13:56:24] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
+[13:57:23] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[13:58:40] [Netty NIO IO #2/INFO]: [SideGate] Premium identity pre-check for Snjegovan: client UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8, Mojang UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[13:58:40] [Netty NIO IO #2/INFO]: [SideGate] Installed Premium session hook for Snjegovan.
+[13:58:40] [Netty NIO IO #2/INFO]: [SideGate] Detected Premium User: Snjegovan (passing to server)
+[13:58:40] [Netty NIO IO #2/INFO]: [SideGate] Verifying Premium session response for Snjegovan (net.minecraft.network.protocol.login.ServerboundKeyPacket).
+[13:58:41] [User Authenticator #0/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[13:58:43] [Server thread/INFO]: Snjegovan joined the game
+[13:58:43] [Server thread/INFO]: Snjegovan[/10.73.13.5:53070] logged in with entity id 155 at ([minecraft:overworld]-30.219412985115124, 47.0, -1019.4802841223574)
+[14:56:43] [Server thread/INFO]: Villager Villager['Cleric'/7007, uuid='d0c521b1-7647-4d31-8ca5-817b2e1763e5', l='ServerLevel[world]', x=148.57, y=64.00, z=-945.58, cpos=[9, -60], tl=29764, v=true] died, message: 'Cleric was slain by Zombie'
+[14:56:54] [Server thread/INFO]: Villager Villager['Cartographer'/309, uuid='c69d4588-9a04-4a60-8bf2-8fb525a5835b', l='ServerLevel[world]', x=147.39, y=64.00, z=-949.10, cpos=[9, -60], tl=58741, v=true] died, message: 'Cartographer was slain by Zombie'
+[15:09:12] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[15:09:12] [Server thread/INFO]: Snjegovan left the game
+[15:10:12] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:30:15] [Netty NIO IO #0/INFO]: [SideGate] Premium identity pre-check for Snjegovan: client UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8, Mojang UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[15:30:15] [Netty NIO IO #0/INFO]: [SideGate] Installed Premium session hook for Snjegovan.
+[15:30:15] [Netty NIO IO #0/INFO]: [SideGate] Detected Premium User: Snjegovan (passing to server)
+[15:30:16] [Netty NIO IO #0/INFO]: [SideGate] Verifying Premium session response for Snjegovan (net.minecraft.network.protocol.login.ServerboundKeyPacket).
+[15:30:16] [User Authenticator #1/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[15:30:17] [Server thread/INFO]: Snjegovan joined the game
+[15:30:17] [Server thread/INFO]: Snjegovan[/10.73.13.5:54700] logged in with entity id 26588 at ([minecraft:overworld]-27.417926701281594, 54.0, -1032.869708783669)
+[16:47:57] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[16:47:57] [Server thread/INFO]: Snjegovan left the game
+[16:48:57] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:49:52] [Netty NIO IO #2/INFO]: [SideGate] Premium identity pre-check for Snjegovan: client UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8, Mojang UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[16:49:52] [Netty NIO IO #2/INFO]: [SideGate] Installed Premium session hook for Snjegovan.
+[16:49:52] [Netty NIO IO #2/INFO]: [SideGate] Detected Premium User: Snjegovan (passing to server)
+[16:49:53] [Netty NIO IO #2/INFO]: [SideGate] Verifying Premium session response for Snjegovan (net.minecraft.network.protocol.login.ServerboundKeyPacket).
+[16:49:53] [User Authenticator #2/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[16:49:54] [Server thread/INFO]: Snjegovan joined the game
+[16:49:54] [Server thread/INFO]: Snjegovan[/10.73.13.5:62896] logged in with entity id 46386 at ([minecraft:overworld]-28.286617808365527, 47.0, -1030.8888345208338)
+[16:51:03] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[16:51:03] [Server thread/INFO]: Snjegovan left the game
+[16:52:03] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:47:51] [Netty NIO IO #3/INFO]: [SideGate] Premium identity pre-check for Snjegovan: client UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8, Mojang UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[17:47:51] [Netty NIO IO #3/INFO]: [SideGate] Installed Premium session hook for Snjegovan.
+[17:47:51] [Netty NIO IO #3/INFO]: [SideGate] Detected Premium User: Snjegovan (passing to server)
+[17:47:51] [Netty NIO IO #3/INFO]: [SideGate] Verifying Premium session response for Snjegovan (net.minecraft.network.protocol.login.ServerboundKeyPacket).
+[17:47:52] [User Authenticator #3/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[17:47:54] [Server thread/INFO]: Snjegovan joined the game
+[17:47:54] [Server thread/INFO]: Snjegovan[/10.73.13.5:59179] logged in with entity id 48282 at ([minecraft:overworld]-27.459621490794145, 47.0, -1032.3379837373084)
+[18:05:08] [Netty NIO IO #2/INFO]: [SideGate] Allowing Guest Access: MakiMakson
+[18:05:08] [Server thread/INFO]: [SideGate] Post-auth advance: login state before invoke = ACCEPTED
+[18:05:08] [Server thread/INFO]: [SideGate] Post-auth advance: invoked verifyLoginAndFinishConnectionSetup(GameProfile) successfully
+[18:05:08] [Server thread/INFO]: [SideGate] Post-auth advance: login state after invoke = PROTOCOL_SWITCHING
+[18:05:08] [Server thread/INFO]: [SideGate] Guest Injected: MakiMakson
+[18:05:09] [Server thread/INFO]: MakiMakson joined the game
+[18:05:09] [Server thread/INFO]: MakiMakson[/10.73.13.35:36622] logged in with entity id 54220 at ([minecraft:overworld]-39.00568571744358, 54.0, -1024.822216871822)
+[18:06:43] [Server thread/WARN]: MakiMakson moved too quickly! -5.3569453403652965,1.7195000911093032,-8.28853194158637
+[18:34:15] [Server thread/INFO]: Villager Villager['Weaponsmith'/48231, uuid='fd33dd30-a6f0-4069-98ae-b00b5d5471a0', l='ServerLevel[world]', x=73.30, y=63.94, z=-1099.70, cpos=[4, -69], tl=55550, v=true] died, message: 'Weaponsmith was slain by Drowned'
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 3.227663469353274,0.0,-19.792139476756518
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 3.1928220117022192,0.0,-20.189364305532308
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 3.157315092332965,0.0,-20.586650816372412
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 3.1211978147382524,0.0,-20.98399164897603
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 3.084519772526164,0.0,-21.381380171622084
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 3.0473294141741007,0.0,-21.778810814367773
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 3.0096665295450293,0.0,-22.17627816193334
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 2.972265452178817,0.0,-22.573844950860746
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 2.9364158195112395,0.0,-22.971595125502915
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 2.903848192662963,0.0,-23.36956912491428
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 2.875929135799197,0.0,-23.76772149216447
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 2.8537216198587885,0.0,-24.165951916263452
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 2.8380217529449965,0.0,-24.56412890443596
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 2.8294080729576763,0.0,-24.962106002146868
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 2.8282711968790863,0.0,-25.35973453592885
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 2.8348484094979085,0.0,-25.756871490747187
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 2.8492510935814153,0.0,-26.153384833840448
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 2.87148941004466,0.0,-26.549156439806325
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 2.9014869952595745,0.0,-26.94408506590571
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 2.939105274632766,0.0,-27.338085129457113
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 2.984150385920202,0.0,-27.7310884834161
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 3.036390416580616,0.0,-28.123042285380848
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 3.0955634295610253,0.0,-28.51390854001113
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 3.1613846147897675,0.0,-28.903663266247747
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 3.2335599116065623,0.0,-29.292292924039714
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 3.3117836378708034,0.0,-29.679795717176034
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 3.3957472060669716,0.0,-30.066178876631398
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 3.485139667162457,0.0,-30.451458525257067
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 3.579658951266765,0.0,-30.835655435831825
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 3.679007543136322,0.0,-31.218796346757813
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 3.7828921831724074,0.0,-31.60091380880766
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 3.8910342908329767,0.0,-31.982041774288746
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 4.003161445683645,0.0,-32.36221849672671
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 4.119017546788427,0.0,-32.741482073704674
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 4.238354122266401,0.0,-33.119873472491975
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 4.360936733844255,0.0,-33.49743351616314
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 4.4865400698595295,0.0,-33.87420445518859
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 4.614954158148521,0.0,-34.25022700092495
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 4.745979317284537,0.0,-34.625542006895614
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 4.879428690744362,0.0,-35.00018904268893
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 5.015126982112179,0.0,-35.37420655960466
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 5.15290931397044,0.0,-35.747632047186414
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 5.292620203694241,0.0,-36.120502155474185
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 5.434112631422977,0.0,-36.49285281993309
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 5.577254256933884,0.0,-36.86471632287618
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 5.721918907153622,0.0,-37.23612469861672
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 5.8679894891563436,0.0,-37.60710826070141
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 6.01535708401093,0.0,-37.97769577771237
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 6.163920134969658,0.0,-38.34791464639011
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 6.313583716837002,0.0,-38.717791028817715
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 6.464262389488795,0.0,-39.08734845596814
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 6.615875734553583,0.0,-39.456609625635
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 6.768347855099364,0.0,-39.825596489475686
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 6.921610442026804,0.0,-40.194328792805436
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 7.0755985004736885,0.0,-40.56282584122715
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 7.230253533203268,0.0,-40.93110499860711
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 7.385519377892251,0.0,-41.299183430969435
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 7.541345488451043,0.0,-41.66707658773538
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 7.697686369675239,0.0,-42.03479836965846
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 7.854501075881444,0.0,-42.40236127996593
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 8.011749244869861,0.0,-42.76977811755745
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 8.169394550661536,0.0,-43.137060397717164
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 8.327404298013334,0.0,-43.50421848420052
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 8.485749061207798,0.0,-43.871261704387166
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 8.644398847875891,0.0,-44.23819999891407
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 8.803326664886526,0.0,-44.6050423106289
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 8.962511725783088,0.0,-44.97179514209893
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 9.121931815394419,0.0,-45.338465895355284
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 9.28156693820415,0.0,-45.70506122850054
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 9.441399100110857,0.0,-46.071587133826824
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 9.601408597200134,0.0,-46.438050554117694
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 9.761581203310243,0.0,-46.80445618815742
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 9.921904114896051,0.0,-47.17080826485176
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 10.08236230140642,0.0,-47.53711213993648
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 10.242945744568942,0.0,-47.90337108385296
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 10.40364191871572,0.0,-48.26958958971909
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 10.56444305624359,0.0,-48.63577015162008
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 10.725338660811985,0.0,-49.00191656395339
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 10.886319285714762,0.0,-49.36803224167659
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 11.047379936277139,0.0,-49.734118704805326
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 11.208512609931176,0.0,-50.10017887479978
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 11.36971010436605,0.0,-50.466215380974006
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 11.530969444863103,0.0,-50.83222903998984
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 11.692284446814483,0.0,-51.19822213656363
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 11.853649544073505,0.0,-51.56419672694011
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 12.01505972710811,0.0,-51.93015466173944
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 12.176510487339783,0.0,-52.29609760651971
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 12.337997767047682,0.0,-52.66202706028321
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 12.499517914283388,0.0,-53.02794437213191
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 12.661071149654163,0.0,-53.39384920281151
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 12.82265416434575,0.0,-53.759742800439255
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 12.98426398042534,0.0,-54.125626288320575
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 13.145897917753473,0.0,-54.491500677430395
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 13.307553564204682,0.0,-54.85736687764603
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 13.469228748866271,0.0,-55.223225707857125
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 13.630921517916704,0.0,-55.5890779050643
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 13.79263011291664,0.0,-55.954924132568124
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 13.954352951270721,0.0,-56.32076498733909
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 14.116088608643167,0.0,-56.68660100665056
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 14.277835803131893,0.0,-57.052432674048646
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 14.439593381025134,0.0,-57.418260424724735
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 14.601360303981892,0.0,-57.78408465035113
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 14.763135637495907,0.0,-58.14990570343292
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 14.924918540511044,0.0,-58.515723901224646
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 15.086708256077145,0.0,-58.88153952925535
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 15.248504102938796,0.0,-59.24735284450122
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 15.410305467966282,0.0,-59.6131640782408
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 15.57211179934302,0.0,-59.978973438624735
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 15.73392260043397,0.0,-60.34478111298864
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 15.895737424267509,0.0,-60.71058726993459
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 16.057555868569352,0.0,-61.07639206120439
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 16.219377571292625,0.0,-61.44219562336565
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 16.381202206594935,0.0,-61.80799807932931
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 16.543029481218355,0.0,-62.17379953971516
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 16.704859131230933,0.0,-62.53960010408099
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 16.866690919093344,0.0,-62.90539986202879
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 17.028528138381716,0.0,-63.271197344479674
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 17.19037024595309,0.0,-63.63699277898337
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 17.352216752979075,0.0,-64.0027863703346
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 17.514067219514118,0.0,-64.36857830284873
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 17.675921249607427,0.0,-64.73436874240946
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 17.837778486902835,0.0,-65.10015783831216
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 17.999638610680222,0.0,-65.46594572492268
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 18.16150133229121,0.0,-65.83173252317027
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 18.323366391952277,0.0,-66.19751834189128
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 18.485233555858485,0.0,-66.56330327903834
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 18.647102613585275,0.0,-66.92908742276887
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 18.80897337575061,0.0,-67.2948708524246
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 18.970845671910638,0.0,-67.66065363941294
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 19.13271934866566,0.0,-68.02643584800069
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 19.2945942679562,0.0,-68.39221753602794
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 19.456470305528683,0.0,-68.75799875555072
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 19.61834734955505,0.0,-69.12377955341952
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 19.780225299389713,0.0,-69.48955997179974
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 19.94210406445177,0.0,-69.85534004864024
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 20.103983563218662,0.0,-70.22111981809496
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 20.265863722319637,0.0,-70.58689931090254
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 20.42774447572151,0.0,-70.9526785547277
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 20.589625763994036,0.0,-71.31845757446865
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 20.751507533650056,0.0,-71.68423639253388
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 20.91338973655138,0.0,-72.0500150290909
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 21.075272329373547,0.0,-72.41579350229057
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 21.237155273124245,0.0,-72.7815718284686
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 21.39903853271062,0.0,-73.1473500223272
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 21.560922076549332,0.0,-73.51312809709827
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 21.722805876214807,0.0,-73.87890606469063
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 21.88468990612455,0.0,-74.24468393582208
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 22.046574143254247,0.0,-74.61046172013874
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 22.208458566881745,0.0,-74.97623942632208
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 22.370343158357173,0.0,-75.34201706218545
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 22.532227900896032,0.0,-75.70779463476089
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 22.694112779391617,0.0,-76.07357215037712
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 22.855997780248572,0.0,-76.43934961473008
+[18:52:15] [Server thread/WARN]: Spruce Boat (vehicle of MakiMakson) moved too quickly! 19.7561004140141,0.0,-57.410142081893184
+[19:14:43] [Server thread/INFO]: Villager Villager['Weaponsmith'/48494, uuid='a80886bd-fdea-42bd-b071-6715231745c0', l='ServerLevel[world]', x=78.38, y=62.00, z=-1098.51, cpos=[4, -69], tl=103806, v=true] died, message: 'Weaponsmith was slain by Zombie'
+[19:22:57] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[19:22:57] [Server thread/INFO]: Snjegovan left the game
+[19:26:45] [Server thread/WARN]: MakiMakson moved too quickly! -8.617368730008593,-1.0,5.395048500943858
+[19:27:41] [Server thread/INFO]: MakiMakson lost connection: Disconnected
+[19:27:41] [Server thread/INFO]: MakiMakson left the game
+[19:28:34] [Netty NIO IO #3/INFO]: [SideGate] Allowing Guest Access: MakiMakson
+[19:28:35] [Server thread/INFO]: [SideGate] Post-auth advance: login state before invoke = ACCEPTED
+[19:28:35] [Server thread/INFO]: [SideGate] Post-auth advance: invoked verifyLoginAndFinishConnectionSetup(GameProfile) successfully
+[19:28:35] [Server thread/INFO]: [SideGate] Post-auth advance: login state after invoke = PROTOCOL_SWITCHING
+[19:28:35] [Server thread/INFO]: [SideGate] Guest Injected: MakiMakson
+[19:28:38] [Server thread/INFO]: MakiMakson joined the game
+[19:28:38] [Server thread/INFO]: MakiMakson[/10.73.13.35:44412] logged in with entity id 101963 at ([minecraft:overworld]1774.681232217002, 62.53523861981122, -717.1477873560966)
+[19:29:25] [Server thread/INFO]: MakiMakson lost connection: Disconnected
+[19:29:25] [Server thread/INFO]: MakiMakson left the game
+[19:30:25] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:31:18] [Netty NIO IO #0/INFO]: [SideGate] Allowing Guest Access: MakiMakson
+[19:31:18] [Server thread/INFO]: [SideGate] Post-auth advance: login state before invoke = ACCEPTED
+[19:31:18] [Server thread/INFO]: [SideGate] Post-auth advance: invoked verifyLoginAndFinishConnectionSetup(GameProfile) successfully
+[19:31:18] [Server thread/INFO]: [SideGate] Post-auth advance: login state after invoke = PROTOCOL_SWITCHING
+[19:31:18] [Server thread/INFO]: [SideGate] Guest Injected: MakiMakson
+[19:31:18] [Server thread/INFO]: MakiMakson joined the game
+[19:31:18] [Server thread/INFO]: MakiMakson[/10.73.13.35:48584] logged in with entity id 102892 at ([minecraft:overworld]1758.0521866196248, 63.0091810750523, -720.5652297688897)
+[19:32:17] [Server thread/INFO]: MakiMakson lost connection: Disconnected
+[19:32:17] [Server thread/INFO]: MakiMakson left the game
