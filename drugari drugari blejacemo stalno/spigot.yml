@@ -50,7 +50,7 @@ world-settings:
     hopper-amount: 1
     hopper-can-load-chunks: false
     merge-radius:
-      exp: -1.0
+      exp: 3.0
       item: 0.5
     mob-spawn-range: 8
     item-despawn-rate: 6000
