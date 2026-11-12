@@ -43,6 +43,7 @@ messages:
   restart: Server is restarting
 world-settings:
   default:
+    seed-abandonedcamp: 91231127
     below-zero-generation-in-existing-chunks: true
     ticks-per:
       hopper-transfer: 8
