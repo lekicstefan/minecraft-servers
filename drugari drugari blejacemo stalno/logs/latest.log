@@ -1,218 +1,97 @@
-[11:56:58] [ServerMain/INFO]: [bootstrap] Running Java 25 (Java HotSpot(TM) 64-Bit Server VM 25.0.3+9-LTS-195; Oracle Corporation null) on Windows 10 10.0 (amd64)
-[11:56:58] [ServerMain/INFO]: [bootstrap] Loading Paper 26.3-246-main@b31b4b5 (2026-11-09T12:57:12Z) for Minecraft 26.3
-[11:56:58] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[11:56:58] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
-[11:56:58] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+[17:07:57] [ServerMain/INFO]: [bootstrap] Running Java 26 (Java HotSpot(TM) 64-Bit Server VM 26.0.1+8-34; Oracle Corporation null) on Windows 11 10.0 (amd64)
+[17:07:57] [ServerMain/INFO]: [bootstrap] Loading Paper 26.3-246-main@b31b4b5 (2026-11-09T12:57:12Z) for Minecraft 26.3
+[17:07:57] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[17:07:58] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[17:07:58] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
  - ProtocolLib (5.5.0-SNAPSHOT-f0e959a)
-[11:56:58] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+[17:07:58] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
  - InstantRestock (2.6.7), SideGate (1.2.3)
-[11:57:01] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[11:57:01] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
-[11:57:01] [ServerMain/INFO]: [com.destroystokyo.paper.profile.PaperServicesDiscoveryService] Environment: Environment[discoveryUrl=https://discovery.minecraftservices.com/minecraft/client, name=PROD]
-[11:57:01] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 280,7ms
-[11:57:03] [Worker-Main-5/INFO]: Loaded 2108 advancements
-[11:57:03] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
-[11:57:03] [Server thread/INFO]: Starting minecraft server version 26.3
-[11:57:03] [Server thread/INFO]: Loading properties
-[11:57:04] [Server thread/INFO]: This server is running Paper version 26.3-246-main@b31b4b5 (2026-11-09T12:57:12Z) (Implementing API version 26.3.build.246-stable)
-[11:57:04] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[11:57:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[11:57:04] [Server thread/INFO]: Using 4 threads for Netty based IO
-[11:57:04] [Server thread/INFO]: [MoonriseCommon] Paper is using 4 worker threads, 1 I/O threads
-[11:57:04] [Paper FMA initialiser/INFO]: [ca.spottedleaf.moonrise.common.util.FMA] FMA supported: true as determined by performance comparison test
-[11:57:04] [Server thread/INFO]: Default game type: SURVIVAL
-[11:57:04] [Server thread/INFO]: Generating keypair
-[11:57:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:57:04] [Server thread/INFO]: Paper: Using Java compression from Velocity.
-[11:57:04] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[11:57:05] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.5.0-SNAPSHOT-f0e959a
-[11:57:05] [Server thread/WARN]: [ProtocolLib] Version (MC: 26.3.0) has not yet been tested! Proceed with caution.
-[11:57:05] [Server thread/INFO]: [SideGate] Loading server plugin SideGate v1.2.3
-[11:57:05] [Server thread/INFO]: [InstantRestock] Loading server plugin InstantRestock v2.6.7
-[11:57:05] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.5.0-SNAPSHOT-f0e959a
-[11:57:05] [Server thread/INFO]: Preparing level "world"
-[11:57:06] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
-[11:57:06] [Server thread/INFO]: Preparing spawn area: 100%
-[11:57:06] [Server thread/INFO]: Prepared spawn area in 4 ms
-[11:57:06] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
-[11:57:06] [Server thread/INFO]: Prepared spawn area in 1 ms
-[11:57:06] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
-[11:57:06] [Server thread/INFO]: Prepared spawn area in 2 ms
-[11:57:06] [Server thread/INFO]: Done preparing level "world" (0.903s)
-[11:57:06] [Server thread/INFO]: [SideGate] Enabling SideGate v1.2.3
-[11:57:06] [Server thread/INFO]: [SideGate] Config loaded. Auto-Detect: true
-[11:57:06] [Server thread/INFO]: [SideGate] Proxy mode: false
-[11:57:06] [Server thread/INFO]: [SideGate] Premium session failure action: KICK_WITH_MESSAGE
-[11:57:06] [Server thread/INFO]: [SideGate] Compatibility test status: verified on Paper 1.20.1, Spigot 1.20.1, Paper 1.21.11, and Purpur 26.1.2.
-[11:57:06] [Server thread/INFO]: [SideGate] Please report any issues on GitHub: https://github.com/TamKungZ/SideGate/issues
-[11:57:06] [Server thread/INFO]: [SideGate] SideGate enabled in standalone mode.
-[11:57:06] [Server thread/INFO]: [InstantRestock] Enabling InstantRestock v2.6.7
-[11:57:06] [Server thread/INFO]: [InstantRestock] Enabled InstantRestock!
-[11:57:06] [Server thread/INFO]: [spark] Starting background profiler...
-[11:57:06] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows10/amd64), so the built-in Java engine will be used instead.
-[11:57:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[11:57:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[11:57:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[11:57:06] [Server thread/INFO]: Running delayed init tasks
-[11:57:06] [Server thread/INFO]: Done (9.169s)! For help, type "help"
-[11:57:07] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 3 builds behind ***
-[11:57:07] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
-[11:57:40] [Netty NIO IO #2/INFO]: [SideGate] Premium identity pre-check for xXxNerdSlayerxXx: client UUID=4ccfc04e-e9ae-4cf5-862a-925b985aad1b, Mojang UUID=4ccfc04e-e9ae-4cf5-862a-925b985aad1b
-[11:57:40] [Netty NIO IO #2/INFO]: [SideGate] Installed Premium session hook for xXxNerdSlayerxXx.
-[11:57:40] [Netty NIO IO #2/INFO]: [SideGate] Detected Premium User: xXxNerdSlayerxXx (passing to server)
-[11:57:40] [Netty NIO IO #2/INFO]: [SideGate] Verifying Premium session response for xXxNerdSlayerxXx (net.minecraft.network.protocol.login.ServerboundKeyPacket).
-[11:57:41] [Craft Scheduler Thread - 4 - SideGate/WARN]: [SideGate] Could not pre-verify Premium session; using normal server authentication: Cannot invoke "Object.getClass()" because "sessionService" is null
-[11:57:41] [User Authenticator #0/INFO]: UUID of player xXxNerdSlayerxXx is 4ccfc04e-e9ae-4cf5-862a-925b985aad1b
-[11:57:45] [Server thread/INFO]: System chat: xXxNerdSlayerxXx joined the game
-[11:57:45] [Server thread/INFO]: xXxNerdSlayerxXx[/10.73.13.88:54743] logged in with entity id 223 at ([minecraft:overworld]88.33578525802764, 66.0, -841.1845943945124)
-[11:59:43] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:00:10] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:00:38] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:01:10] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:03:12] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:04:03] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:10:44] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:12:16] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:13:37] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:14:26] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:20:32] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:21:00] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:21:18] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:21:27] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:21:33] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:21:51] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:24:13] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:25:09] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:26:13] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:28:33] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:28:49] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:28:56] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:29:04] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:29:11] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:29:23] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:29:57] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:32:31] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:33:18] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:35:51] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:36:27] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:36:32] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:36:39] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:36:49] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:37:04] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:37:08] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:37:32] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:37:54] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:38:14] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:39:39] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:39:57] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:41:06] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:41:34] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:41:47] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:42:12] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:42:17] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:42:24] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:43:07] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:43:12] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:43:15] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:43:45] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:43:47] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:44:11] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:44:52] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:45:02] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:45:16] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:45:24] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:45:39] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:45:47] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:45:51] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:46:00] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:46:12] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:46:19] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:46:24] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:46:33] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:47:23] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:47:40] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:48:28] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:49:07] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:49:29] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:49:38] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:50:01] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:50:42] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:50:49] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:50:59] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:51:25] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:51:52] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:52:07] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:52:33] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:53:31] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:53:47] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:54:07] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:55:12] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:55:57] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:56:09] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:56:57] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:57:26] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:57:41] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:57:54] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:57:58] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:58:14] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[12:58:18] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[12:59:44] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Survival Mode]
-[13:01:52] [Server thread/INFO]: System chat: [xXxNerdSlayerxXx: Set own game mode to Creative Mode]
-[13:06:13] [Server thread/INFO]: xXxNerdSlayerxXx lost connection: Disconnected
-[13:06:13] [Server thread/INFO]: System chat: xXxNerdSlayerxXx left the game
-[13:06:25] [Server thread/INFO]: System chat: Unknown or incomplete command. See below for error
-q<--[HERE]
-[13:06:29] [Server thread/INFO]: System chat: Unknown or incomplete command. See below for error
-c<--[HERE]
-[13:06:31] [Server thread/INFO]: System chat: Unknown or incomplete command. See below for error
-quit<--[HERE]
-[13:06:33] [Server thread/INFO]: System chat: Unknown or incomplete command. See below for error
-close<--[HERE]
-[13:06:35] [Server thread/INFO]: System chat: Unknown or incomplete command. See below for error
-exit<--[HERE]
-[13:06:38] [Server thread/INFO]: System chat: Unknown or incomplete command. See below for error
-z<--[HERE]
-[13:06:39] [Server thread/INFO]: System chat: Unknown or incomplete command. See below for error
-c<--[HERE]
-[13:06:40] [Server thread/INFO]: System chat: Unknown or incomplete command. See below for error
-q<--[HERE]
-[13:06:41] [Server thread/INFO]: System chat: Unknown or incomplete command. See below for error
-a<--[HERE]
-[13:06:41] [Server thread/INFO]: System chat: Unknown or incomplete command. See below for error
-z<--[HERE]
-[13:06:41] [Server thread/INFO]: System chat: Unknown or incomplete command. See below for error
-x<--[HERE]
-[13:06:42] [Server thread/INFO]: System chat: Unknown or incomplete command. See below for error
-c<--[HERE]
-[13:06:43] [Server thread/INFO]: Stopping server
-[13:06:43] [Server thread/INFO]: [InstantRestock] Disabling InstantRestock v2.6.7
-[13:06:43] [Server thread/INFO]: [InstantRestock] Disabled InstantRestock!
-[13:06:43] [Server thread/INFO]: [SideGate] Disabling SideGate v1.2.3
-[13:06:43] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.5.0-SNAPSHOT-f0e959a
-[13:06:43] [Server thread/INFO]: Saving players
-[13:06:43] [Server thread/INFO]: Saving worlds
-[13:06:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[13:06:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:overworld'
-[13:06:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:overworld'
-[13:06:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:overworld'
-[13:06:43] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:overworld' in 0,29s
-[13:06:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:overworld'
-[13:06:43] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:overworld'
-[13:06:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[13:06:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_nether'
-[13:06:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_nether'
-[13:06:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_nether'
-[13:06:44] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:the_nether' in 0,11s
-[13:06:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_nether'
-[13:06:44] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_nether'
-[13:06:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[13:06:45] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_end'
-[13:06:45] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_end'
-[13:06:45] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_end'
-[13:06:45] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:the_end' in 0,00s
-[13:06:45] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_end'
-[13:06:45] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_end'
-[13:06:45] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[13:06:45] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[13:06:45] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[13:06:45] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[17:08:02] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[17:08:02] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
+[17:08:02] [ServerMain/INFO]: [com.destroystokyo.paper.profile.PaperServicesDiscoveryService] Environment: Environment[discoveryUrl=https://discovery.minecraftservices.com/minecraft/client, name=PROD]
+[17:08:02] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 492.7ms
+[17:08:05] [Worker-Main-1/INFO]: Loaded 2108 advancements
+[17:08:05] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
+[17:08:05] [Server thread/INFO]: Starting minecraft server version 26.3
+[17:08:05] [Server thread/INFO]: Loading properties
+[17:08:05] [Server thread/INFO]: This server is running Paper version 26.3-246-main@b31b4b5 (2026-11-09T12:57:12Z) (Implementing API version 26.3.build.246-stable)
+[17:08:05] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[17:08:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:08:05] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:08:05] [Server thread/INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
+[17:08:05] [Paper FMA initialiser/INFO]: [ca.spottedleaf.moonrise.common.util.FMA] FMA supported: true as determined by performance comparison test
+[17:08:06] [Server thread/INFO]: Default game type: SURVIVAL
+[17:08:06] [Server thread/INFO]: Generating keypair
+[17:08:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:08:06] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[17:08:06] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[17:08:06] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.5.0-SNAPSHOT-f0e959a
+[17:08:06] [Server thread/WARN]: [ProtocolLib] Version (MC: 26.3.0) has not yet been tested! Proceed with caution.
+[17:08:06] [Server thread/INFO]: [SideGate] Loading server plugin SideGate v1.2.3
+[17:08:06] [Server thread/INFO]: [InstantRestock] Loading server plugin InstantRestock v2.6.7
+[17:08:06] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.5.0-SNAPSHOT-f0e959a
+[17:08:06] [Server thread/INFO]: Preparing level "world"
+[17:08:07] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[17:08:07] [Server thread/INFO]: Preparing spawn area: 100%
+[17:08:07] [Server thread/INFO]: Prepared spawn area in 3 ms
+[17:08:07] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[17:08:07] [Server thread/INFO]: Preparing spawn area: 100%
+[17:08:07] [Server thread/INFO]: Prepared spawn area in 4 ms
+[17:08:07] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[17:08:07] [Server thread/INFO]: Prepared spawn area in 2 ms
+[17:08:07] [Server thread/INFO]: Done preparing level "world" (0.595s)
+[17:08:07] [Server thread/INFO]: [SideGate] Enabling SideGate v1.2.3
+[17:08:07] [Server thread/INFO]: [SideGate] Config loaded. Auto-Detect: true
+[17:08:07] [Server thread/INFO]: [SideGate] Proxy mode: false
+[17:08:07] [Server thread/INFO]: [SideGate] Premium session failure action: KICK_WITH_MESSAGE
+[17:08:07] [Server thread/INFO]: [SideGate] Compatibility test status: verified on Paper 1.20.1, Spigot 1.20.1, Paper 1.21.11, and Purpur 26.1.2.
+[17:08:07] [Server thread/INFO]: [SideGate] Please report any issues on GitHub: https://github.com/TamKungZ/SideGate/issues
+[17:08:07] [Server thread/INFO]: [SideGate] SideGate enabled in standalone mode.
+[17:08:07] [Server thread/INFO]: [InstantRestock] Enabling InstantRestock v2.6.7
+[17:08:07] [Server thread/INFO]: [InstantRestock] Enabled InstantRestock!
+[17:08:08] [Server thread/INFO]: [spark] Starting background profiler...
+[17:08:08] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
+[17:08:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:08:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:08:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:08:08] [Server thread/INFO]: Running delayed init tasks
+[17:08:08] [Server thread/INFO]: Done (11.490s)! For help, type "help"
+[17:08:08] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 5 builds behind ***
+[17:08:08] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
+[17:09:08] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:09:11] [Netty NIO IO #2/INFO]: [SideGate] Premium identity pre-check for Snjegovan: client UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8, Mojang UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[17:09:11] [Netty NIO IO #2/INFO]: [SideGate] Installed Premium session hook for Snjegovan.
+[17:09:11] [Netty NIO IO #2/INFO]: [SideGate] Detected Premium User: Snjegovan (passing to server)
+[17:09:11] [Netty NIO IO #2/INFO]: [SideGate] Verifying Premium session response for Snjegovan (net.minecraft.network.protocol.login.ServerboundKeyPacket).
+[17:09:11] [Craft Scheduler Thread - 4 - SideGate/WARN]: [SideGate] Could not pre-verify Premium session; using normal server authentication: Cannot invoke "Object.getClass()" because "sessionService" is null
+[17:09:11] [User Authenticator #0/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[17:09:14] [Server thread/INFO]: System chat: Snjegovan joined the game
+[17:09:14] [Server thread/INFO]: Snjegovan[/10.73.13.5:55835] logged in with entity id 23 at ([minecraft:overworld]141.53793527610497, -59.0, -996.6999999880791)
+[17:29:13] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[17:29:13] [Server thread/INFO]: System chat: Snjegovan left the game
+[17:30:13] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:10:58] [Netty NIO IO #1/INFO]: [SideGate] Premium identity pre-check for Snjegovan: client UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8, Mojang UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[20:10:58] [Netty NIO IO #1/INFO]: [SideGate] Installed Premium session hook for Snjegovan.
+[20:10:58] [Netty NIO IO #1/INFO]: [SideGate] Detected Premium User: Snjegovan (passing to server)
+[20:10:58] [Netty NIO IO #1/INFO]: [SideGate] Verifying Premium session response for Snjegovan (net.minecraft.network.protocol.login.ServerboundKeyPacket).
+[20:10:58] [Craft Scheduler Thread - 5 - SideGate/WARN]: [SideGate] Could not pre-verify Premium session; using normal server authentication: Cannot invoke "Object.getClass()" because "sessionService" is null
+[20:10:59] [User Authenticator #1/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[20:11:00] [Server thread/INFO]: System chat: Snjegovan joined the game
+[20:11:00] [Server thread/INFO]: Snjegovan[/10.73.13.5:61027] logged in with entity id 6116 at ([minecraft:overworld]72.09508979062714, 64.0, -1037.1790018076956)
+[20:11:22] [Server thread/WARN]: Snjegovan moved too quickly! 12.783055682310362,0.0,5.114692583199826
+[20:42:03] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[20:42:03] [Server thread/INFO]: System chat: Snjegovan left the game
+[20:43:03] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:59:46] [Netty NIO IO #0/INFO]: [SideGate] Premium identity pre-check for Snjegovan: client UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8, Mojang UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[21:59:46] [Netty NIO IO #0/INFO]: [SideGate] Installed Premium session hook for Snjegovan.
+[21:59:46] [Netty NIO IO #0/INFO]: [SideGate] Detected Premium User: Snjegovan (passing to server)
+[21:59:47] [Netty NIO IO #0/INFO]: [SideGate] Verifying Premium session response for Snjegovan (net.minecraft.network.protocol.login.ServerboundKeyPacket).
+[21:59:47] [Craft Scheduler Thread - 6 - SideGate/WARN]: [SideGate] Could not pre-verify Premium session; using normal server authentication: Cannot invoke "Object.getClass()" because "sessionService" is null
+[21:59:47] [User Authenticator #2/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[21:59:48] [Server thread/INFO]: System chat: Snjegovan joined the game
+[21:59:48] [Server thread/INFO]: Snjegovan[/10.73.13.5:57085] logged in with entity id 15567 at ([minecraft:overworld]-28.19489581355439, 54.0, -1024.5124389556556)
+[22:56:40] [Server thread/INFO]: Snjegovan issued server command: /locate biome minecraft:jungle
+[22:56:40] [Server thread/INFO]: Locating element minecraft:jungle took 113 ms
+[23:03:55] [Server thread/WARN]: Snjegovan moved too quickly! -22.00643631183216,-8.33092031012471,-54.852474414689254
+[23:46:55] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[23:46:56] [Server thread/INFO]: System chat: Snjegovan left the game
