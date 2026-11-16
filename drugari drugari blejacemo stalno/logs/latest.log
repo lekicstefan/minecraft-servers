@@ -1,97 +1,117 @@
-[17:07:57] [ServerMain/INFO]: [bootstrap] Running Java 26 (Java HotSpot(TM) 64-Bit Server VM 26.0.1+8-34; Oracle Corporation null) on Windows 11 10.0 (amd64)
-[17:07:57] [ServerMain/INFO]: [bootstrap] Loading Paper 26.3-246-main@b31b4b5 (2026-11-09T12:57:12Z) for Minecraft 26.3
-[17:07:57] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[17:07:58] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
-[17:07:58] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+[10:21:41] [ServerMain/INFO]: [bootstrap] Running Java 26 (Java HotSpot(TM) 64-Bit Server VM 26.0.1+8-34; Oracle Corporation null) on Windows 11 10.0 (amd64)
+[10:21:41] [ServerMain/INFO]: [bootstrap] Loading Paper 26.3-246-main@b31b4b5 (2026-11-09T12:57:12Z) for Minecraft 26.3
+[10:21:41] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[10:21:43] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[10:21:43] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
  - ProtocolLib (5.5.0-SNAPSHOT-f0e959a)
-[17:07:58] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+[10:21:43] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
  - InstantRestock (2.6.7), SideGate (1.2.3)
-[17:08:02] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[17:08:02] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
-[17:08:02] [ServerMain/INFO]: [com.destroystokyo.paper.profile.PaperServicesDiscoveryService] Environment: Environment[discoveryUrl=https://discovery.minecraftservices.com/minecraft/client, name=PROD]
-[17:08:02] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 492.7ms
-[17:08:05] [Worker-Main-1/INFO]: Loaded 2108 advancements
-[17:08:05] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
-[17:08:05] [Server thread/INFO]: Starting minecraft server version 26.3
-[17:08:05] [Server thread/INFO]: Loading properties
-[17:08:05] [Server thread/INFO]: This server is running Paper version 26.3-246-main@b31b4b5 (2026-11-09T12:57:12Z) (Implementing API version 26.3.build.246-stable)
-[17:08:05] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[17:08:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:08:05] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:08:05] [Server thread/INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
-[17:08:05] [Paper FMA initialiser/INFO]: [ca.spottedleaf.moonrise.common.util.FMA] FMA supported: true as determined by performance comparison test
-[17:08:06] [Server thread/INFO]: Default game type: SURVIVAL
-[17:08:06] [Server thread/INFO]: Generating keypair
-[17:08:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:08:06] [Server thread/INFO]: Paper: Using Java compression from Velocity.
-[17:08:06] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[17:08:06] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.5.0-SNAPSHOT-f0e959a
-[17:08:06] [Server thread/WARN]: [ProtocolLib] Version (MC: 26.3.0) has not yet been tested! Proceed with caution.
-[17:08:06] [Server thread/INFO]: [SideGate] Loading server plugin SideGate v1.2.3
-[17:08:06] [Server thread/INFO]: [InstantRestock] Loading server plugin InstantRestock v2.6.7
-[17:08:06] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.5.0-SNAPSHOT-f0e959a
-[17:08:06] [Server thread/INFO]: Preparing level "world"
-[17:08:07] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
-[17:08:07] [Server thread/INFO]: Preparing spawn area: 100%
-[17:08:07] [Server thread/INFO]: Prepared spawn area in 3 ms
-[17:08:07] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
-[17:08:07] [Server thread/INFO]: Preparing spawn area: 100%
-[17:08:07] [Server thread/INFO]: Prepared spawn area in 4 ms
-[17:08:07] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
-[17:08:07] [Server thread/INFO]: Prepared spawn area in 2 ms
-[17:08:07] [Server thread/INFO]: Done preparing level "world" (0.595s)
-[17:08:07] [Server thread/INFO]: [SideGate] Enabling SideGate v1.2.3
-[17:08:07] [Server thread/INFO]: [SideGate] Config loaded. Auto-Detect: true
-[17:08:07] [Server thread/INFO]: [SideGate] Proxy mode: false
-[17:08:07] [Server thread/INFO]: [SideGate] Premium session failure action: KICK_WITH_MESSAGE
-[17:08:07] [Server thread/INFO]: [SideGate] Compatibility test status: verified on Paper 1.20.1, Spigot 1.20.1, Paper 1.21.11, and Purpur 26.1.2.
-[17:08:07] [Server thread/INFO]: [SideGate] Please report any issues on GitHub: https://github.com/TamKungZ/SideGate/issues
-[17:08:07] [Server thread/INFO]: [SideGate] SideGate enabled in standalone mode.
-[17:08:07] [Server thread/INFO]: [InstantRestock] Enabling InstantRestock v2.6.7
-[17:08:07] [Server thread/INFO]: [InstantRestock] Enabled InstantRestock!
-[17:08:08] [Server thread/INFO]: [spark] Starting background profiler...
-[17:08:08] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
-[17:08:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:08:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:08:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:08:08] [Server thread/INFO]: Running delayed init tasks
-[17:08:08] [Server thread/INFO]: Done (11.490s)! For help, type "help"
-[17:08:08] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 5 builds behind ***
-[17:08:08] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
-[17:09:08] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[17:09:11] [Netty NIO IO #2/INFO]: [SideGate] Premium identity pre-check for Snjegovan: client UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8, Mojang UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[17:09:11] [Netty NIO IO #2/INFO]: [SideGate] Installed Premium session hook for Snjegovan.
-[17:09:11] [Netty NIO IO #2/INFO]: [SideGate] Detected Premium User: Snjegovan (passing to server)
-[17:09:11] [Netty NIO IO #2/INFO]: [SideGate] Verifying Premium session response for Snjegovan (net.minecraft.network.protocol.login.ServerboundKeyPacket).
-[17:09:11] [Craft Scheduler Thread - 4 - SideGate/WARN]: [SideGate] Could not pre-verify Premium session; using normal server authentication: Cannot invoke "Object.getClass()" because "sessionService" is null
-[17:09:11] [User Authenticator #0/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[17:09:14] [Server thread/INFO]: System chat: Snjegovan joined the game
-[17:09:14] [Server thread/INFO]: Snjegovan[/10.73.13.5:55835] logged in with entity id 23 at ([minecraft:overworld]141.53793527610497, -59.0, -996.6999999880791)
-[17:29:13] [Server thread/INFO]: Snjegovan lost connection: Disconnected
-[17:29:13] [Server thread/INFO]: System chat: Snjegovan left the game
-[17:30:13] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[20:10:58] [Netty NIO IO #1/INFO]: [SideGate] Premium identity pre-check for Snjegovan: client UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8, Mojang UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[20:10:58] [Netty NIO IO #1/INFO]: [SideGate] Installed Premium session hook for Snjegovan.
-[20:10:58] [Netty NIO IO #1/INFO]: [SideGate] Detected Premium User: Snjegovan (passing to server)
-[20:10:58] [Netty NIO IO #1/INFO]: [SideGate] Verifying Premium session response for Snjegovan (net.minecraft.network.protocol.login.ServerboundKeyPacket).
-[20:10:58] [Craft Scheduler Thread - 5 - SideGate/WARN]: [SideGate] Could not pre-verify Premium session; using normal server authentication: Cannot invoke "Object.getClass()" because "sessionService" is null
-[20:10:59] [User Authenticator #1/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[20:11:00] [Server thread/INFO]: System chat: Snjegovan joined the game
-[20:11:00] [Server thread/INFO]: Snjegovan[/10.73.13.5:61027] logged in with entity id 6116 at ([minecraft:overworld]72.09508979062714, 64.0, -1037.1790018076956)
-[20:11:22] [Server thread/WARN]: Snjegovan moved too quickly! 12.783055682310362,0.0,5.114692583199826
-[20:42:03] [Server thread/INFO]: Snjegovan lost connection: Disconnected
-[20:42:03] [Server thread/INFO]: System chat: Snjegovan left the game
-[20:43:03] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[21:59:46] [Netty NIO IO #0/INFO]: [SideGate] Premium identity pre-check for Snjegovan: client UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8, Mojang UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[21:59:46] [Netty NIO IO #0/INFO]: [SideGate] Installed Premium session hook for Snjegovan.
-[21:59:46] [Netty NIO IO #0/INFO]: [SideGate] Detected Premium User: Snjegovan (passing to server)
-[21:59:47] [Netty NIO IO #0/INFO]: [SideGate] Verifying Premium session response for Snjegovan (net.minecraft.network.protocol.login.ServerboundKeyPacket).
-[21:59:47] [Craft Scheduler Thread - 6 - SideGate/WARN]: [SideGate] Could not pre-verify Premium session; using normal server authentication: Cannot invoke "Object.getClass()" because "sessionService" is null
-[21:59:47] [User Authenticator #2/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
-[21:59:48] [Server thread/INFO]: System chat: Snjegovan joined the game
-[21:59:48] [Server thread/INFO]: Snjegovan[/10.73.13.5:57085] logged in with entity id 15567 at ([minecraft:overworld]-28.19489581355439, 54.0, -1024.5124389556556)
-[22:56:40] [Server thread/INFO]: Snjegovan issued server command: /locate biome minecraft:jungle
-[22:56:40] [Server thread/INFO]: Locating element minecraft:jungle took 113 ms
-[23:03:55] [Server thread/WARN]: Snjegovan moved too quickly! -22.00643631183216,-8.33092031012471,-54.852474414689254
-[23:46:55] [Server thread/INFO]: Snjegovan lost connection: Disconnected
-[23:46:56] [Server thread/INFO]: System chat: Snjegovan left the game
+[10:21:50] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[10:21:51] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
+[10:21:51] [ServerMain/INFO]: [com.destroystokyo.paper.profile.PaperServicesDiscoveryService] Environment: Environment[discoveryUrl=https://discovery.minecraftservices.com/minecraft/client, name=PROD]
+[10:21:51] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 689.8ms
+[10:21:54] [Worker-Main-2/INFO]: Loaded 2108 advancements
+[10:21:55] [ServerMain/WARN]: resource-pack-id missing, using default of 7488ef7a-7ec7-30d1-be4d-a2bd198c472b
+[10:21:55] [Server thread/INFO]: Starting minecraft server version 26.3
+[10:21:55] [Server thread/INFO]: Loading properties
+[10:21:55] [Server thread/INFO]: This server is running Paper version 26.3-246-main@b31b4b5 (2026-11-09T12:57:12Z) (Implementing API version 26.3.build.246-stable)
+[10:21:55] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[10:21:55] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:21:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[10:21:55] [Server thread/INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
+[10:21:55] [Paper FMA initialiser/INFO]: [ca.spottedleaf.moonrise.common.util.FMA] FMA supported: true as determined by performance comparison test
+[10:21:56] [Server thread/INFO]: Default game type: SURVIVAL
+[10:21:56] [Server thread/INFO]: Generating keypair
+[10:21:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:21:56] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[10:21:56] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[10:21:56] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.5.0-SNAPSHOT-f0e959a
+[10:21:56] [Server thread/WARN]: [ProtocolLib] Version (MC: 26.3.0) has not yet been tested! Proceed with caution.
+[10:21:56] [Server thread/INFO]: [SideGate] Loading server plugin SideGate v1.2.3
+[10:21:56] [Server thread/INFO]: [InstantRestock] Loading server plugin InstantRestock v2.6.7
+[10:21:56] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.5.0-SNAPSHOT-f0e959a
+[10:21:56] [Server thread/INFO]: Preparing level "world"
+[10:21:57] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[10:21:57] [Server thread/INFO]: Prepared spawn area in 1 ms
+[10:21:57] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[10:21:57] [Server thread/INFO]: Prepared spawn area in 0 ms
+[10:21:57] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[10:21:57] [Server thread/INFO]: Prepared spawn area in 2 ms
+[10:21:57] [Server thread/INFO]: Done preparing level "world" (0.535s)
+[10:21:57] [Server thread/INFO]: [SideGate] Enabling SideGate v1.2.3
+[10:21:57] [Server thread/INFO]: [SideGate] Config loaded. Auto-Detect: true
+[10:21:57] [Server thread/INFO]: [SideGate] Proxy mode: false
+[10:21:57] [Server thread/INFO]: [SideGate] Premium session failure action: KICK_WITH_MESSAGE
+[10:21:57] [Server thread/INFO]: [SideGate] Compatibility test status: verified on Paper 1.20.1, Spigot 1.20.1, Paper 1.21.11, and Purpur 26.1.2.
+[10:21:57] [Server thread/INFO]: [SideGate] Please report any issues on GitHub: https://github.com/TamKungZ/SideGate/issues
+[10:21:57] [Server thread/INFO]: [SideGate] SideGate enabled in standalone mode.
+[10:21:57] [Server thread/INFO]: [InstantRestock] Enabling InstantRestock v2.6.7
+[10:21:57] [Server thread/INFO]: [InstantRestock] Enabled InstantRestock!
+[10:21:58] [Server thread/INFO]: [spark] Starting background profiler...
+[10:21:58] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
+[10:21:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:21:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10:21:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10:21:58] [Server thread/INFO]: Running delayed init tasks
+[10:21:58] [Server thread/INFO]: Done (18.602s)! For help, type "help"
+[10:21:58] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 7 builds behind ***
+[10:21:58] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
+[10:22:18] [Netty NIO IO #2/INFO]: [SideGate] Premium identity pre-check for Snjegovan: client UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8, Mojang UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[10:22:18] [Netty NIO IO #2/INFO]: [SideGate] Installed Premium session hook for Snjegovan.
+[10:22:18] [Netty NIO IO #2/INFO]: [SideGate] Detected Premium User: Snjegovan (passing to server)
+[10:22:18] [Netty NIO IO #2/INFO]: [SideGate] Verifying Premium session response for Snjegovan (net.minecraft.network.protocol.login.ServerboundKeyPacket).
+[10:22:18] [Craft Scheduler Thread - 1 - SideGate/WARN]: [SideGate] Could not pre-verify Premium session; using normal server authentication: Cannot invoke "Object.getClass()" because "sessionService" is null
+[10:22:19] [User Authenticator #0/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[10:22:22] [Server thread/INFO]: System chat: Snjegovan joined the game
+[10:22:23] [Server thread/INFO]: Snjegovan[/10.73.13.5:50620] logged in with entity id 144 at ([minecraft:overworld]55.662178830365825, 64.0, -1121.4935991441337)
+[10:22:38] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 78d45e69-722d-4e94-9d77-f7425ef558d6, mapped to Sheep['Sheep'/455, uuid='78d45e69-722d-4e94-9d77-f7425ef558d6', l='ServerLevel[world]', x=-175.64, y=79.00, z=-1302.20, cpos=[-11, -82], tl=0, v=true], can't add Sheep['Sheep'/545, uuid='78d45e69-722d-4e94-9d77-f7425ef558d6', l='ServerLevel[world]', x=-182.22, y=80.00, z=-1305.46, cpos=[-12, -82], tl=0, v=false]
+[10:42:26] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[10:42:26] [Server thread/INFO]: System chat: Snjegovan left the game
+[10:43:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[12:18:28] [Netty NIO IO #1/WARN]: [SideGate] Mojang API returned HTTP 429 for Snjegovan. Keeping online-mode authentication.
+[12:18:28] [User Authenticator #1/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[12:18:29] [Server thread/INFO]: System chat: Snjegovan joined the game
+[12:18:29] [Server thread/INFO]: Snjegovan[/10.73.13.5:59192] logged in with entity id 10918 at ([minecraft:overworld]-25.5, 54.0, -1035.5)
+[12:57:13] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[12:57:13] [Server thread/INFO]: System chat: Snjegovan left the game
+[12:58:15] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[13:09:31] [Netty NIO IO #0/INFO]: [SideGate] Premium identity pre-check for Snjegovan: client UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8, Mojang UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[13:09:31] [Netty NIO IO #0/INFO]: [SideGate] Installed Premium session hook for Snjegovan.
+[13:09:31] [Netty NIO IO #0/INFO]: [SideGate] Detected Premium User: Snjegovan (passing to server)
+[13:09:31] [Server thread/INFO]: Snjegovan (/10.73.13.5:59574) lost connection: Disconnected
+[13:10:07] [Netty NIO IO #3/INFO]: [SideGate] Premium identity pre-check for Snjegovan: client UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8, Mojang UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[13:10:07] [Netty NIO IO #3/INFO]: [SideGate] Installed Premium session hook for Snjegovan.
+[13:10:07] [Netty NIO IO #3/INFO]: [SideGate] Detected Premium User: Snjegovan (passing to server)
+[13:10:08] [Netty NIO IO #3/INFO]: [SideGate] Verifying Premium session response for Snjegovan (net.minecraft.network.protocol.login.ServerboundKeyPacket).
+[13:10:08] [Craft Scheduler Thread - 4 - SideGate/WARN]: [SideGate] Could not pre-verify Premium session; using normal server authentication: Cannot invoke "Object.getClass()" because "sessionService" is null
+[13:10:08] [User Authenticator #2/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[13:10:09] [Server thread/INFO]: System chat: Snjegovan joined the game
+[13:10:09] [Server thread/INFO]: Snjegovan[/10.73.13.5:59582] logged in with entity id 20858 at ([minecraft:overworld]-39.2077506157522, 46.0, -1027.3760362362132)
+[13:25:38] [Server thread/INFO]: Snjegovan issued server command: /locate biome minecraft:sulfur_caves
+[13:25:38] [Server thread/INFO]: Locating element minecraft:sulfur_caves took 30 ms
+[13:26:15] [Server thread/WARN]: Snjegovan moved too quickly! -22.633673435363193,-3.632758713834164,-23.198577190261858
+[14:23:39] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[14:23:39] [Server thread/INFO]: System chat: Snjegovan left the game
+[14:24:39] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[14:50:30] [Netty NIO IO #0/INFO]: [SideGate] Premium identity pre-check for Snjegovan: client UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8, Mojang UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[14:50:30] [Netty NIO IO #0/INFO]: [SideGate] Installed Premium session hook for Snjegovan.
+[14:50:30] [Netty NIO IO #0/INFO]: [SideGate] Detected Premium User: Snjegovan (passing to server)
+[14:50:31] [Netty NIO IO #0/INFO]: [SideGate] Verifying Premium session response for Snjegovan (net.minecraft.network.protocol.login.ServerboundKeyPacket).
+[14:50:31] [Craft Scheduler Thread - 5 - SideGate/WARN]: [SideGate] Could not pre-verify Premium session; using normal server authentication: Cannot invoke "Object.getClass()" because "sessionService" is null
+[14:50:31] [User Authenticator #3/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[14:50:32] [Server thread/INFO]: System chat: Snjegovan joined the game
+[14:50:32] [Server thread/INFO]: Snjegovan[/10.73.13.5:60409] logged in with entity id 36755 at ([minecraft:overworld]-37.528166745414204, 46.0, -1024.252437292014)
+[15:14:40] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[15:14:40] [Server thread/INFO]: System chat: Snjegovan left the game
+[15:15:40] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:06:20] [Netty NIO IO #2/INFO]: [SideGate] Premium identity pre-check for Snjegovan: client UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8, Mojang UUID=dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[16:06:20] [Netty NIO IO #2/INFO]: [SideGate] Installed Premium session hook for Snjegovan.
+[16:06:20] [Netty NIO IO #2/INFO]: [SideGate] Detected Premium User: Snjegovan (passing to server)
+[16:06:21] [Netty NIO IO #2/INFO]: [SideGate] Verifying Premium session response for Snjegovan (net.minecraft.network.protocol.login.ServerboundKeyPacket).
+[16:06:21] [Craft Scheduler Thread - 6 - SideGate/WARN]: [SideGate] Could not pre-verify Premium session; using normal server authentication: Cannot invoke "Object.getClass()" because "sessionService" is null
+[16:06:21] [User Authenticator #4/INFO]: UUID of player Snjegovan is dd1ac9e9-1bc5-4f25-acc8-fe0a884516c8
+[16:06:22] [Server thread/INFO]: System chat: Snjegovan joined the game
+[16:06:22] [Server thread/INFO]: Snjegovan[/10.73.13.5:61270] logged in with entity id 42221 at ([minecraft:overworld]-26.151241377676563, 54.0, -1024.9524150298948)
+[16:13:23] [Server thread/INFO]: Snjegovan lost connection: Disconnected
+[16:13:23] [Server thread/INFO]: System chat: Snjegovan left the game
+[16:14:22] [Server thread/INFO]: Server empty for 60 seconds, pausing
